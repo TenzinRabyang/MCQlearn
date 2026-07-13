@@ -1,0 +1,327 @@
+[
+  {
+    "id": "pilot-drug-admin-q1",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "According to the lecture text, which of the following perfectly defines a \"Medication Error\"?",
+    "options": [
+      "Any unpreventable physiological complication directly triggered by a correctly processed medication",
+      "Any Patient Safety Incident (PSI) where there has been an error in prescribing, preparing, dispensing, administering, monitoring, or providing advice on medicines",
+      "A purely administrative discrepancy that does not involve clinical delivery or monitoring steps",
+      "An unavoidable chemical interaction occurring exclusively during multi-drug clinical trials"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q2",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "The lecture explicitly highlights that medication errors are structurally distinct from which of the following?",
+    "options": [
+      "Patient Safety Incidents (PSI)",
+      "Adverse drug reactions",
+      "Human factor variations",
+      "Weak organizational medication systems"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q3",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "Which list comprises the three specific \"Human Factors\" explicitly listed in the curriculum slides to consider when processes are affected?",
+    "options": [
+      "Inexperience, poor motivation, lack of attention",
+      "Fatigue, environmental conditions, staffing levels",
+      "Age, cognitive background, language barriers",
+      "Technical baseline, communication layout, ward history"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q4",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "How many medication errors are estimated to be made every single year in England?",
+    "options": [
+      "Over 50 million",
+      "Over 110 million",
+      "Over 180 million",
+      "Over 237 million"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q5",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "The avoidable consequences of medication errors cost the NHS upwards of how much money every year?",
+    "options": [
+      "\u00a312 million",
+      "\u00a345 million",
+      "\u00a371 million",
+      "\u00a398 million"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q6",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "The avoidable consequences of medication errors are estimated to cost how many lives every year in England?",
+    "options": [
+      "500+ lives",
+      "1,000+ lives",
+      "1,700+ lives",
+      "2,500+ lives"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q7",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "According to research statistics presented in the slides, over half (54%) of all medication errors occur at which stage of the process?",
+    "options": [
+      "The point of prescribing",
+      "The point of dispensing",
+      "The point of administration",
+      "The point of preparing"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q8",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "What percentage of total medication errors are made during the prescribing stage?",
+    "options": [
+      "16%",
+      "21%",
+      "38%",
+      "42%"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q9",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "Despite covering fewer patients than other sectors, which sector exhibits the highest error rates at 42%?",
+    "options": [
+      "Primary care",
+      "Hospitals",
+      "Care homes",
+      "Outpatient clinics"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q10",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "Researchers estimate that nearly 3 out of 4 medication errors (72%) fall under which severity classification?",
+    "options": [
+      "Minor",
+      "Moderate harm potential",
+      "Serious harm potential",
+      "Fatal potential"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q11",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "What percentage of medication errors are estimated to have the explicit potential to cause serious harm?",
+    "options": [
+      "2%",
+      "16%",
+      "21%",
+      "26%"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q12",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "Which of the following medications is listed first as most often implicated in hospital admissions attributable to medication errors?",
+    "options": [
+      "Inhaled corticosteroids",
+      "Non-steroidal anti-inflammatories (NSAIDs)",
+      "Water tablets (diuretics)",
+      "Cardiac glycosides"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q13",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "According to NHS Resolution initial data for litigation claims, which specific medication class was implicated in the highest number of claims (104)?",
+    "options": [
+      "Antimicrobials",
+      "Opiates",
+      "Anticoagulants",
+      "Insulin"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q14",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "The Nursing and Midwifery Council's (NMC) (2018) Code explicitly mandates that nurses must execute which primary action?",
+    "options": [
+      "Prioritize the completion of unit audit records over external patient interactions",
+      "Put the interests of people using or needing nursing services first",
+      "Delegate all medication preparation steps to student tiers under all circumstances",
+      "Decline medication administration if any human factor variations are present on the ward"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q15",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "Based on the framework provided by Ofosu and Jarrett (2015), which three elements are grouped together as core causes behind medication errors?",
+    "options": [
+      "Weak infrastructure, poor illumination, system failures",
+      "Interruptions and distractions, poor drug calculations, inadequate education and compliance",
+      "Incompetence, callousness, system negligence",
+      "Unclear prescriptions, wrong frequency, omitted drugs"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q16",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "The lecture presents a tragic case example where a patient died following an incorrect route error. What specifically occurred?",
+    "options": [
+      "An intravenous solution was connected to an enteral feeding tube line",
+      "A patient received an oral antibiotic tablet crushed in water via an intravenous infusion",
+      "An intramuscular injection was given sub-dermally into the patient's heel zone",
+      "A nebulizer drug was completely replaced with an oral syrup mix"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q17",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "What are the strict supervision parameters defined by the NMC for student nurses regarding medication administration or supply?",
+    "options": [
+      "Independent execution once the second year of study is fully completed",
+      "Indirect supervision via telephone check-ins by a qualified staff tier",
+      "Student nurses must NEVER administer or supply medicinal products without DIRECT supervision",
+      "Peer-to-peer supervision alongside another student nurse from the same cohort block"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q18",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "What is the immediate initial step that must be taken the moment a medication error is identified?",
+    "options": [
+      "Complete a full local Datix event log before approaching the patient bed",
+      "Stop the medication and revert the effect (if possible!) and monitor the patient\u2019s status",
+      "Contact the family immediately to gain explicit informed consent to proceed",
+      "Review the Yellow Card scheme logs to determine if it requires national alert escalation"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q19",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "Under the \"10 Rs of Drug Administration\" framework, which of the following is highlighted as a critical action under \"1. Right Patient\"?",
+    "options": [
+      "Check the name on the prescription and wristband, using 2 or more identifiers and asking the patient to identify themselves",
+      "Verify the room and bay configuration number exclusively",
+      "Rely completely on verbal confirmation from a peer staff tier during handover",
+      "Cross-reference the patient chart against the shift entry index log numbers only"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q20",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "Under \"2. Right Drug\", what explicit instruction is given regarding medication naming conventions?",
+    "options": [
+      "Brand names should be preferred because they prevent formatting errors",
+      "Brand names should be avoided, and the generic name of the medication must be verified",
+      "Only the localized abbreviated slang title should be verified across drug cups",
+      "The chemical formula string must be manually transcribed into the chart"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q21",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "What is the study of how the body interacts with administered substances for the entire duration of exposure?",
+    "options": [
+      "Pharmacodynamics",
+      "Pharmacokinetics",
+      "Biotransformation",
+      "Capillary permeability"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q22",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "According to the pharmacokinetics layout slide, which organ serves as the \"Main\" excretory organ?",
+    "options": [
+      "Lung",
+      "Skin",
+      "Liver",
+      "Kidneys"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q23",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "What is the mandatory timeline rule regarding chart verification under \"10. Right Response or Outcome (Documentation)\"?",
+    "options": [
+      "Ensure you have signed for the medication immediately BEFORE approaching the bay zone",
+      "Ensure you have signed for the medication AFTER it has been administered",
+      "Sign for all scheduled medications in a single block task at the end of the full shift window",
+      "Sign the chart only after the next shift nurse co-signs the verification log"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q24",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "A study carried out in 2010 by McMullan et al. demonstrated that what percentage of nursing students failed the initial drug calculation test?",
+    "options": [
+      "45%",
+      "55%",
+      "89%",
+      "92%"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "pilot-drug-admin-q25",
+    "category": "Drug Administration Roles & Responsibilities",
+    "question": "The 2010 calculation error study noted that independent of status or experience, which demographic group was statistically significantly more able to perform numerical calculations?",
+    "options": [
+      "Older participants (\u2265 35 years)",
+      "Younger participants (\u2264 21 years)",
+      "Participants with less than one year of practice experience",
+      "Student nurses who prepared primarily via online formula modules"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  }
+]
