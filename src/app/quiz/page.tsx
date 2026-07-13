@@ -25,11 +25,17 @@ export default function QuizPage() {
   const [timeLeft, setTimeLeft] = useState(settings.timePerQuestion);
   const timerRef = useRef<NodeJS.Timeout>(null);
 
+  const [mounted, setMounted] = useState(false);
+
   useEffect(() => {
-    if (!isActive || questions.length === 0) {
+    setMounted(true);
+  }, []);
+
+  useEffect(() => {
+    if (mounted && (!isActive || questions.length === 0)) {
       router.push("/");
     }
-  }, [isActive, questions.length, router]);
+  }, [mounted, isActive, questions.length, router]);
 
   useEffect(() => {
     // Reset timer when question changes
@@ -58,6 +64,15 @@ export default function QuizPage() {
       if (timerRef.current) clearInterval(timerRef.current);
     };
   }, [currentIndex, isAnswered, isActive, questions, answerQuestion, incrementTimeSpent]);
+
+  if (!mounted) {
+    return (
+      <div className="flex flex-col h-full justify-center items-center space-y-4">
+        <div className="w-16 h-16 border-4 border-slate-200 border-t-slate-700 dark:border-slate-700 dark:border-t-slate-300 rounded-full animate-spin"></div>
+        <p className="text-[var(--text-muted)] animate-pulse">Loading Quiz...</p>
+      </div>
+    );
+  }
 
   if (!isActive || questions.length === 0) return null;
 

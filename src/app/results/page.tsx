@@ -15,12 +15,24 @@ export default function ResultsPage() {
 
   useEffect(() => {
     setMounted(true);
-    if (history.length === 0) {
+  }, []);
+
+  useEffect(() => {
+    if (mounted && history.length === 0) {
       router.push("/");
     }
-  }, [history.length, router]);
+  }, [mounted, history.length, router]);
 
-  if (!mounted || history.length === 0) return null;
+  if (!mounted) {
+    return (
+      <div className="flex flex-col h-full justify-center items-center space-y-4">
+        <div className="w-16 h-16 border-4 border-slate-200 border-t-slate-700 dark:border-slate-700 dark:border-t-slate-300 rounded-full animate-spin"></div>
+        <p className="text-[var(--text-muted)] animate-pulse">Loading Results...</p>
+      </div>
+    );
+  }
+
+  if (history.length === 0) return null;
 
   const latestResult = history[0];
   const allQuestions = questionsData as Question[];
