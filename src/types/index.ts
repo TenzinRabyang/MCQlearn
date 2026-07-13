@@ -28,6 +28,7 @@ export interface QuizState {
   bookmarkedIds: string[];
   history: QuizHistoryEntry[];
   settings: QuizSettings;
+  hasHydrated: boolean;
   
   // Active Quiz State
   isActive: boolean;
@@ -38,6 +39,7 @@ export interface QuizState {
   answers: Record<string, number>; // questionId -> selectedOptionIndex
   isAnswered: boolean; // whether current question has been answered
   timeSpent: number; // total time spent in seconds
+  currentTimeLeft: number;
   
   // Actions
   toggleBookmark: (id: string) => void;
@@ -48,4 +50,8 @@ export interface QuizState {
   finishQuiz: () => void;
   resetQuiz: () => void;
   incrementTimeSpent: () => void;
+  decrementCurrentTimeLeft: () => void;
+  resetCurrentTimeLeft: () => void;
+  clearAllActivity: () => void;
+  setHasHydrated: (value: boolean) => void;
 }

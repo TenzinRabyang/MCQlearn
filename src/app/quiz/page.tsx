@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { useQuizStore } from "@/store/useQuizStore";
-import { Bookmark, BookmarkCheck, ArrowRight, Clock, AlertCircle } from "lucide-react";
+import { Bookmark, BookmarkCheck, ArrowRight, Clock, AlertCircle, House } from "lucide-react";
 
 export default function QuizPage() {
   const router = useRouter();
@@ -19,10 +19,11 @@ export default function QuizPage() {
     answerQuestion,
     nextQuestion,
     finishQuiz,
-    incrementTimeSpent
+    incrementTimeSpent,
+    decrementCurrentTimeLeft,
+    currentTimeLeft,
+    hasHydrated,
   } = useQuizStore();
-
-  const [timeLeft, setTimeLeft] = useState(settings.timePerQuestion);
 
   const [mounted, setMounted] = useState(false);
 
@@ -31,15 +32,10 @@ export default function QuizPage() {
   }, []);
 
   useEffect(() => {
-    if (mounted && (!isActive || questions.length === 0)) {
+    if (mounted && hasHydrated && (!isActive || questions.length === 0)) {
       router.push("/");
     }
-  }, [mounted, isActive, questions.length, router]);
-
-  useEffect(() => {
-    // Reset timer when question changes
-    setTimeLeft(settings.timePerQuestion);
-  }, [currentIndex, settings.timePerQuestion]);
+  }, [mounted, hasHydrated, isActive, questions.length, router]);
 
   useEffect(() => {
     if (!isActive || isAnswered) {
@@ -48,19 +44,19 @@ export default function QuizPage() {
 
     const timer = setInterval(() => {
       incrementTimeSpent();
-      setTimeLeft((prev) => prev - 1);
+      decrementCurrentTimeLeft();
     }, 1000);
 
     return () => clearInterval(timer);
-  }, [isActive, isAnswered, incrementTimeSpent]);
+  }, [isActive, isAnswered, incrementTimeSpent, decrementCurrentTimeLeft]);
 
   useEffect(() => {
-    if (timeLeft <= 0 && !isAnswered && questions.length > 0) {
+    if (currentTimeLeft <= 0 && !isAnswered && questions.length > 0) {
       answerQuestion(questions[currentIndex].id, -1); // -1 means timeout/unanswered
     }
-  }, [timeLeft, isAnswered, answerQuestion, questions, currentIndex]);
+  }, [currentTimeLeft, isAnswered, answerQuestion, questions, currentIndex]);
 
-  if (!mounted) {
+  if (!mounted || !hasHydrated) {
     return (
       <div className="flex flex-col h-full justify-center items-center space-y-4">
         <div className="w-16 h-16 border-4 border-slate-200 border-t-slate-700 dark:border-slate-700 dark:border-t-slate-300 rounded-full animate-spin"></div>
@@ -107,8 +103,12 @@ export default function QuizPage() {
     return "border-[var(--border-color)] opacity-50";
   };
 
-  const timerPercentage = (timeLeft / settings.timePerQuestion) * 100;
-  const isLowTime = timeLeft <= 5 && !isAnswered;
+  const handleSaveAndExit = () => {
+    router.push("/");
+  };
+
+  const timerPercentage = (currentTimeLeft / settings.timePerQuestion) * 100;
+  const isLowTime = currentTimeLeft <= 5 && !isAnswered;
 
   return (
     <div className="flex flex-col h-full animate-in slide-in-from-bottom-4 duration-500 pb-8">
@@ -123,17 +123,26 @@ export default function QuizPage() {
           </span>
         </div>
         
-        <button 
-          onClick={() => toggleBookmark(currentQ.id)}
-          className="p-2 rounded-full hover:bg-slate-200 dark:hover:bg-slate-800 transition-colors"
-          aria-label="Bookmark question"
-        >
-          {isBookmarked ? (
-            <BookmarkCheck className="w-6 h-6 text-amber-500" />
-          ) : (
-            <Bookmark className="w-6 h-6 text-slate-400" />
-          )}
-        </button>
+        <div className="flex items-center gap-2">
+          <button
+            onClick={handleSaveAndExit}
+            className="inline-flex items-center gap-2 rounded-full px-3 py-2 text-sm font-medium text-[var(--text-muted)] transition hover:bg-slate-200 dark:hover:bg-slate-800"
+          >
+            <House className="h-4 w-4" />
+            Save & Exit
+          </button>
+          <button 
+            onClick={() => toggleBookmark(currentQ.id)}
+            className="p-2 rounded-full hover:bg-slate-200 dark:hover:bg-slate-800 transition-colors"
+            aria-label="Bookmark question"
+          >
+            {isBookmarked ? (
+              <BookmarkCheck className="w-6 h-6 text-amber-500" />
+            ) : (
+              <Bookmark className="w-6 h-6 text-slate-400" />
+            )}
+          </button>
+        </div>
       </header>
 
       {/* Timer Bar */}
@@ -147,8 +156,9 @@ export default function QuizPage() {
       <div className="flex items-center justify-between mb-8">
         <div className={`flex items-center space-x-2 font-medium ${isLowTime ? 'text-red-500 animate-pulse' : 'text-[var(--text-muted)]'}`}>
           <Clock className="w-5 h-5" />
-          <span>00:{timeLeft.toString().padStart(2, '0')}</span>
+          <span>00:{currentTimeLeft.toString().padStart(2, '0')}</span>
         </div>
+        <span className="text-sm text-[var(--text-muted)]">Progress saves automatically</span>
       </div>
 
       {/* Question */}

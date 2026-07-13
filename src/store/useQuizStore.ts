@@ -4,7 +4,7 @@ import { QuizState, Question, QuizHistoryEntry } from '@/types';
 
 export const useQuizStore = create<QuizState>()(
   persist(
-    (set, get) => ({
+    (set) => ({
       // Global App State
       bookmarkedIds: [],
       history: [],
@@ -12,6 +12,7 @@ export const useQuizStore = create<QuizState>()(
         timePerQuestion: 30,
         randomizeOrder: true,
       },
+      hasHydrated: false,
       
       // Active Quiz State
       isActive: false,
@@ -22,6 +23,7 @@ export const useQuizStore = create<QuizState>()(
       answers: {},
       isAnswered: false,
       timeSpent: 0,
+      currentTimeLeft: 30,
       
       // Actions
       toggleBookmark: (id) => set((state) => {
@@ -34,7 +36,10 @@ export const useQuizStore = create<QuizState>()(
       }),
       
       updateSettings: (newSettings) => set((state) => ({
-        settings: { ...state.settings, ...newSettings }
+        settings: { ...state.settings, ...newSettings },
+        currentTimeLeft: state.isActive && !state.isAnswered
+          ? newSettings.timePerQuestion ?? state.currentTimeLeft
+          : newSettings.timePerQuestion ?? state.settings.timePerQuestion,
       })),
       
       startQuiz: (mode, questions, category) => set((state) => {
@@ -66,6 +71,7 @@ export const useQuizStore = create<QuizState>()(
           answers: {},
           isAnswered: false,
           timeSpent: 0,
+          currentTimeLeft: state.settings.timePerQuestion,
         };
       }),
       
@@ -81,7 +87,8 @@ export const useQuizStore = create<QuizState>()(
         if (state.currentIndex < state.questions.length - 1) {
           return {
             currentIndex: state.currentIndex + 1,
-            isAnswered: false
+            isAnswered: false,
+            currentTimeLeft: state.settings.timePerQuestion,
           };
         }
         return state;
@@ -112,30 +119,75 @@ export const useQuizStore = create<QuizState>()(
         
         return {
           history: [newEntry, ...state.history],
-          isActive: false
+          isActive: false,
+          questions: [],
+          currentIndex: 0,
+          answers: {},
+          isAnswered: false,
+          timeSpent: 0,
+          currentTimeLeft: state.settings.timePerQuestion,
         };
       }),
       
-      resetQuiz: () => set({
+      resetQuiz: () => set((state) => ({
         isActive: false,
+        mode: '',
+        currentCategory: undefined,
         questions: [],
         currentIndex: 0,
         answers: {},
         isAnswered: false,
         timeSpent: 0,
-      }),
+        currentTimeLeft: state.settings.timePerQuestion,
+      })),
       
       incrementTimeSpent: () => set((state) => ({
         timeSpent: state.timeSpent + 1
-      }))
+      })),
+
+      decrementCurrentTimeLeft: () => set((state) => ({
+        currentTimeLeft: Math.max(0, state.currentTimeLeft - 1),
+      })),
+
+      resetCurrentTimeLeft: () => set((state) => ({
+        currentTimeLeft: state.settings.timePerQuestion,
+      })),
+
+      clearAllActivity: () => set((state) => ({
+        bookmarkedIds: [],
+        history: [],
+        isActive: false,
+        mode: '',
+        currentCategory: undefined,
+        questions: [],
+        currentIndex: 0,
+        answers: {},
+        isAnswered: false,
+        timeSpent: 0,
+        currentTimeLeft: state.settings.timePerQuestion,
+      })),
+
+      setHasHydrated: (value) => set({ hasHydrated: value }),
     }),
     {
       name: 'mcq-quiz-storage',
       partialize: (state) => ({ 
         bookmarkedIds: state.bookmarkedIds, 
         history: state.history, 
-        settings: state.settings 
-      }), // Only persist global state, not active quiz
+        settings: state.settings,
+        isActive: state.isActive,
+        mode: state.mode,
+        currentCategory: state.currentCategory,
+        questions: state.questions,
+        currentIndex: state.currentIndex,
+        answers: state.answers,
+        isAnswered: state.isAnswered,
+        timeSpent: state.timeSpent,
+        currentTimeLeft: state.currentTimeLeft,
+      }),
+      onRehydrateStorage: () => (state) => {
+        state?.setHasHydrated(true);
+      },
     }
   )
 );
