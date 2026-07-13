@@ -335,13 +335,19 @@ export default function HomePage() {
 
       <section className="card p-6">
         <div className="grid gap-4 sm:grid-cols-3">
-          <div className="rounded-2xl border border-[var(--border-color)] p-4">
-            <div className="mb-3 flex items-center gap-3">
-              <History className="h-5 w-5 text-[var(--text-muted)]" />
-              <span className="font-medium">Attempts</span>
+          <button 
+            onClick={() => router.push("/stats")}
+            className="rounded-2xl border border-[var(--border-color)] p-4 text-left transition hover:border-slate-400 group"
+          >
+            <div className="mb-3 flex items-center justify-between">
+              <div className="flex items-center gap-3">
+                <History className="h-5 w-5 text-[var(--text-muted)] group-hover:text-indigo-500 transition-colors" />
+                <span className="font-medium">Attempts & Stats</span>
+              </div>
+              <ArrowRight className="h-4 w-4 text-slate-300 group-hover:text-indigo-500 transition-colors" />
             </div>
-            <p className="text-sm text-[var(--text-muted)]">{history.length} completed sessions</p>
-          </div>
+            <p className="text-sm text-[var(--text-muted)]">View detailed performance and {history.length} completed sessions</p>
+          </button>
           <div className="rounded-2xl border border-[var(--border-color)] p-4">
             <div className="mb-3 flex items-center gap-3">
               <LibraryBig className="h-5 w-5 text-[var(--text-muted)]" />
