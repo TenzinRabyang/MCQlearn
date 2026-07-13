@@ -1,0 +1,327 @@
+[
+  {
+    "id": "sbar-clinical-communication-q1",
+    "category": "SBAR Clinical Communication",
+    "question": "What does the acronym SBAR stand for?",
+    "options": [
+      "System, Background, Analysis, Response",
+      "Situation, Background, Assessment, Recommendation",
+      "Status, Biometrics, Action, Review",
+      "Safety, Beliefs, Assessment, Requirements"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q2",
+    "category": "SBAR Clinical Communication",
+    "question": "Where was the SBAR communication tool originally developed?",
+    "options": [
+      "The United States military",
+      "The UK National Health Service",
+      "The World Health Organization",
+      "Harvard Medical School \u2022 \u2022 \u2022 \u2022 QSIR Testing Center \u2022 Clinical Communication Frameworks Page 1 of 8"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q3",
+    "category": "SBAR Clinical Communication",
+    "question": "For what specific environment was SBAR originally designed?",
+    "options": [
+      "Field hospitals",
+      "Aviation cockpits",
+      "Nuclear submarines",
+      "Naval shipyards"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q4",
+    "category": "SBAR Clinical Communication",
+    "question": "What is the primary purpose of using the SBAR tool in healthcare settings?",
+    "options": [
+      "To track staff attendance parameters",
+      "To enable accurate information transfer and improve patient safety",
+      "To calculate complex medication dosages",
+      "To replace formal electronic health records"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q5",
+    "category": "SBAR Clinical Communication",
+    "question": "SBAR consists of standardized prompt questions divided into how many discrete sections?",
+    "options": [
+      "Three sections",
+      "Four sections",
+      "Five sections",
+      "Six sections"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q6",
+    "category": "SBAR Clinical Communication",
+    "question": "How does using the SBAR framework specifically benefit the giver of clinical information?",
+    "options": [
+      "It automatically populates their electronic shift handover report",
+      "It ensures they have properly formulated their thinking before communicating",
+      "It permits them to bypass direct consults with senior staff members",
+      "It automates diagnostic validation tasks on behalf of the nurse QSIR Testing Center \u2022 Clinical Communication Frameworks Page 2 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q7",
+    "category": "SBAR Clinical Communication",
+    "question": "How does the SBAR tool benefit the receiver of clinical information?",
+    "options": [
+      "They know what to expect and are less likely to interrupt with premature questions",
+      "They are completely excused from taking active clinical notation notes",
+      "It authorizes them to delegate incoming tasks to subordinate tiers instantly",
+      "It automatically flags updates across their central shift roster portal"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q8",
+    "category": "SBAR Clinical Communication",
+    "question": "SBAR is particularly effective at breaking down communication barriers across which parameters?",
+    "options": [
+      "Geographical sectors separating hospital structures",
+      "Different clinical disciplines and varying levels of staff seniority",
+      "Intra-shift handovers exclusively",
+      "Discussions occurring between healthcare practitioners and client families"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q9",
+    "category": "SBAR Clinical Communication",
+    "question": "Ensuring the reason for communication is absolute by formulating a clear 'Recommendation' is highly valuable for which group?",
+    "options": [
+      "Inexperienced staff who may feel uncomfortable advising senior colleagues",
+      "Administrative or clerical tracking representatives filing intake records",
+      "Patients currently preparing for operative interventions",
+      "Pharmacy technicians orchestrating baseline ward supply tasks"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q10",
+    "category": "SBAR Clinical Communication",
+    "question": "Under which section of the SBAR framework should you state your name, role, and the specific unit you are calling from?",
+    "options": [
+      "Situation",
+      "Background",
+      "Assessment",
+      "Recommendation QSIR Testing Center \u2022 Clinical Communication Frameworks Page 3 of 8"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q11",
+    "category": "SBAR Clinical Communication",
+    "question": "Stating the patient's name, identifiers, and the immediate acute reason for the contact belongs to which section?",
+    "options": [
+      "Recommendation",
+      "Assessment",
+      "Background",
+      "Situation"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q12",
+    "category": "SBAR Clinical Communication",
+    "question": "In the official guidelines' clinical workflow example, telling a colleague that a patient has \"become suddenly short of breath\" maps to which layer?",
+    "options": [
+      "Background",
+      "Situation",
+      "Assessment",
+      "Recommendation"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q13",
+    "category": "SBAR Clinical Communication",
+    "question": "Where should a patient's immediate vital signs and quantitative concerns (e.g., \"oxygen saturation has dropped to 88%\") be explicitly introduced?",
+    "options": [
+      "Recommendation",
+      "Background",
+      "Situation",
+      "Assessment QSIR Testing Center \u2022 Clinical Communication Frameworks Page 4 of 8"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q14",
+    "category": "SBAR Clinical Communication",
+    "question": "Which section requires you to systematically articulate the patient's primary reason for admission alongside their historical admitting diagnosis?",
+    "options": [
+      "Situation",
+      "Background",
+      "Assessment",
+      "Recommendation"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q15",
+    "category": "SBAR Clinical Communication",
+    "question": "Information regarding a patient's historical medical timeline, current daily prescription therapies, and known allergy indicators belongs under which segment?",
+    "options": [
+      "Situation",
+      "Assessment",
+      "Recommendation",
+      "Background"
+    ],
+    "correctAnswer": 3,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q16",
+    "category": "SBAR Clinical Communication",
+    "question": "To properly and adequately prepare the 'Background' information layer of an SBAR briefing, what action must a nurse execute first?",
+    "options": [
+      "Initiate telephone check-ins with the patient's family members",
+      "Collect and review core context directly from the patient's chart, logs, and clinical notes",
+      "Order a comprehensive suite of urgent laboratory stat screens",
+      "Acquire a peer's descriptive impression regarding the care unit track QSIR Testing Center \u2022 Clinical Communication Frameworks Page 5 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q17",
+    "category": "SBAR Clinical Communication",
+    "question": "Once an organ or care team initiates active SBAR integration, what immediate next task is directed by the Quality Improvement blueprint?",
+    "options": [
+      "Suspend the process intermittently to track baseline regression curves",
+      "Monitor its progress to see how well it is being used and if communication has improved",
+      "Generate a secondary organizational acronym framework to diversify reporting options",
+      "Draft an immediate scientific journal publication based on entry data points"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q18",
+    "category": "SBAR Clinical Communication",
+    "question": "What is the ultimate, explicit cultural target when embedding the SBAR toolkit within an active healthcare structure?",
+    "options": [
+      "To establish it as a mandatory tracking system for overtime calculation audits",
+      "For it to become 'the way things are done around here' as an intuitive everyday habit",
+      "To eliminate face-to-face handover opportunities between nursing team tiers entirely",
+      "To contract the direct headcount parameters requested across a typical floor schedule"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q19",
+    "category": "SBAR Clinical Communication",
+    "question": "Which of the following is highlighted as a highly practical visual cue or prompt to accelerate localized SBAR implementation?",
+    "options": [
+      "Enforcing formal assessment screenings at the end of each operational week",
+      "Applying structural stickers on physical telephone sets, letter templates, and patient notes",
+      "Positioning warning notification banners across communal staff breakout environments",
+      "Enacting unique badge identifier color alterations to distinguish certified teams QSIR Testing Center \u2022 Clinical Communication Frameworks Page 6 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q20",
+    "category": "SBAR Clinical Communication",
+    "question": "What constitutes a valid, supportive peer-to-peer prompt designed to reinforce the shared SBAR structure constructively?",
+    "options": [
+      "\"Why did you fail to log these parameters into the central profile earlier?\"",
+      "\"Can I make sure I understand you? What is your recommendation here?\"",
+      "\"Please accelerate this summary transition, as my active shift allocation window is closing.\"",
+      "\"Can you repeat the timeline sequence from the beginning?\""
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q21",
+    "category": "SBAR Clinical Communication",
+    "question": "Why does the system-wide integration of SBAR demonstrably compress the necessity for information repetition?",
+    "options": [
+      "Because it shares a concise and focused structure",
+      "Because verbal interactions are digitally cataloged via internal audio nodes automatically",
+      "Because it restricts receivers from interjecting until the brief concludes entirely",
+      "Because its application is restricted to non-critical care tracking channels exclusively"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q22",
+    "category": "SBAR Clinical Communication",
+    "question": "The SBAR tool directly guarantees that active clinical staff are sharing data points that are:",
+    "options": [
+      "Highly elongated, expansive, and textually complete",
+      "Concise and focused",
+      "Flexible, open-ended, and adaptive to subjective parameters",
+      "Impressionistic, qualitative, and grounded in standard professional intuitions"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q23",
+    "category": "SBAR Clinical Communication",
+    "question": "How is the SBAR framework fundamentally defined within the clinical redesign curriculum?",
+    "options": [
+      "An advanced biological bedside diagnostic algorithm",
+      "A structured form of communication",
+      "A legally binding prescription administration grid",
+      "An administrative long-term care facility log architecture QSIR Testing Center \u2022 Clinical Communication Frameworks Page 7 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q24",
+    "category": "SBAR Clinical Communication",
+    "question": "How does the shared structural design of SBAR assist clinicians in processing incoming complex details?",
+    "options": [
+      "It allows them to extrapolate accurate guesses regarding missing laboratory metrics",
+      "It helps staff anticipate the information needed by colleagues and encourages assessment skills",
+      "It mathematically maps out the clinical deterioration velocity curve curves",
+      "It automatically designs the active multi-disciplinary prescription path profile"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "sbar-clinical-communication-q25",
+    "category": "SBAR Clinical Communication",
+    "question": "Why does the SBAR framework explicitly discourage the receiver from interrupting with premature inquiries?",
+    "options": [
+      "Because the receiver knows that those questions will likely be answered later in the structured format",
+      "Because conversational interruptions trigger formal compliance penalties",
+      "Because the presenter is reading from an unalterable script template",
+      "Because the protocol requires interactions to manifest via electronic communication logs only"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  }
+]

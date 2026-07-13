@@ -1,0 +1,327 @@
+[
+  {
+    "id": "nurses-role-medicines-management-q1",
+    "category": "Nurses Role Medicines Management",
+    "question": "According to the Medicines and Healthcare Products Regulatory Agency (MHRA, 2004), what is the explicit core definition of 'Medicines Management'?",
+    "options": [
+      "The rapid prescription of innovative pharmaceutical compounds to reduce general ward length of stay markers",
+      "The clinical, cost effective and safe use of medicines to ensure patients get the maximum benefit from the medicines they need, while at the same time minimising potential harm",
+      "The total automation of distribution networks to minimize independent clinical decision-making paths",
+      "The localized logging of adverse prescription metrics to fulfill international legislative datasets exclusively"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q2",
+    "category": "Nurses Role Medicines Management",
+    "question": "How does the Department of Health, Northern Ireland, define the ultimate 'goal' of safe and effective medicines management?",
+    "options": [
+      "To optimize the benefits that treatment offers and attain the best outcome for each patient",
+      "To contract the aggregate overhead expenditure tied to baseline ward fluid stocks",
+      "To accelerate independent prescribing pathways for student nurse cohorts",
+      "To standardize pharmaceutical manufacturing brands across the health service footprint \u2022 \u2022 \u2022 \u2022 Salford Professional Practice Centre \u2022 Exam Paper 3 of 20 Page 1 of 8"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q3",
+    "category": "Nurses Role Medicines Management",
+    "question": "The lecture slides outline five distinct reasons why nurses are actively involved in Medicines Management. Which of the following is explicitly listed?",
+    "options": [
+      "Budgetary oversight management",
+      "Front line patient care and safe drug calculation",
+      "Independent pharmacological formulation",
+      "Direct regulatory adjustment of national formularies"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q4",
+    "category": "Nurses Role Medicines Management",
+    "question": "Under the student nurse guidelines slide, what are the three explicit regulatory framework requirements named that support safe medicines management?",
+    "options": [
+      "NMC Standards of Proficiency (2018), The Code (2018), A Competency Framework for all Prescribers (2016)",
+      "The Care Act (2014), Human Medicines Regulations (2012), Health and Safety at Work Act (1974)",
+      "NICE Guideline 174, Waterlow Index, MUST Screening Protocol",
+      "Salford Ward Directives, Greater Manchester Formulary Guide, Datix Logging Matrix"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q5",
+    "category": "Nurses Role Medicines Management",
+    "question": "The section of the Nursing and Midwifery Council (NMC) Code on preserving safety explicitly mandates that medicines must be administered:",
+    "options": [
+      "Immediately upon supervisor request regardless of independent knowledge checks",
+      "Within the limits of your training and competence, the law, our guidance and other relevant policies, guidance and regulations",
+      "Exclusively utilizing the trade or brand name listed across local ward cabinets",
+      "By student nurses independently once they reach their second placement calendar tier"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q6",
+    "category": "Nurses Role Medicines Management",
+    "question": "Under '1. Right Person' within the 10 Rights (10 Rs) framework, what specific clinical warning is emphasized regarding patient characteristics?",
+    "options": [
+      "Keep in mind names can be similar and people may have the same birthday",
+      "Verify room assignments as the sole method of confirming an individual's presence",
+      "Assume a patient who does not reply is giving unspoken confirmation",
+      "Rely entirely on the verbal direction of an emergency coordinator Salford Professional Practice Centre \u2022 Exam Paper 3 of 20 Page 2 of 8"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q7",
+    "category": "Nurses Role Medicines Management",
+    "question": "Under '2. Right Medicine', what explicit visual care rule is highlighted to avoid error?",
+    "options": [
+      "Rely on package color coding schemas across stock boxes",
+      "Double-check labels, being especially careful with drugs that have similar names to others",
+      "Prioritize brand designations over generic structural naming bands",
+      "Dispense from unnamed storage cups if a colleague confirms the contents verbally"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q8",
+    "category": "Nurses Role Medicines Management",
+    "question": "Under '5. Right Time', what two practical elements must a nurse actively check or consider prior to drug delivery?",
+    "options": [
+      "The total hours remaining on their shift and general ward meal timelines",
+      "Whether the medicine needs to be taken before or after food, and if the interval since the last dose is correct",
+      "The age of the admitting practitioner and the daily calendar date block",
+      "The standard duration of the localized ward handover meeting sequence"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q9",
+    "category": "Nurses Role Medicines Management",
+    "question": "What is the absolute, unalterable rule outlined under '10. Right Documentation' regarding when a drug must be recorded?",
+    "options": [
+      "Record immediately BEFORE giving the drug, to ensure the chart is pre-validated",
+      "Record immediately AFTER the drug is given, NEVER BEFORE GIVING THE DRUG",
+      "Log all administered items in a single task sequence at the absolute close of the shift window",
+      "Sign the chart only after a peer provides verbal confirmation from the nurse's station"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q10",
+    "category": "Nurses Role Medicines Management",
+    "question": "Why does the lecture slide warn against ever documenting a medication before it has actually been swallowed or received by the patient?",
+    "options": [
+      "Because the chart system automatically logs out if delayed",
+      "Because you may get called away and be prevented from doing so",
+      "Because it modifies the digital pharmacokinetics timeline data points",
+      "Because prescribers require active real-time notification alerts Salford Professional Practice Centre \u2022 Exam Paper 3 of 20 Page 3 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q11",
+    "category": "Nurses Role Medicines Management",
+    "question": "What explicit physical action must a nurse perform to fully validate and co-verify a medication's true administration status?",
+    "options": [
+      "Leave the medicine pot on the locker table and return in thirty minutes",
+      "Stay with your patient until you have seen them take the medication",
+      "Entrust the administration to a visiting family relative who is at the bedside",
+      "Check the room number against the central ward roster portal mapping"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q12",
+    "category": "Nurses Role Medicines Management",
+    "question": "The lecture underscores two vital legal and professional maxims regarding clinical documentation records. What are they?",
+    "options": [
+      "'If it is written in pencil, it is temporary' and 'The chart is an internal guide'",
+      "'If it has not been recorded, you haven\u2019t given it' and 'Remember that the medicines chart is a legal document'",
+      "'Verbal reporting overrides chart signatures' and 'Omissions do not require notation'",
+      "'Students are exempt from legal logging rules' and 'Co-signing is an optional practice'"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q13",
+    "category": "Nurses Role Medicines Management",
+    "question": "In Case Scenario 1, a supervising nurse gives a second-year student a medicine pot containing 3 tablets and tells them to give it to a patient in bay 4 because of an emergency. Can the student administer this?",
+    "options": [
+      "Yes, because emergency contexts temporarily suspend standard supervision rules",
+      "No, because the student has no prescription context, did not prepare the drug, and must work under direct supervision",
+      "Yes, provided the student visually double-checks the tablet colors in the pot",
+      "No, unless the patient verbally names the three medications independently Salford Professional Practice Centre \u2022 Exam Paper 3 of 20 Page 4 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q14",
+    "category": "Nurses Role Medicines Management",
+    "question": "In Case Scenario 2, Nurse Jenny enters a four-bed bay containing two patients named Jack. What initial identification failure occurs?",
+    "options": [
+      "She checks the wrong wristband code string",
+      "She asks verbally, 'Jack, are you ready for your tablets?' without confirming full identity or checking the name band",
+      "She reviews a chart that belongs to a completely different ward sector",
+      "She relies on a family member's incorrect structural nod"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q15",
+    "category": "Nurses Role Medicines Management",
+    "question": "During the Case Scenario 2 events, what active choice did patient Jack Dixon make when Jenny approached his bedside locker?",
+    "options": [
+      "He explicitly stated that he was not ready for his therapy",
+      "He looked up from reading his newspaper but did not reply",
+      "He signed the chart form on Jenny's behalf",
+      "He swallowed the tablets without realizing they were incorrect"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q16",
+    "category": "Nurses Role Medicines Management",
+    "question": "What action did Jenny execute immediately after leaving the medicine pot on Jack Dixon's bedside locker?",
+    "options": [
+      "She waited ten minutes to monitor for potential adverse effects",
+      "She inaccurately recorded the medication as administered, even though the patient did not take it, and moved on",
+      "She cross-referenced his wristband against the prescription sheet profile",
+      "She contacted the prescribing clinician to report an independent refusal"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q17",
+    "category": "Nurses Role Medicines Management",
+    "question": "How was Jenny's administrative error discovered thirty minutes later?",
+    "options": [
+      "Through an automated system audit flag on the digital charts",
+      "Jack Dixon returned the pot to the nurse in charge at the nurse\u2019s station, stating he hadn't taken them and noticed 'the little blue one' was missing",
+      "Jack Stewart experienced an acute physiological deterioration episode",
+      "The ward supervisor performed a random stock count check across the bay Salford Professional Practice Centre \u2022 Exam Paper 3 of 20 Page 5 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q18",
+    "category": "Nurses Role Medicines Management",
+    "question": "What was the final outcome of Jenny's actions for the patients in that bay?",
+    "options": [
+      "Jack Dixon received a double dose of his scheduled daily therapy",
+      "As a result, both patients named Jack have not received the correct medication",
+      "The error was automatically averted with zero impact on records or care maps",
+      "Jack Stewart received his daily tablets via an alternate clinical route"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q19",
+    "category": "Nurses Role Medicines Management",
+    "question": "The NMC guidelines explicitly state what strict directive regarding student nurses and medicinal products?",
+    "options": [
+      "Students may administer oral medications independently starting in their final year",
+      "Student nurses must NEVER administer or supply medicinal products without DIRECT supervision",
+      "Students are authorized to verify prescriptions under indirect peer overview schemas",
+      "Emergency floor conditions invalidate standard supervision tracking rules"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q20",
+    "category": "Nurses Role Medicines Management",
+    "question": "What mandatory requirement is outlined regarding medication charts during student-led administration rounds?",
+    "options": [
+      "The student signs independently and logs an audit note at shift end",
+      "A qualified nurse must always supervise medication administration and co-sign the medication chart",
+      "The patient must sign a localized consent line inside the paper book",
+      "Co-signing is only requested if a complex fluid or injection is prepared"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q21",
+    "category": "Nurses Role Medicines Management",
+    "question": "If a medication is intentionally not given to a patient during a round, what step must be executed?",
+    "options": [
+      "Leave the chart completely blank to signal an omission to the next shift tier",
+      "Documenting Omissions: If a medication is not given, record the reason in the medication chart or patient\u2019s notes",
+      "Inform the clinical supervisor verbally without making any formal entry marks",
+      "Destroy the physical dose cup and adjust the generic room log numbers Salford Professional Practice Centre \u2022 Exam Paper 3 of 20 Page 6 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q22",
+    "category": "Nurses Role Medicines Management",
+    "question": "What must a nurse do if they identify an absolute reason not to give a medication or discover an improper prescription?",
+    "options": [
+      "Modify the prescription entries manually on the patient's chart sheet",
+      "Contacting the Prescriber: Inform the prescriber immediately and clarify before administering",
+      "Administer the medication anyway to preserve continuity of care curves",
+      "Delegate the round to a peer to avoid personal legal accountability lines"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q23",
+    "category": "Nurses Role Medicines Management",
+    "question": "What core directive is highlighted under the 'Medication Handling' section to avoid clinical error?",
+    "options": [
+      "Pre-pour all scheduled morning tablets to save time during high-occupancy shifts",
+      "Never leave medications unattended or ungiven\u2014ensure the patient takes them",
+      "Store prepared medication pots at the nurse's station during emergency briefs",
+      "Always pass multi-tablet pots to an adjacent patient if a mismatch is assumed"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q24",
+    "category": "Nurses Role Medicines Management",
+    "question": "Which of the following contains the correct, complete list of multi-faceted roles filled by a nurse in medicines management as displayed in the closing slides?",
+    "options": [
+      "Inspector, Prescriber, Technician, Clerk, Roster Coordinator, Safety Officer",
+      "Communicator, Advocate, Educator, Partner, Assessor, Administrator, Evaluator, Carer, Nurse",
+      "Diagnostician, Surgeon, Advisor, Pharmacist, Legal Director, Ward Auditor",
+      "Manager, Analyst, Compliance Representative, Supply Officer, Gatekeeper"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "nurses-role-medicines-management-q25",
+    "category": "Nurses Role Medicines Management",
+    "question": "Which historical publication is cited in your reference list for providing specific guidance titled 'How to calculate drug dosage accurately: advice for nurses'?",
+    "options": [
+      "Elliott et al. (2020)",
+      "Haigh, S. (2002) in the Nursing Times",
+      "Murphy, M. (2012)",
+      "Pearce, L. (2021) Salford Professional Practice Centre \u2022 Exam Paper 3 of 20 Page 7 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  }
+]

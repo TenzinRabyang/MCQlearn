@@ -1,0 +1,327 @@
+[
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q1",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "How are leg ulcers explicitly defined according to the course presentation?",
+    "options": [
+      "Deep dermal tear injuries specifically caused by blunt force trauma impacts",
+      "Open sores or wounds that occur on the lower extremities, often due to poor circulation",
+      "Localized damage to the stratum corneum due to un-blanchable moisture maceration",
+      "Profound necrosis occurring after the complete collapse of arterial oxygen perfusion"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q2",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "Which of the following descriptions accurately matches the clinical presentation of a 'Venous Ulcer'?",
+    "options": [
+      "Usually found on the outer side of the ankle; deep, punched-out, and very painful",
+      "Usually found below the knee and on the inner ankle; often painless unless infected",
+      "Found primarily on the toe tips, displaying a cold, hairless, and pale configuration",
+      "Found in deep gluteal folds following prolonged sedentary pressure cycles \u2022 \u2022 \u2022 \u2022 Vascular & Tissue Viability \u2022 Exam Paper 9 of 20 Page 1 of 7"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q3",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "Arterial ulcers result from inadequate blood supply. What specific visual and symptomatic traits are they associated with?",
+    "options": [
+      "\"Punched out\" appearance, painful, deep wounds, cool affected area, pale when elevated",
+      "Brown/black stained skin, intense itching, and weeping exudate",
+      "Superficial abrasion tracking following mild friction against bedding",
+      "Indistinct borders with thickened hyperpigmented skin zones"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q4",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "What is the fundamental pathophysiology behind the development of venous disease as described in the slides?",
+    "options": [
+      "Fatty deposit plaque build-up narrowing the arterial wall pathways",
+      "Valve dysfunction causing blood to pool in the lower extremities and fluid to leak into surrounding tissues",
+      "Failure of the epidermis to manufacture vitamin D after UV exposure",
+      "Excessive production of viscous protein-heavy sweat triggered by emotional strain"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q5",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "Atherosclerosis is the causative mechanism for which specific leg condition?",
+    "options": [
+      "Venous insufficiency",
+      "Peripheral arterial disease",
+      "Skin tear avulsion",
+      "Chronic pruritus"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q6",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "The pathophysiology slide states that prolonged ischaemia (reduced blood flow) eventually leads to what clinical outcome?",
+    "options": [
+      "Rapid proliferation of collagen type III",
+      "Tissue necrosis (tissue death)",
+      "Increased capillary permeability and oedema",
+      "Enhanced epithelial resurfacing Vascular & Tissue Viability \u2022 Exam Paper 9 of 20 Page 2 of 7"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q7",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "What clinical observation suggests a venous origin in the symptom list on Slide 5?",
+    "options": [
+      "Deep pain when dangling the leg",
+      "Brown or black stained skin",
+      "Tight, hairless shiny skin",
+      "\"Punched-out\" wound edges"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q8",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "Which of the following is considered a primary symptom of arterial disease?",
+    "options": [
+      "Itchy, hardened skin surfaces",
+      "Leg pain at night",
+      "General swelling and aching",
+      "Scabbing or flaking of the inner ankle"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q25",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "What diagnostic classification describes ulcers that display a combination of venous and arterial factors?",
+    "options": [
+      "Mixed Ulcers",
+      "Complex Tears",
+      "Secondary Intent wounds",
+      "Lymphoedematous lesions"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q10",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "What is the significance of the \"Valve Dysfunction\" mentioned in the pathophysiology of venous disease?",
+    "options": [
+      "Valves fail to close properly, causing blood to pool in the lower extremities",
+      "Valves over-pressurize, pushing arterial blood directly into the bone marrow",
+      "Valves become calcified, preventing any oxygenation of the papillary dermis",
+      "Valves prevent the return of interstitial fluid to the lymph system entirely Vascular & Tissue Viability \u2022 Exam Paper 9 of 20 Page 3 of 7"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q11",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "What happens when arterial plaque buildup narrows the arterial walls?",
+    "options": [
+      "It increases blood flow efficiency",
+      "It reduces oxygen and nutrient delivery to tissues, causing ischaemia",
+      "It triggers immediate tissue regeneration in the proliferative phase",
+      "It causes the immediate transition of collagen from type I to type III"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q12",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "Which of the following is defined as the cause of venous insufficiency-related inflammation and oedema?",
+    "options": [
+      "The pooling of blood increases pressure, leading to fluid leakage into surrounding tissues",
+      "The rapid production of high-viscosity protein-lipid sweat",
+      "The invasion of fungal digestive enzymes that dissolve structural keratin",
+      "The formation of arterial fatty plaques that block capillary inflow"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q13",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "What clinical sign on Slide 5 is noted as a result of venous disease?",
+    "options": [
+      "Redness when dangling the leg",
+      "Discharge",
+      "Cool/cold affected area",
+      "Deep, punched-out wounds"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q14",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "What explicit statement is made regarding the treatment of mixed ulcers?",
+    "options": [
+      "They should only be treated as venous ulcers regardless of arterial history",
+      "Treatment varies based on the underlying cause, addressing blood flow, wound care, and risk factors",
+      "They require surgical amputation of the extremity within 24 hours of diagnosis",
+      "They are resistant to all forms of dressing management and should be left uncovered Vascular & Tissue Viability \u2022 Exam Paper 9 of 20 Page 4 of 7"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q15",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "Which statement accurately describes the blood flow changes in arterial disease?",
+    "options": [
+      "The leg turns red when elevated and pale when dangling",
+      "Redness when dangling the leg, turning pale when elevated",
+      "No significant color change is associated with positional elevation",
+      "The skin becomes permanently darkened and stained brown across all positions"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q16",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "What anatomical location is typically associated with Venous Ulcers?",
+    "options": [
+      "The outer side of the ankle and feet",
+      "Around the ankles",
+      "The tips of the toes",
+      "The deep gluteal sacral crease"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q17",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "Why is proper assessment crucial for mixed ulcers?",
+    "options": [
+      "Because they only respond to antibiotic irrigation",
+      "For accurate diagnosis and treatment",
+      "Because mixed ulcers have no identifiable underlying vascular cause",
+      "Because they are highly contagious to adjacent staff members"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q18",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "What symptom does a venous ulcer patient usually experience regarding skin feeling?",
+    "options": [
+      "Tight, hairless, and smooth feeling",
+      "Itchy, hardened skin",
+      "Freezing cold feeling",
+      "Deep numbness and complete loss of sensory touch Vascular & Tissue Viability \u2022 Exam Paper 9 of 20 Page 5 of 7"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q19",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "What is the appearance of a venous ulcer described as?",
+    "options": [
+      "\"Punched out\" and deep",
+      "Surface lesions with indistinct borders and discharge",
+      "White, dry necrotic craters",
+      "Small, black, dry eschar plugs"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q20",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "Which of the following is associated with the arterial ulcer appearance?",
+    "options": [
+      "Scabbing or flaking",
+      "Red, yellow, or black sores",
+      "Brown stained skin",
+      "Excessive weeping exudate"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q21",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "What anatomical location is typically associated with Arterial Ulcers?",
+    "options": [
+      "Inner ankle",
+      "Outer side of the ankle, feet, heels, or toes",
+      "Upper calf muscles",
+      "Sacral prominence"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q22",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "What causes venous ulcers specifically?",
+    "options": [
+      "Insufficient blood return to the heart due to vein dysfunction",
+      "Blocked arteries preventing oxygen reach",
+      "Fungal digestive enzyme consumption",
+      "Prolonged vertical pressure from wheelchairs Vascular & Tissue Viability \u2022 Exam Paper 9 of 20 Page 6 of 7"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q23",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "What causes arterial ulcers specifically?",
+    "options": [
+      "Fluid leakage into tissues",
+      "Reduced blood flow due to inadequate nutrient-rich blood reaching tissue",
+      "Infection via Staphylococcus aureus",
+      "Chronic inflammation from poor hygiene"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q24",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "Which of the following is associated with the symptom of a venous ulcer?",
+    "options": [
+      "Cool or cold affected area",
+      "Aching",
+      "Punched out appearance",
+      "Redness when dangling the leg"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "leg-ulcers-skin-tears-lymphoedema-q25",
+    "category": "Leg Ulcers Skin Tears Lymphoedema",
+    "question": "Which of the following is an accurate statement about mixed ulcer treatment?",
+    "options": [
+      "Treatment is always identical to arterial ulcer management",
+      "Addressing blood flow issues is essential for healing",
+      "Mixed ulcers cannot be healed",
+      "They do not require wound care"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "wound-care-pathophysiology-assessment-q1",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "According to Slide 5, which description perfectly matches the structural traits and role of the Dermis?",
+    "options": [
+      "The outermost layer that provides a barrier and creates skin tone, containing Merkel cells",
+      "The middle layer that supports and nourishes the epidermis, containing collagen/elastin fibres, blood vessels, nerves, hair follicles, and sweat glands",
+      "The deepest layer composed of pure fat cells designed to insulate the body and absorb severe shock",
+      "The sterile layer that regulates body flora pH levels via immediate commensal colonization"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q2",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "Why are the skin structures of infants and young children physically more prone to blistering and swelling?",
+    "options": [
+      "Because their skin is entirely sterile and lacks commensal flora protection",
+      "Because they possess a weaker attachment between the epidermis and dermis due to flatter rete pegs",
+      "Because their collagen helix structure undergoes a sudden collapse at birth",
+      "Because their hypodermis lacks connective tissue fibers required to absorb friction shock \u2022 \u2022 \u2022 \u2022 Clinical Nursing Academy \u2022 Exam Paper 6 of 20 Page 1 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q3",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "What specific structural degeneration characterizes the skin during the standard biological aging process?",
+    "options": [
+      "The rete pegs become significantly more elongated, creating an inflexible skin boundary",
+      "The skin thins and lines as the structural collagen helix collapses",
+      "The commensal flora drops the surface pH level down to an acidic 2.5 benchmark",
+      "The epidermal cells lose their keratinocytes, preventing any vitamin D synthesis"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q4",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "Which of the following contains the correct sequence of events that characterize the immediate 'Haemostasis' phase of injury response?",
+    "options": [
+      "Blood vessels dilate, phagocytes migrate, and chemical mediators clear the surface debris",
+      "Fibroblasts produce thick type I collagen strands while new capillaries form via angiogenesis",
+      "Blood vessels constrict, platelet plug formation occurs, and the clotting cascade is activated",
+      "Epidermal cells flatten, lose their cytoplasm, and form an unalterable corneal scar tissue barrier"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q5",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "The 'Inflammation' phase of injury response begins within minutes to hours. What specific white blood cells migrate to the site to clear debris?",
+    "options": [
+      "Keratinocytes and Melanocytes",
+      "Neutrophils and Macrophages",
+      "Langerhans cells and Merkel cells",
+      "Fibroblasts and Endothelial tracking lines"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q6",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "During the 'Proliferation' phase of healing, what is the explicit role of Angiogenesis?",
+    "options": [
+      "The constriction of dermal capillaries to maximize central core body homeostasis",
+      "The formation of new blood vessels to deliver oxygen and nutrients to injured areas and promote repair",
+      "The systematic breakdown of nonviable cells via localized phagocytic enzymatic action",
+      "The reorganization of fibrous tissue arrays from type III collagen into firm type I units Clinical Nursing Academy \u2022 Exam Paper 6 of 20 Page 2 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q7",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "What physiological events take place during the Maturation (Remodelling) phase of a wound?",
+    "options": [
+      "Damaged cells release chemical mediators within minutes to activate a sterile environment",
+      "Fibroblasts initiate immediate platelet plug formation over the open epidermis borders",
+      "Collagen fibres reorganise, tensile strength increases, and scar tissue forms over weeks to months",
+      "Flatter rete pegs develop underneath the tissue bed to re-establish normal skin tone settings"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q8",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "Match the intentions of wound healing with their correct definitions. Which statement is perfectly accurate according to Slide 11?",
+    "options": [
+      "Primary intention describes leaving a wound completely open to fill in and close naturally without stitches",
+      "Secondary intention refers to a wound where the edges are closely re-approximated via immediate primary closure",
+      "Tertiary intention (delayed primary closure) occurs when a wound is initially left open after debridement of all nonviable tissue",
+      "Primary intention refers to wounds packed daily with gauze to encourage slough formation over 3 months"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q9",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "What is the explicit duration threshold used in your lecture slides to define a \"Chronic Wound\"?",
+    "options": [
+      "A wound that fails to proceed through an orderly and timely reparative process over a period of 3 weeks",
+      "A wound that fails to proceed through an orderly and timely reparative process over a period of 6 weeks",
+      "A wound that fails to proceed through an orderly and timely reparative process over a period of 3 months",
+      "A wound that fails to proceed through an orderly and timely reparative process over a period of 12 months"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q10",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "How does Slide 18 define an 'Abrasion' wound type, and what is its clinical characteristic?",
+    "options": [
+      "A clean, straight cut typically made by a surgical scalpel or a sharp piece of paper",
+      "A superficial wound caused by friction or scraping against a rough surface; quite painful and common in young children",
+      "A deep cut or tear caused by sharp glass that involves pre-tibial laceration tracking",
+      "A small, deep penetration caused by a pointed animal nail, highly prevalent in the hands Clinical Nursing Academy \u2022 Exam Paper 6 of 20 Page 3 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q11",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "Skin tears fall under the category of 'Lacerations'. What alternate title is given to skin tears across your curriculum slides?",
+    "options": [
+      "Superficial grazes",
+      "Pre-tibial lacerations",
+      "Degloving avulsions",
+      "Contused hematomas"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q12",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "Where are puncture wounds caused by pointed objects piercing the skin described as being 'very common' in practice?",
+    "options": [
+      "The hands and forearms",
+      "The feet",
+      "The pre-tibial shin zone",
+      "The sacral and bony prominences"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q13",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "What is the exact definition and alternate medical title given to an 'Avulsion' wound?",
+    "options": [
+      "A closed injury resulting from blunt force trauma, also known as a haematoma",
+      "A wound where a portion of skin and sometimes underlying tissue is torn away; also known as a degloving injury",
+      "A superficial scrape caused by intense cold, also known as frostbite",
+      "An intentionally self-inflicted cut used to manage severe emotional distress"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q14",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "Under which clinical wound category do 'Haematomas' explicitly belong within your lecture materials?",
+    "options": [
+      "Puncture Wounds",
+      "Avulsions",
+      "Contusions (Bruises)",
+      "Incisions Clinical Nursing Academy \u2022 Exam Paper 6 of 20 Page 4 of 8"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q15",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "According to Slide 24, phone chargers and household appliances are cited as common examples behind skin damage caused by which source?",
+    "options": [
+      "Dry Heat burns",
+      "Chemical burns",
+      "Electricity burns",
+      "Radiation burns"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q16",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "What core etiology defines a 'Crush Injury' as stated on Slide 27?",
+    "options": [
+      "Superficial scraping of the epidermal tissue against a rough industrial surface",
+      "A wound caused by a heavy object compressing the body, leading to damage to skin, muscles, and bones",
+      "Prolonged unrelieved vertical pressure over a single localized bony prominence",
+      "The sudden exposure of un-colonized sterile skin to caustic cement or bitumen"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q17",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "Why does a nurse need to complete a comprehensive wound assessment? Which reason is explicitly stated to justify referrals and prevent resource waste?",
+    "options": [
+      "To document the absolute contraction rate of the hypodermis matrix every 24 hours",
+      "To address the fact reported by Guest et al. (2020) that many wounds lack a differential diagnosis",
+      "To re-establish a flat rete peg configuration across adult-like dermal fields",
+      "To eliminate the presence of normal commensal flora around surgical lacerations"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q18",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "What does the complete acronym T.I.M.E.R.S stand for within the wound assessment framework?",
+    "options": [
+      "Timeline, Incision, Medication, Exudate, Recovery, Support",
+      "Tissues, Infection, Moisture, Edges, Regeneration / repair, Social and patient related factors",
+      "Tone, Inflammation, Macule, Epithelium, Rete pegs, Severity score",
+      "Trauma, Ischaemia, Moisture, Eschar, Remodelling, Surgical plan Clinical Nursing Academy \u2022 Exam Paper 6 of 20 Page 5 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q19",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "How is 'Granulation Tissue' explicitly described under the 'T is for Tissue' section?",
+    "options": [
+      "Yellow/white fibrous tissue composed of dead cells that accumulate inside dry eschar",
+      "New connective tissue and microscopic blood vessels that form on the surfaces of a wound during the healing process",
+      "A light pink layer with a shiny pearl appearance that travels from the outward wound edges",
+      "Devitalized nonviable tissue that cannot be salvaged and requires immediate debridement"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q20",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "What specific characteristics and cellular makeup define 'Slough' in a wound bed?",
+    "options": [
+      "Light pink tissue with a shiny pearl appearance composed of crawling germinal cells",
+      "Yellow/white material with a soft texture, consisting of dead cells that accumulate in the wound exudate",
+      "Tightly packed keratinized epidermal cells growing directly from the base matrix",
+      "Fibrous collagen configurations that represent an advanced regeneration pathway"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q21",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "The presence of Necrosis or Eschar indicates the absolute clinical need for which intervention?",
+    "options": [
+      "Immediate surgical closure by primary intention sutures",
+      "Debridement (the removal of dead or devitalized tissue)",
+      "Lactation induction using bioengineered technologies",
+      "Application of oil-based sebum to moisten the corneal layers"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q22",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "How does 'Epithelial Tissue' explicitly manifest visually in a healing wound bed?",
+    "options": [
+      "Thick, rough, dark brown material tightly adhered to the base tendon structure",
+      "As light pink with a shiny pearl appearance, crawling from the outward wound edges across the bed",
+      "As uneven, dark purple granular clusters that bleed heavily with mild movement",
+      "A dry, yellow, fibrous coating that prevents bacterial migration loops Clinical Nursing Academy \u2022 Exam Paper 6 of 20 Page 6 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q23",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "According to Slide 38, when does scarring occur, and what type of process does scar tissue represent?",
+    "options": [
+      "Scarring occurs when normal tissue undergoes an autograft, representing an adaptive protection process",
+      "Scarring occurs when 'regeneration' fails due to the amount of tissue destruction; scar tissue represents a 'repair' process",
+      "Scarring occurs when platelets fail to plug the capillary beds, representing an inflammatory process",
+      "Scarring occurs when commensal normal flora colonizes the dermis, representing a homeostatic process"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q24",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "The TILI (2021) framework serves as an evidence-based tool for localized infections. What core strategy does it prioritize?",
+    "options": [
+      "The immediate application of systemic high-dose heavy metal or arsenic therapies",
+      "Early intervention as part of an antimicrobial stewardship (AMS)-focused approach to wound care",
+      "Delaying documentation until after the full closure of secondary intention granulation tracks",
+      "Bypassing Tissue Viability Specialist consults during high-occupancy ward events"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-care-pathophysiology-assessment-q25",
+    "category": "Wound Care Pathophysiology Assessment",
+    "question": "The Nursing and Midwifery Council (NMC) emphasizes principles of good record keeping. What explicit directive is given regarding \"Language\" on Slide 46?",
+    "options": [
+      "Records should use local slang words to describe the patient's emotional bay status",
+      "Records should be written in a language that's free of unnecessary abbreviations or jargon",
+      "Records should prioritize pharmaceutical trade labels over generic entries across all lines",
+      "Records must be written in Latin medical code strings to preserve information security lines Clinical Nursing Academy \u2022 Exam Paper 6 of 20 Page 7 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  }
+]

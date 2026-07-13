@@ -1,0 +1,67 @@
+[
+  {
+    "id": "introduction-risk-assessments-q1",
+    "category": "Introduction Risk Assessments",
+    "question": "Which of the following is NOT explicitly identified as a purpose of conducting risk assessments in the clinical environment?",
+    "options": [
+      "Ensuring compliance with clinical guidelines and legislation",
+      "Protects healthcare staff from liability",
+      "Eliminating all clinical hazards entirely with zero margin for error",
+      "Preventing adverse events"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "introduction-risk-assessments-q2",
+    "category": "Introduction Risk Assessments",
+    "question": "Which of the following describes the fundamental 'Key Principles' of risk assessment?",
+    "options": [
+      "Ad-hoc, isolated process, non-participatory, and task-oriented",
+      "Systematic approach, continuous process, involves all healthcare team members, patient-centered",
+      "Manager-led, fixed-point annual review, senior-tier only, audit-driven",
+      "Reactive-based, budget-restricted, equipment-focused, and time-saving"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "introduction-risk-assessments-q3",
+    "category": "Introduction Risk Assessments",
+    "question": "What are the three categories of risks in adult nursing explicitly outlined on Slide 11?",
+    "options": [
+      "Clinical Risks, Environmental Risks, and Psychosocial Risks",
+      "Legal Risks, Financial Risks, and Staffing Risks",
+      "Surgical Risks, Pharmacological Risks, and Hygiene Risks",
+      "Equipment Risks, Documentation Risks, and Management Risks"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "introduction-risk-assessments-q4",
+    "category": "Introduction Risk Assessments",
+    "question": "In the context of 'Clinical Risks' for patient deterioration, which specific tools are cited as primary screening methods?",
+    "options": [
+      "Waterlow index and Morse scale",
+      "ABCDE Framework and Sepsis screen tool",
+      "Braden Scale and NEWS2 Threshold",
+      "Bedrail assessment and physical space mapping"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "introduction-risk-assessments-q5",
+    "category": "Introduction Risk Assessments",
+    "question": "When assessing 'Falls risk', what are the two distinct types of factors that must be evaluated?",
+    "options": [
+      "Inpatient and outpatient factors",
+      "Intrinsic factors and extrinsic factors",
+      "Primary factors and secondary factors",
+      "Cognitive factors and physical factors \ud83d\udd11"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  }
+]

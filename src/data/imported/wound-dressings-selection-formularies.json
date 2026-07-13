@@ -1,0 +1,327 @@
+[
+  {
+    "id": "wound-dressings-selection-formularies-q1",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "According to the four basic principles of wound care detailed on Slide 3, what specific clinical action is mandated if a wound is evaluated as being \"too dry\"?",
+    "options": [
+      "It will require aggressive absolute absorption using specialized hydrofibres",
+      "It will need hydration",
+      "It requires immediate debridement utilizing a Debrisoft lolly",
+      "It must be packed with a dry alginate sheet until a gel forms naturally"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q2",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "If a wound produces excessive exudates (wound fluid), what basic principle of wound care must be applied?",
+    "options": [
+      "This needs to be absorbed",
+      "The wound must be hydrated via hydrogels immediately",
+      "An interactive silicone scar protectant spray should be applied",
+      "The clinician should treat it with a basic layer of dry Jelonet gauze \u2022 \u2022 \u2022 \u2022 Tissue Viability Academy \u2022 Exam Paper 7 of 20 Page 1 of 8"
+    ],
+    "correctAnswer": 0,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q3",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "The basic principles state that if a wound has necrotic (dead) tissue or slough (yellow debris), what explicit action is required?",
+    "options": [
+      "Application of a liquid film protectant layer to lock in moisture",
+      "It will need debridement",
+      "Immediate coverage using high-flow iodine ointments exclusively",
+      "The termination of all clinical cleaning and irrigation solutions"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q4",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "Under the 4 basic principles, if a wound is identified as being actively infected, what clinical intervention is required?",
+    "options": [
+      "Hydration using a non-sting incontinence cleanser foam spray",
+      "It needs to be treated with the appropriate antibacterial agent",
+      "Immediate surgical containment via primary intention adhesive tape strips",
+      "Closure of the tissue using specialized scar silicone management sheets"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q5",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "To accurately answer questions regarding a wound's hydration, exudate, slough, or infection status, what must a nurse complete first?",
+    "options": [
+      "A local box stock count inside the central dressing cupboard",
+      "A full holistic wound assessment using T.I.M.E.R.S and/or T.I.L.I.",
+      "An independent telephone log query directly to a regional pharmacy board",
+      "A manual script translation of the Greater Manchester formulary index codes"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q6",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "In what specific month and year was the Greater Manchester (GM) regional wound care formulary formally created?",
+    "options": [
+      "October 2018",
+      "October 2020",
+      "January 2022",
+      "June 2025 Tissue Viability Academy \u2022 Exam Paper 7 of 20 Page 2 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q7",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "What core problem or clinical challenge across the trusts was explicitly recognized as the driving reason behind creating the GM formulary?",
+    "options": [
+      "A severe global shortage of foam-bordered dressing materials",
+      "There was a disparity in care across all the trusts, meaning if a patient was discharged from one area to another there was no continuation in care",
+      "The rapid escalation of pricing tiers for basic medical adhesive removal wipes",
+      "Conflicting legal criteria separating student nursing administration borders"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q8",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "How are specialist products visually highlighted or designated within the official wound care formulary documentation?",
+    "options": [
+      "Underlined in bright blue text",
+      "Highlighted in Yellow",
+      "Stamped with a red clinical advisory symbol",
+      "Tabulated inside an italicized appendix folder block"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q9",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "What explicit protocol must a healthcare practitioner follow on occasions where a patient requires a specialist product outside the main formulary?",
+    "options": [
+      "Procure any available generic alternative from the nearest floor cupboard independently",
+      "The healthcare practitioner must contact the Tissue Viability Nurse or other specialists",
+      "Manually re-authorise the prescription chart logs without external consultation",
+      "Request a family relative to purchase the product from an external commercial outlet"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q10",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "Which of the following correct groups of specific products are explicitly listed under the 'Absorbent dressings' category?",
+    "options": [
+      "Jelonet, K-band, and Viscopaste PB7",
+      "Xupad, Eclypse, C-sorb, Zetuvit plus, Tegaderm absorbent, and KerraMacCare",
+      "Inadine, Iodoflex, Iodosorb, and Medihoney HCS",
+      "Intrasite Gel, ActivHeal Hydrogel, and Hydrosorb Comfort Tissue Viability Academy \u2022 Exam Paper 7 of 20 Page 3 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q11",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "What is the primary role and function of the Appeel medical adhesive remover line (Sachets, Foam applicator, Wipes, Aerosol)?",
+    "options": [
+      "To deliver chemical debridement to thick adhered slough layers",
+      "Facilitates the quick and easy removal of adhesive medical devices and dressings",
+      "To irrigate heavily contaminated puncture tracks before packing rounds",
+      "To apply a non-sting barrier film over deep incontinence excoriations"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q12",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "What specific functional transition and physical property defines the action of 'Alginates' like Kaltostat and CovaWound?",
+    "options": [
+      "They are highly fluid ointments that solidify into hard plastic shells upon skin air exposure",
+      "Alginate dressings are dry until they meet fluid in which they absorb and become a gel",
+      "They release active osmotic honey molecules to break down surrounding healthy skin margins",
+      "They form a thin, non-adherent grease film over superficial infant abrasions exclusively"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q13",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "Which of the following contains the complete, correct list of products displayed under the Iodine slide section?",
+    "options": [
+      "Flaminal Forte, Suprasorb C, and UrgoClean rope",
+      "Inadine, Iodoflex, and Iodosorb (Ointment, Powder, Dressings)",
+      "Aquacel Extra, Durafiber Ag, and Aquacel Ag+ ribbon",
+      "Granuflex Bordered, Comfeel Plus, and DuoDERM Extra Thin"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q14",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "What explicit underlying biological/physical action mechanism is listed on Slide 10 for Honey (Medihoney HCS)?",
+    "options": [
+      "Angiogenesis suppression",
+      "Osmosis",
+      "Phagocytic lysis",
+      "Capillary thermal constriction Tissue Viability Academy \u2022 Exam Paper 7 of 20 Page 4 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q15",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "Which individual product is uniquely listed on Slide 11 under the category \"Basic dressings\"?",
+    "options": [
+      "Viscopaste PB7",
+      "Jelonet",
+      "Opsite Flexigrid",
+      "CliniSorb"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q16",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "K-band, K-soft, K-lite, Stockinette, and Clinifast (Blue/Yellow/Red) are all explicitly tabulated under which category heading?",
+    "options": [
+      "Compression bandages",
+      "Bandages",
+      "Interactive Dressings",
+      "Exudate management"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q17",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "Viscopaste PB7 bandage, Ichthopaste, and ZipZoc are grouped together as examples of what specific class of items?",
+    "options": [
+      "Film Dressings",
+      "Medicated bandages",
+      "Hydrofibres",
+      "Hydrocolloids"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q18",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "What absolute structural mandate and clinical practice alert note is explicitly appended to the 'Compression bandages' slide?",
+    "options": [
+      "Compression bandages must be pre-heated to match core temperature baselines",
+      "Special training is needed to apply compression therapy",
+      "They can only be used on primary intention surgical lines under 3 weeks old",
+      "Student nurses are legally permitted to execute multi-layer wrapping unsupervised Tissue Viability Academy \u2022 Exam Paper 7 of 20 Page 5 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q19",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "Which of the following contains products listed under the 'Debridement' slide category?",
+    "options": [
+      "Appeel Sachets and medical adhesive wipes",
+      "Debrisoft pad, UCS Debridement pad, and Debrisoft Lolly",
+      "CliniSorb dressing and CarboFlex charcoal blocks",
+      "BAPScarCare Gel and SilDerm Scar Spray"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q20",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "Which individual dressing is uniquely specified under Slide 16 for the focused category of \"Exudate management\"?",
+    "options": [
+      "Jelonet strip",
+      "Mepilex Transfer dressing",
+      "Granuflex Bordered matrix",
+      "Cavilon Advanced liquid dressing"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q21",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "Biatain-ibu non-adhesive dressing is explicitly listed under which specific category folder block on Slide 18?",
+    "options": [
+      "Hydrofibres",
+      "Foams",
+      "Hydrocolloids",
+      "Gels"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q22",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "Granuflex Bordered, Granuflex (modified), Comfeel Plus, and DuoDERM Extra Thin belong to which distinct product family?",
+    "options": [
+      "Interactive Dressings",
+      "Hydrocolloids",
+      "Odour control",
+      "Wound Cleaning / Irrigation Tissue Viability Academy \u2022 Exam Paper 7 of 20 Page 6 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q23",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "Which specific pair of clinical dressings are designated under Slide 21 for the distinct purpose of \"Odour control\"?",
+    "options": [
+      "Jelonet and Opsite Flexigrid",
+      "CliniSorb dressing and CarboFlex dressing",
+      "Prontosan and Octenilin solutions",
+      "K-soft and Stockinette rolls"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q24",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "Flaminal Forte/Hydro, Suprasorb C, UrgoClean, HydroClean plus, UrgoClean Ag, Urgotul Silver, and UrgoStart belong to which category heading on Slide 22?",
+    "options": [
+      "Scar management",
+      "Interactive Dressings",
+      "Skin protectant",
+      "Absorbent dressings"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "wound-dressings-selection-formularies-q25",
+    "category": "Wound Dressings Selection Formularies",
+    "question": "Which of the following complete sets of products are grouped together under the 'Hydrofibres' category slide?",
+    "options": [
+      "Intrasite Gel, ActivHeal Hydrogel, and Hydrosorb sheet",
+      "Aquacel Extra, Aquacel Ag+ Ribbon, Aquacel Ag, Durafiber Ag, and Aquacel Ag+ Extra dressing",
+      "Cavilon Advanced liquid dressing, Medi Derma-S, and Medi Derma-Pro incontinence cleanser",
+      "Appeel wipes, sachets, foam applicators, and aerosols Tissue Viability Academy \u2022 Exam Paper 7 of 20 Page 7 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  }
+]

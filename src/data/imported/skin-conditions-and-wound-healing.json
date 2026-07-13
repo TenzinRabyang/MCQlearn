@@ -1,0 +1,327 @@
+[
+  {
+    "id": "skin-conditions-and-wound-healing-q1",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "The outer part of the skin is known as the epidermis and consists of four strata representing stages in cell maturation. What is the correct cell progression direction?",
+    "options": [
+      "From an outer corneal layer inward to a germinal layer",
+      "From a germinal layer outward to an outermost corneal layer",
+      "From the reticular dermis to the papillary dermal junction",
+      "From a dense subcutaneous fat cluster into the spiny stratum spinosum"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q2",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "Match the specific epidermal layers with their core architectural characteristics as stated in the slides. Which statement is perfectly accurate?",
+    "options": [
+      "The stratum corneum is composed of large, actively dividing germinal cells",
+      "The basal layer contains cells with lost nuclei that are flattened and packed with keratin",
+      "The stratum spinosum, or spiny layer, features spikey protrusions that help anchor cells together",
+      "The stratum granulosum features high fluid content and expanding cytoplasm thickness \u2022 \u2022 \u2022 \u2022 Integumentary Evaluation Center \u2022 Exam Paper 5 of 20 Page 1 of 8"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q3",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "The epidermis houses specialized cellular elements. Which specific cells are explicitly defined as being \"involved in immune function\"?",
+    "options": [
+      "Melanocytes",
+      "Langerhans cells",
+      "Merkel cells",
+      "Fibroblasts"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q4",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "What are Merkel cells explicitly responsible for within the epidermal layers?",
+    "options": [
+      "Synthesis of oily sebum secretions",
+      "Melanin manufacturing to block UV light lines",
+      "Sensory perception regarding light touch",
+      "Consumption of structural keratin inside the hair matrices"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q5",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "According to the clinical rule outlined on Slide 9, what happens if the basal layer of the epidermis is completely destroyed?",
+    "options": [
+      "The skin will experience an immediate transformation into thick hairless type blocks",
+      "The skin will not be able to regenerate, requiring a skin graft (autograft)",
+      "The apocrine glands accelerate production of high-protein fluids",
+      "The tissue proceeds immediately into maturation phase type 1 collagen synthesis"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q6",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "The dermis is divided into the papillary dermis and the reticular dermis. What specific clinical effect occurs when the dermis suffers tears under extreme stretching?",
+    "options": [
+      "The manifestation of tinea pedis fungal tracks",
+      "The production of striae or stretch marks",
+      "The complete loss of local eccrine sweat output capabilities",
+      "Malignant degeneration of benign nevi components Integumentary Evaluation Center \u2022 Exam Paper 5 of 20 Page 2 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q7",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "Blonde or red hair variants exhibit different tracking traits compared to dark hair. What chemical components are structurally increased in blonde or red hair variants?",
+    "options": [
+      "Nitrogenous waste and lactic acid",
+      "More sulphur and iron within the melanin variant",
+      "High-density liquid lipids and specialized enzymes",
+      "Type III collagen strings exclusively"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q8",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "Which skin glands secrete oily sebum that moistens the skin, helps prevent hair from drying out, and can lead to acne if inflamed?",
+    "options": [
+      "Eccrine sweat glands",
+      "Apocrine sweat glands",
+      "Ceruminous glands",
+      "Sebaceous glands"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q9",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "What is the explicit operational difference between eccrine and apocrine sweat glands?",
+    "options": [
+      "Eccrine glands produce thick earwax solutions, while apocrine glands manage lactation lines",
+      "Eccrine glands are the most common and secrete water with ions for cooling; apocrine glands produce a more viscous solution with protein/lipids stimulated by emotional factors",
+      "Eccrine glands are restricted to palms and soles, whereas apocrine glands pack the entire body surface area",
+      "Eccrine glands respond to emotional strain, while apocrine glands respond exclusively to environmental heat changes"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q10",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "The slides describe 5 key functions of the skin. Which process describes vitamin D production?",
+    "options": [
+      "It is excreted via eccrine waste streams in combination with glucose and lactic acid",
+      "It is absorbed directly via thin hairy skin matrices from the atmosphere",
+      "It is manufactured from cholesterol in response to UV radiation",
+      "It is compiled by phagocytic macrophages during the acute inflammatory phase Integumentary Evaluation Center \u2022 Exam Paper 5 of 20 Page 3 of 8"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q11",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "Review your seminar lesion types. Which definition accurately matches a \"Macule\"?",
+    "options": [
+      "An elevated rough lesion more than 1cm in diameter (e.g., psoriasis)",
+      "A flat area with a change of colour (e.g., freckles, nevi, measles)",
+      "An elevated firm area less than 1cm in diameter (e.g., wart, insect bite)",
+      "A profound loss of epidermis and dermis leading to tissue necrotization"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q12",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "Vitiligo and port-wine stains are explicitly classified as which specific type of primary skin lesion?",
+    "options": [
+      "Plaque",
+      "Patch (a flat, irregular-shaped macule more than 1cm in diameter)",
+      "Papule",
+      "Ulcer"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q13",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "What is the underlying physiological mechanism that initiates the production of a decubitus (pressure) ulcer?",
+    "options": [
+      "Malignant proliferation of epidermal keratinizing squamous epithelial cells",
+      "Ischaemia (reduced blood flow) triggered by unrelieved pressure, shearing forces, friction, or moisture leading to tissue necrosis",
+      "T-helper cell hyper-activation prompting hyperpigmentation boundaries",
+      "Fungal digestive enzymes consuming the basement membrane zones"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q14",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "Why does the pressure ulcer slide state that initial damage may be harder to assess in individuals with darker skin?",
+    "options": [
+      "Because darker skin contains thick hairless layers across all body quadrants",
+      "Because the initial ischaemic skin damage indicators may be harder to visually assess",
+      "Because melanocytes stop producing melanin over bone prominences entirely",
+      "Because skin stretching causes an immediate conversion of type I collagen into type III Integumentary Evaluation Center \u2022 Exam Paper 5 of 20 Page 4 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q15",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "Pruritus (itching) is highly prevalent across dermatology. Which systemic conditions are explicitly noted as being capable of leading to pruritus?",
+    "options": [
+      "Arsenic poisoning, striae development, and autograft failure",
+      "Renal failure, cholestatic liver disease, thyroid disorders, and drug reactions",
+      "Squamous cell carcinoma, melanoma degeneration, and staphylococcus clusters",
+      "Angiogenesis collapse, type I scar tissue mutations, and macular atrophy"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q16",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "Psoriasis is defined as a chronic relapsing, proliferative, inflammatory skin disorder. What classification and core cell mechanism define this disease?",
+    "options": [
+      "An allergic hypersensitivity reaction involving sensitized T-cells reacting to external metal toxins",
+      "An autoimmune disease based on T-helper activation, leading to thickened epidermis/dermis with proliferation of skin cells",
+      "A bacterial infiltration of connected hair follicles leading to systemic carbuncles",
+      "A surface epithelial tumor originating directly from mutated germinative Merkel lines"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q17",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "Bacterial infections can target the skin structures. What specific condition manifests if an infection of staphylococcus aureus or streptococci results in infection of the dermis and subcutaneous tissue?",
+    "options": [
+      "Candidiasis",
+      "Cellulitis",
+      "Tinea Capitis",
+      "Psoriasis Plaque tracks"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q18",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "Why is the skin so prone to fungal infections like Tinea, and how do they cause localized inflammation?",
+    "options": [
+      "Fungi invade the rich dermal blood vessels and consume white blood cells",
+      "Fungi consume keratin and cause inflammation from their digestive enzymes",
+      "Fungi transform eccrine water sweat outputs into thick lipids",
+      "Fungi mutate tumor-suppressing genes inside the basal layer strata Integumentary Evaluation Center \u2022 Exam Paper 5 of 20 Page 5 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q19",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "Regarding the three main types of skin cancer, which of the following perfectly matches the description of Basal Cell Carcinoma?",
+    "options": [
+      "It is the least common type but the most common cause of death from skin cancer",
+      "It originates from basal/germinative cells; metastatic spread is rare because it does not invade blood vessels or lymphatics",
+      "It is highly associated with drinking water containing massive levels of arsenic in the UK",
+      "It develops exclusively from pre-existing type I scar tissue configurations"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q20",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "Which skin cancer is defined as a malignant tumor of the cells that stimulate melanin production, is the least common type, but the most common cause of death from skin cancer?",
+    "options": [
+      "Squamous Cell Carcinoma",
+      "Basal Cell Carcinoma",
+      "Cutaneous Melanoma",
+      "Pilosebaceous Sarcoma"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q21",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "According to the seminar presentation, what are the exact criteria elements for the ABCDE rule used in the clinical assessment of melanoma?",
+    "options": [
+      "Absence, Boundary, Chronicity, Depth, Exudate",
+      "Asymmetry, Border irregularity, Colour variation, Diameter larger than 6mm, Elevation",
+      "Autograft, Basal tier, Cellulitis, Dermatitis, Eccrine flow",
+      "Abrasion, Blistering, Capillary count, Dermal depth, Elastin matrix"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q22",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "During the dynamic phases of wound healing, what physiological events characterize the \"Inflammatory Phase\"?",
+    "options": [
+      "The rapid development of new blood vessels via angiogenesis loops to supply oxygen",
+      "Initial vessel contraction and clot formation, followed by vasodilation allowing white blood cells/enzymes to reach the area, featuring neutrophils and macrophages",
+      "The active remodeling of collagen from flexible type III strands into firm type I strings",
+      "The immediate resurfacing of wound borders via specialized epithelialisation cells Integumentary Evaluation Center \u2022 Exam Paper 5 of 20 Page 6 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q23",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "Under the \"Proliferation\" phase slide, what clinical indicator is highlighted regarding the appearance of granulation tissue?",
+    "options": [
+      "Healthy tissue is dark purple, completely smooth, and bleeds with minimal movement",
+      "It is granular and uneven in texture, pink/red in colour, and does not bleed easily; dark granulation can indicate poor perfusion, ischaemia, and/or infection",
+      "It is composed entirely of dead keratinizing epithelial scales that block bacterial entry",
+      "Cellular activity completely halts and the aggregate number of blood vessels drops to zero"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q24",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "What specific structural modification occurs during the \"Maturation Phase\" of wound healing once the wound has closed?",
+    "options": [
+      "Macrophage cell counts double to execute debridement tasks",
+      "Remodelling of collagen from type III (flexible) to type I (associated with scar tissue)",
+      "Sutures or staples are automatically metabolized by epidermal digestive enzymes",
+      "Angiogenesis accelerates to quadruple the number of local capillaries"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "skin-conditions-and-wound-healing-q25",
+    "category": "Skin Conditions and Wound Healing",
+    "question": "Which healing category describes a scenario where \"there is no total penetration of the dermis, wound edges are brought together so they are adjacent, and closure is performed with sutures, staples, or tape\"?",
+    "options": [
+      "Secondary intention healing",
+      "Delayed primary closure or tertiary suturing",
+      "Primary intention healing",
+      "Tissue autograft reconstruction closure Integumentary Evaluation Center \u2022 Exam Paper 5 of 20 Page 7 of 8"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q1",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "According to the introductory slides, what basic physiological definition characterizes a pressure ulcer, also known as a bedsore or pressure injury?",
+    "options": [
+      "An allergic contact dermatitis breakout triggered exclusively by systemic heavy metal poisoning",
+      "Localised damage to the skin and/or underlying tissue, typically occurring over bony prominences due to sustained pressure",
+      "A superficial scrape caused by intense atmospheric cold that disrupts normal skin pH settings",
+      "The rapid bacterial consumption of normal commensal flora within un-sterilized surgical lacerations"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q2",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "Under the core aetiology slide, how are 'Shear Forces' explicitly defined regarding tissue and skeletal movement?",
+    "options": [
+      "Friction that happens when the skin rubs against an external rough sheet surface, removing the stratum corneum",
+      "Forces that occur when the skin moves in one direction while the underlying bone moves in another, damaging blood vessels",
+      "Excessive moisture build-up from urine or sweat that macerates the outer dermis boundaries",
+      "Sustained perpendicular compression that exceeds the metabolic baseline limits of cell mitochondria \u2022 \u2022 \u2022 \u2022 Tissue Viability & Safety Board \u2022 Exam Paper 8 of 20 Page 1 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q3",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "What specific structural or physiological trait characterizes the effect of 'Friction' on skin tissues as listed on Slide 8?",
+    "options": [
+      "It compromises deep muscle fibers before any visible surface markings take place",
+      "It causes superficial damage, such as abrasions or blisters, weakening the skin's protective barrier",
+      "It generates sudden reactive oxygen species loops that provoke reperfusion oxidative injuries",
+      "It causes an immediate drop in tissue interstitial pH fluid layers down to an acidic 2.5"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q4",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "According to Slide 7, sustained pressure exceeds standard 'capillary closing pressure' when it passes what explicit numeric benchmark?",
+    "options": [
+      "12 mmHg",
+      "20 mmHg",
+      "32 mmHg",
+      "55 mmHg"
+    ],
+    "correctAnswer": 2,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q5",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "During the ischemic cascade, hypoxia forces cells to shift their metabolic pathways. What is the explicit consequence of this metabolic shift as detailed in the text?",
+    "options": [
+      "A shift from anaerobic to aerobic pathways, causing high cholesterol synthesis structures",
+      "A shift from aerobic to anaerobic processes, leading to the accumulation of metabolic waste products like lactic acid",
+      "The immediate destruction of Langerhans cells, compromising the local skin immune response",
+      "The rapid production of type III collagen fibers to thicken the surrounding basement membrane zone"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q6",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "Why does the slide outline that shear forces primarily affect deep tissues, such as muscles and subcutaneous layers, before visible skin changes occur?",
+    "options": [
+      "Because deep tissues have an un-blanchable redness trait that absorbs external light tracks",
+      "Because they cause distortion and stretching of blood vessels at deeper anatomical planes",
+      "Because the outer stratum corneum is completely immune to any mechanical tissue distortion",
+      "Because deep muscle groups operate exclusively via anaerobic respiration at all shift times Tissue Viability & Safety Board \u2022 Exam Paper 8 of 20 Page 2 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q7",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "What is the baseline biochemical range for normal skin pH, and what protective barrier layer does this range structurally create?",
+    "options": [
+      "pH 1.5 \u2013 3.2; creates a sterile saline matrix",
+      "pH 4.5 \u2013 6.2; creates an acid mantle that acts as an effective neutralizing barrier",
+      "pH 7.35 \u2013 7.45; creates a trans-cellular fluid barrier",
+      "pH 8.0 \u2013 9.5; creates an alkaline lipid protective sheet"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q8",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "Why are older adults statistically more prone to moisture-related skin breakdown and friction injury according to Holroyd (2024)?",
+    "options": [
+      "Because their skin experiences an accelerated expansion of fat cell clusters inside the hypodermis",
+      "Due to thinning of the epidermis, flattening of the dermis-epidermis junction, reduced elasticity, and skin atrophy",
+      "Because their apocrine sweat glands generate massive levels of high-density glucose solutions",
+      "Due to a sudden biological conversion of type I scar collagen strings back into type III loops"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q9",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "What specific paradoxical phenomenon occurs during 'Reperfusion Injury' when sustained tissue pressure is suddenly relieved?",
+    "options": [
+      "Lactic acid instantly shifts back into aerobic glycogen stores, halting cell necrotization",
+      "The sudden influx of oxygen can generate reactive oxygen species (ROS), causing oxidative stress and additional damage",
+      "Dermal capillaries immediately constrict to 0 mmHg, preventing any local oedema from forming",
+      "The basement membrane zone separates completely from the spiny stratum spinosum tier Tissue Viability & Safety Board \u2022 Exam Paper 8 of 20 Page 3 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q10",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "According to the NICE (2024) guideline criteria on Slide 14, who is classified as being at \"high risk\" of developing a pressure ulcer?",
+    "options": [
+      "Any individual over 50 years of age presenting with high-density skin tone characteristics",
+      "People with multiple risk factors (e.g., significantly limited mobility, nutritional deficiency, history of PUs, or current PU)",
+      "Patients presenting exclusively with localized transient blanchable erythema over the heel pad",
+      "Individuals using high-density foam cushions for less than 30 minutes per calendar day"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q11",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "Which of the following contains the correct list of formal risk assessment scale tools named in your lecture syllabus?",
+    "options": [
+      "TIMERS, TILI, MUST, and the Waterlow Index card",
+      "Braden Scale, Waterlow, Norton Risk assessment scale, and Braden Q Scale (for children)",
+      "Datix Event Matrix, SCIE Map, and the ISTAP Skin Tear guidelines",
+      "ABCDE approach, NEWS chart, and the BVM ventilation checklist"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q12",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "What specific clinical characteristics define a \"Category 1\" pressure ulcer?",
+    "options": [
+      "Partial-thickness loss of the dermis resulting in a shallow open ulcer with a pink wound bed and no slough",
+      "Intact skin with non-blanchable redness of a localised area, usually over a bony prominence; area may feel painful, firm, soft, warmer or cooler",
+      "Full-thickness tissue loss with visible subcutaneous fat, undermining, and tunneling paths",
+      "A purple or maroon localized area of discoloration presenting as a blood-filled pocket blister"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q13",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "How does a \"Category 2\" pressure injury explicitly manifest visually according to Slide 16?",
+    "options": [
+      "Intact skin displaying transient blanchable erythema that shifts color when pressed",
+      "Partial-thickness loss of the dermis resulting in a shallow open ulcer with a red/pink wound bed; no slough will be present; may also present as a serum-filled blister",
+      "Full-thickness tissue loss where bone, tendon, and muscle are openly exposed to the floor elements",
+      "An unstageable cavity fully obscured by thick black eschar and yellow tan slough structures Tissue Viability & Safety Board \u2022 Exam Paper 8 of 20 Page 4 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q24",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "What are the precise anatomical boundaries and visibility limits laid out for a \"Category 3\" pressure ulcer?",
+    "options": [
+      "Partial-thickness epidermis wear where the underlying pink dermis layer is completely intact and unscratched",
+      "Full-thickness tissue loss. Subcutaneous fat may be visible, but tendon, bone, or muscle will NOT be exposed; slough may be present",
+      "Full-thickness tissue loss with exposed bone, tendon, and muscle, accompanied by a high probability of osteomyelitis",
+      "Intact corneal layer thickening showing deep maroon discolored blood pockets"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q15",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "A \"Category 4\" pressure injury carries the explicit risk of which serious bone-level secondary complication due to its exposed structures?",
+    "options": [
+      "Pilosebaceous inflammation",
+      "Osteomyelitis",
+      "Acid mantle disintegration",
+      "Reperfusion apoptosis cascade"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q16",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "How is an \"Unstageable\" pressure injury explicitly defined, and why is its true depth initially impossible to evaluate?",
+    "options": [
+      "It features intact skin with transient discolored patches that hide the underlying bone alignments",
+      "Full-thickness tissue loss in which the base of the wound is obscured by either slough and/or eschar; true depth is unknown until enough is removed",
+      "A partial-thickness scratch that is too small to be measured by standard hospital rulers",
+      "A pediatric cerebral palsy lesion where limited mobility prevents positioning changes Tissue Viability & Safety Board \u2022 Exam Paper 8 of 20 Page 5 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q17",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "What description perfectly matches a \"Suspected Deep Tissue Injury\" as presented on Slide 20?",
+    "options": [
+      "A shallow open ulcer with a bright red wound bed that presents with patchy yellow slough coatings",
+      "Purple or maroon localised area of skin discolouration or blood-filled blister due to damage of underlying tissue from pressure/shear; may feel firm, mushy, boggy, warm or cool",
+      "A well-repaired surgical incision line that demonstrates a sudden breakdown of type I collagen",
+      "Superficial skin peeling caused by incontinence maceration across the stratum corneum"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q18",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "Under the pressure redistribution strategies, what is the specific operational rationale behind an 'Alternating Pressure Mattress'?",
+    "options": [
+      "It pumps high-volume hot air across the bedding to dry urine or sweat exudates",
+      "They inflate and deflate sections to shift pressure points",
+      "It conforms statically to contours without any internal cell mechanical movement",
+      "It uses fluid gel layers to neutralize the skin's surface acid mantle"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q19",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "What explicit benefit and role is outlined on Slide 22 for a 'Low-Air-Loss Mattress'?",
+    "options": [
+      "It delivers direct electrical muscle stimulation to bedbound pediatric patients",
+      "These maintain a dry environment and reduce friction",
+      "It compresses capillary blood vessels to stop deep microvascular bleeding",
+      "It completely replaces the clinical necessity for manual 2-hourly repositioning schedules"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q20",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "When executing standard clinical repositioning techniques, what specific anatomical areas are nurses directed to pay close attention to?",
+    "options": [
+      "The eyelids and the dorsal forearm quadrants",
+      "Bony prominences (e.g., heels, sacrum, hips)",
+      "The central abdomen and the large muscle beds",
+      "The pre-tibial shin line and the cervical spine segments Tissue Viability & Safety Board \u2022 Exam Paper 8 of 20 Page 6 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q21",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "Why is 'Adequate Protein' highlighted as an essential component within nutritional pressure ulcer prevention planning?",
+    "options": [
+      "It balances the body's trans-cellular fluid compartments to prevent edema from compression",
+      "Protein is essential for tissue repair and regeneration; it helps maintain skin integrity and supports wound healing",
+      "It acts as a direct antioxidant to prevent reactive oxygen species from formatting",
+      "It elevates surface skin pH levels up to an alkaline neutral setting"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q22",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "Match the specific vitamins with their stated clinical care functions. Which statement is perfectly accurate based on Slide 24?",
+    "options": [
+      "Vitamin A acts as an antioxidant to block microvascular lactic acid formation",
+      "Vitamin C promotes collagen synthesis and wound healing; Vitamin A supports epithelial tissue repair",
+      "Vitamin E is responsible for initiating the clotting cascade over bony projections",
+      "Vitamin D prevents shear force stretching by binding subcutaneous fat layers together"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q23",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "In Case Study 1, a 75-year-old woman admitted to a medical ward for heart failure develops a pressure ulcer on her sacrum. What did routine skin checks discover?",
+    "options": [
+      "A deep cavity with exposed sacral bone matching Category 4 severity criteria",
+      "Non-blanchable erythema (Category I pressure ulcer)",
+      "A shallow serum-filled blister displaying category 2 partial-thickness dermis wear",
+      "A massive unstageable eschar patch covering her entire left hip quadrant"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q24",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "In Case Study 2, a 45-year-old man with paraplegia living independently at home undergoes self- monitoring. What pressure ulcer category does he discover on his left heel?",
+    "options": [
+      "Category I non-blanchable area",
+      "A shallow ulcer (Category II)",
+      "An unstageable slough crater",
+      "Exposed heel tendon (Category IV) Tissue Viability & Safety Board \u2022 Exam Paper 8 of 20 Page 7 of 8"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "pressure-ulcers-pathophysiology-prevention-q25",
+    "category": "Pressure Ulcers Pathophysiology Prevention",
+    "question": "Which advisory panel or institute is explicitly named alongside NICE in the guidelines section for offering evidence-based recommendations on pressure ulcers?",
+    "options": [
+      "The British Association of Critical Care Nurses (BACCN)",
+      "The National and European Pressure Ulcer Advisory Panels (NPUAP / EPUAP)",
+      "The International Skin Tear Advisory Panel (ISTAP)",
+      "The Chronic Pain Policy Coalition of the UK"
+    ],
+    "correctAnswer": 1,
+    "explanation": ""
+  }
+]

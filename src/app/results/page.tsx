@@ -3,9 +3,8 @@
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { useQuizStore } from "@/store/useQuizStore";
-import { Question } from "@/types";
 import { CheckCircle2, XCircle, Clock, Trophy, RotateCcw, Home, ChevronDown, ChevronUp } from "lucide-react";
-import questionsData from "@/data/questions.json";
+import { allQuestions } from "@/data/questionBank";
 
 export default function ResultsPage() {
   const router = useRouter();
@@ -35,7 +34,6 @@ export default function ResultsPage() {
   if (history.length === 0) return null;
 
   const latestResult = history[0];
-  const allQuestions = questionsData as Question[];
   const percentage = Math.round((latestResult.score / latestResult.total) * 100);
   
   const formatTime = (seconds: number) => {
@@ -108,11 +106,6 @@ export default function ResultsPage() {
       <div className="space-y-4">
         <h2 className="text-lg font-bold px-2">Detailed Breakdown</h2>
         <div className="space-y-3">
-          {/* We only know the correct/incorrect status from history. To show full breakdown, 
-              we iterate over questions from this session. Wait, history only saves score and incorrectIds.
-              Let's show all questions that were in this mode by assuming they were randomized but we don't have the exact order or selected answer. 
-              Actually, `history` doesn't save the exact questions if it was randomized. 
-              Let's improve this: Just show the ones they got wrong based on incorrectIds. */}
           {latestResult.incorrectIds.length > 0 ? (
             latestResult.incorrectIds.map(id => {
               const q = allQuestions.find(q => q.id === id);
