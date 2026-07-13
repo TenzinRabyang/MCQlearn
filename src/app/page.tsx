@@ -18,6 +18,7 @@ export default function HomePage() {
   }, []);
 
   if (!mounted) {
+    console.log("Not mounted yet");
     return (
       <div className="flex flex-col h-full justify-center items-center space-y-4">
         <div className="w-16 h-16 border-4 border-slate-200 border-t-slate-700 dark:border-slate-700 dark:border-t-slate-300 rounded-full animate-spin"></div>
@@ -27,7 +28,9 @@ export default function HomePage() {
   }
 
   const categories = Array.from(new Set(questions.map(q => q.category)));
-  const allIncorrectIds = Array.from(new Set(history.flatMap(h => h.incorrectIds)));
+  const allIncorrectIds = Array.from(new Set((history || []).flatMap(h => h.incorrectIds || [])));
+  
+  console.log("Mounted! categories length:", categories.length, "history length:", history?.length);
   
   const handleStartFullQuiz = () => {
     startQuiz('Full Quiz', questions);

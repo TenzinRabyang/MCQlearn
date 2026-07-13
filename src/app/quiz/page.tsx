@@ -44,26 +44,22 @@ export default function QuizPage() {
 
   useEffect(() => {
     if (!isActive || isAnswered) {
-      if (timerRef.current) clearInterval(timerRef.current);
       return;
     }
 
-    timerRef.current = setInterval(() => {
-      setTimeLeft((prev) => {
-        incrementTimeSpent();
-        if (prev <= 1) {
-          clearInterval(timerRef.current!);
-          answerQuestion(questions[currentIndex].id, -1); // -1 means timeout/unanswered
-          return 0;
-        }
-        return prev - 1;
-      });
+    const timer = setInterval(() => {
+      incrementTimeSpent();
+      setTimeLeft((prev) => prev - 1);
     }, 1000);
 
-    return () => {
-      if (timerRef.current) clearInterval(timerRef.current);
-    };
-  }, [currentIndex, isAnswered, isActive, questions, answerQuestion, incrementTimeSpent]);
+    return () => clearInterval(timer);
+  }, [isActive, isAnswered, incrementTimeSpent]);
+
+  useEffect(() => {
+    if (timeLeft <= 0 && !isAnswered && questions.length > 0) {
+      answerQuestion(questions[currentIndex].id, -1); // -1 means timeout/unanswered
+    }
+  }, [timeLeft, isAnswered, answerQuestion, questions, currentIndex]);
 
   if (!mounted) {
     return (
