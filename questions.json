@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "q1",
+    "category": "Basics of Pharmacology",
+    "question": "A patient is prescribed an oral medication that is known to undergo high first-pass metabolism. What does the nurse understand about the bioavailability of this drug?",
+    "options": [
+      "The drug will have 100% bioavailability.",
+      "The bioavailability will be significantly reduced before reaching systemic circulation.",
+      "The drug must be administered intravenously to activate first-pass clearance.",
+      "The half-life of the drug will double immediately upon absorption."
+    ],
+    "correctAnswer": 1,
+    "explanation": "First-pass metabolism occurs when an oral drug is absorbed from the GI tract into the portal circulation and metabolized by the liver before reaching systemic circulation, reducing its active bioavailability."
+  },
+  {
+    "id": "q2",
+    "category": "Basics of Pharmacology",
+    "question": "When evaluating a patient with severe renal impairment, the nurse checks the dosing of a drug primarily eliminated via the kidneys. Failing to adjust the dose in this patient increases the risk of:",
+    "options": [
+      "Accelerated metabolic breakdown",
+      "Shortened duration of action",
+      "Toxic accumulation of the drug",
+      "Type B anaphylactic reactions"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Excretion is the final process of pharmacokinetics, and the kidneys are the main route. Impaired renal function reduces clearance, causing the drug to accumulate to toxic levels if maintenance doses are not reduced."
+  },
+  {
+    "id": "q3",
+    "category": "Basics of Pharmacology",
+    "question": "An Angiotensin-Converting Enzyme (ACE) inhibitor is administered to block a specific enzymatic pathway. This mechanism of action belongs to which domain of pharmacology?",
+    "options": [
+      "Pharmacokinetics",
+      "Bioavailability",
+      "Pharmacodynamics",
+      "Biotransformation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pharmacodynamics describes what the drug does to the body, including its biochemical mechanisms of action, receptor interactions, and physiological effects."
+  },
+  {
+    "id": "q4",
+    "category": "Basics of Pharmacology",
+    "question": "A patient experiences an unexpected, severe anaphylactic reaction immediately after receiving a new intravenous antibiotic. How is this adverse drug reaction classified?",
+    "options": [
+      "Type A Reaction",
+      "Type B Reaction",
+      "Therapeutic Window extension",
+      "First-pass clearance phenomenon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Type B adverse events are unexpected, bizarre, independent of the known pharmacological dose, and frequently immunologically mediated (such as anaphylaxis)."
+  },
+  {
+    "id": "q5",
+    "category": "Basics of Pharmacology",
+    "question": "What is the clinical significance of a medication with a narrow therapeutic window?",
+    "options": [
+      "The drug is only effective for a very small number of diseases.",
+      "The margin between a therapeutic dose and a toxic dose is very small.",
+      "The drug remains in the systemic circulation for less than 30 minutes.",
+      "The medication cannot cross the blood-brain barrier under any circumstances."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A narrow therapeutic window means that minor changes in serum concentration can lead to either sub-therapeutic levels or severe toxicity, requiring close drug level monitoring."
+  },
+  {
+    "id": "q6",
+    "category": "Basics of Pharmacology",
+    "question": "Which of the following is defined as the time taken for the plasma concentration of a drug to reduce by half of its original value?",
+    "options": [
+      "Clearance rate",
+      "Bioavailability",
+      "Half-life",
+      "Distribution phase"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The half-life ($t_{1/2}$) is the time required for the body to eliminate 50% of the circulating drug concentration, which determines dosing frequency."
+  },
+  {
+    "id": "q7",
+    "category": "Basics of Pharmacology",
+    "question": "A drug that binds tightly to a cellular receptor and fully activates it to trigger a maximal physiological response is called a/an:",
+    "options": [
+      "Antagonist",
+      "Enzyme Blocker",
+      "Agonist",
+      "Transport Inhibitor"
+    ],
+    "correctAnswer": 2,
+    "explanation": "An agonist acts like a key in a lock, binding to a receptor protein and triggering a full downstream cellular or physiological response."
+  },
+  {
+    "id": "q8",
+    "category": "Basics of Pharmacology",
+    "question": "Salbutamol triggers bronchodilation by targeting beta-2 receptors in the lungs, but it can also cause tremors by binding to receptors outside the target organ. This side effect is an example of a:",
+    "options": [
+      "Type B unexpected outcome",
+      "Predictable Type A response",
+      "First-pass metabolic error",
+      "Toxic gain-of-function mutation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Side effects occurring due to receptor interactions outside the primary target organ that are expansions of the drug's known mechanism are classified as predictable Type A reactions."
+  },
+  {
+    "id": "q9",
+    "category": "Basics of Pharmacology",
+    "question": "A medication designed to block the active transport of serotonin back into the presynaptic neuron works via which pharmacodynamic mechanism?",
+    "options": [
+      "Enzyme inhibition",
+      "Lock-and-key activation",
+      "Transport inhibition",
+      "Direct cellular destruction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Transport inhibitors interfere with the specialized proteins or mechanisms responsible for moving chemicals or ions across cell membranes."
+  },
+  {
+    "id": "q10",
+    "category": "Basics of Pharmacology",
+    "question": "Which pharmacokinetic phase involves the movement of a medicine from its site of administration into the bloodstream across cell membranes?",
+    "options": [
+      "Distribution",
+      "Absorption",
+      "Metabolism",
+      "Excretion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Absorption is the initial transfer phase where the drug crosses biological cell membranes to enter the systemic vascular circulation."
+  },
+  {
+    "id": "q11",
+    "category": "Basics of Pharmacology",
+    "question": "When a drug is water-soluble rather than fat-soluble, how does this primarily impact its distribution in the body?",
+    "options": [
+      "It easily crosses the lipid-rich blood-brain barrier.",
+      "It has a lower volume of distribution and tends to remain within the vascular compartment.",
+      "It completely avoids hepatic first-pass metabolism.",
+      "It can never be excreted via the renal pathway."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Water-soluble drugs do not easily penetrate lipid cell membranes or fat tissue, restricting their primary distribution to vascular and extracellular fluids."
+  },
+  {
+    "id": "q12",
+    "category": "Basics of Pharmacology",
+    "question": "What is the primary organ responsible for the metabolic biotransformation of medicines into more water-soluble compounds?",
+    "options": [
+      "Kidneys",
+      "Lungs",
+      "Liver",
+      "Stomach"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The liver contains the primary enzymatic pathways (such as the cytochrome P450 system) responsible for converting lipophilic drugs into hydrophilic metabolites for easier excretion."
+  },
+  {
+    "id": "q13",
+    "category": "Basics of Pharmacology",
+    "question": "A patient is taking a drug with a half-life of 6 hours. If the plasma concentration is currently 100 mg/L, what will the concentration be in 12 hours, assuming no further doses are taken?",
+    "options": [
+      "50 mg/L",
+      "25 mg/L",
+      "12.5 mg/L",
+      "0 mg/L"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In 6 hours (one half-life), the level drops to 50 mg/L. In another 6 hours (12 hours total, two half-lives), it drops by half again to 25 mg/L."
+  },
+  {
+    "id": "q14",
+    "category": "Basics of Pharmacology",
+    "question": "The term \"Lock and Key\" mechanism in pharmacodynamics refers to the interaction between:",
+    "options": [
+      "The liver and the kidneys during excretion",
+      "A drug molecule and its specific protein receptor",
+      "An oral tablet and gastric acid",
+      "A digital health application and patient records"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The lock and key metaphor describes the structural specificity required for a drug molecule (key) to fit into and activate a receptor protein (lock)."
+  },
+  {
+    "id": "q15",
+    "category": "Basics of Pharmacology",
+    "question": "Why does the administration of an intravenous (IV) medication result in 100% bioavailability?",
+    "options": [
+      "It bypasses the absorption phase and enters the systemic circulation directly.",
+      "It accelerates hepatic enzyme production in the portal vein.",
+      "It prevents the drug from interacting with any plasma proteins.",
+      "It converts the drug from fat-soluble to water-soluble instantly."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Because IV drugs are injected directly into the bloodstream, they completely bypass the barriers of gastrointestinal absorption and first-pass hepatic extraction."
+  },
+  {
+    "id": "q16",
+    "category": "Basics of Pharmacology",
+    "question": "A patient requires an antimicrobial drug that acts specifically by disrupting the cell wall synthesis of invading organisms. This is an example of:",
+    "options": [
+      "Type B idiosyncratic response",
+      "Action on an invading organism",
+      "Receptor antagonism on host cells",
+      "Pharmacokinetic absorption delay"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Antimicrobials selectively target structures or metabolic pathways unique to invading pathogens (like bacterial cell walls) rather than host cell receptors."
+  },
+  {
+    "id": "q17",
+    "category": "Basics of Pharmacology",
+    "question": "Which parameter dictates the frequency of maintenance dosing required to keep a drug within its therapeutic window?",
+    "options": [
+      "Mode of administration",
+      "Drug half-life",
+      "Gastric emptying time",
+      "Tablet binding agents"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The elimination half-life determines how rapidly steady-state concentrations drop, thereby establishing how frequently a drug must be re-administered."
+  },
+  {
+    "id": "q18",
+    "category": "Basics of Pharmacology",
+    "question": "A nurse monitors a patient for signs of a drug overdose because the drug has a very narrow therapeutic index. This means:",
+    "options": [
+      "The drug can only be given via a narrow gauge needle.",
+      "The drug is toxic at almost any dose level.",
+      "The effective dose is very close to the toxic dose.",
+      "The drug works only in a highly localized tissue space."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A narrow therapeutic index implies that the range between the minimum effective concentration and the minimum toxic concentration is exceptionally thin."
+  },
+  {
+    "id": "q19",
+    "category": "Basics of Pharmacology",
+    "question": "What term describes the process of a drug leaving the bloodstream and traveling into interstitial and intracellular fluids to reach body tissues?",
+    "options": [
+      "Absorption",
+      "Distribution",
+      "Metabolism",
+      "Elimination"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Distribution is the reversible transfer of a drug from the systemic circulation into the surrounding tissues and organs."
+  },
+  {
+    "id": "q20",
+    "category": "Basics of Pharmacology",
+    "question": "When a patient is prescribed an enzyme inducer, how does this affect the metabolism of other drugs broken down by the same liver pathways?",
+    "options": [
+      "It slows down their metabolism, increasing toxicity risks.",
+      "It speeds up their metabolism, potentially reducing therapeutic efficacy.",
+      "It stops renal excretion entirely.",
+      "It increases the drug's initial bioavailability to 100%."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Enzyme inducers accelerate hepatic metabolic activity, causing co-administered drugs to be broken down more rapidly, which can lower their therapeutic levels."
+  },
+  {
+    "id": "q21",
+    "category": "Digital Health Nursing",
+    "question": "Which nursing theory explores the integration of advanced diagnostic technologies with humanistic nursing actions, stating that technology can express authentic care?",
+    "options": [
+      "Orem's Self-Care Agency Framework",
+      "Locsin\u2019s Theory of Technological Competency as Caring in Nursing (TCCN)",
+      "Roper-Logan-Tierney Activities of Living",
+      "The Manchester Triage Allocation Model"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Locsin's TCCN theory emphasizes that using technological tools competently enables a more holistic understanding of the patient, serving as an extension of authentic caring."
+  },
+  {
+    "id": "q22",
+    "category": "Digital Health Nursing",
+    "question": "In digital health informatics, what is defined as an AI \"hallucination\"?",
+    "options": [
+      "A patient experiencing visual disturbances caused by screen glare.",
+      "An artificial intelligence tool generating highly plausible-sounding but factually fabricated or incorrect clinical data.",
+      "The electronic patient diary app crashing due to a low battery.",
+      "An automated blood pressure cuff inflating repeatedly without reason."
+    ],
+    "correctAnswer": 1,
+    "explanation": "AI hallucinations occur when large language models or algorithms generate outputs that sound clinically confident but contain false information, requiring strict human validation."
+  },
+  {
+    "id": "q23",
+    "category": "Digital Health Nursing",
+    "question": "A patient with Type 1 Diabetes uses a continuous glucose monitor (CGM). What major advantage does a factory-calibrated real-time CGM offer over traditional finger-prick testing?",
+    "options": [
+      "It completely eliminates the need for any subcutaneous insulin injections.",
+      "It increases time-in-target ranges and lowers HbA1c levels by providing ongoing trend data.",
+      "It entirely bypasses first-pass hepatic metabolism of foods.",
+      "It prevents the development of Type B drug reactions."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Real-time continuous monitoring provides ongoing trend vectors, enabling patients to proactively address impending hyper- or hypoglycemia, optimizing glycemic control."
+  },
+  {
+    "id": "q24",
+    "category": "Digital Health Nursing",
+    "question": "A patient uses an Electronic Patient Diary (e-diary) application to track chronic asthma symptoms. What is the primary clinical benefit of this digital tool?",
+    "options": [
+      "It legally permits the patient to alter their steroid doses without medical input.",
+      "It reduces memory recall bias by logging symptoms and medication adherence in real time.",
+      "It automatically alerts emergency rescue teams every time a dose is logged.",
+      "It eliminates the need for future face-to-face objective assessments."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Electronic diaries collect real-time data at the moment symptoms occur, eliminating retrospective recall errors and providing clinicians with precise data to modify care plans."
+  },
+  {
+    "id": "q25",
+    "category": "Digital Health Nursing",
+    "question": "According to Locsin's framework, how should a nurse view technology when interacting with a patient?",
+    "options": [
+      "As a mechanical barrier that decreases the time available for patient rapport.",
+      "As an informative tool that helps the nurse understand the patient as a whole, rather than just a collection of parts.",
+      "As a substitute for basic physical assessments like auscultation.",
+      "As a legal buffer designed to shift professional accountability away from the nurse."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Locsin emphasizes that technological competency is caring, using digital tools to gain deeper, holistic insight into the patient's immediate health state."
+  },
+  {
+    "id": "q26",
+    "category": "Digital Health Nursing",
+    "question": "Which digital health platform in the UK allows citizens to access GP health records, verify vaccine statuses, and obtain standardized health advice?",
+    "options": [
+      "The Menti System",
+      "The NHS App",
+      "The Manchester Streaming System",
+      "The ASPIRE Portal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The NHS App serves as the centralized digital interface for patients in England to view records, order prescriptions, and check digital health parameters."
+  },
+  {
+    "id": "q27",
+    "category": "Digital Health Nursing",
+    "question": "When implementing digital telehealth monitoring for an elderly patient at home, which factor must the nurse assess first to ensure safety?",
+    "options": [
+      "The patient's access to private transport",
+      "The patient's and caregiver's digital literacy and ability to interact with the device safely",
+      "The manufacturer's corporate profit margins",
+      "The patient's historical volume of distribution"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Telehealth efficacy depends on the user's ability to operate equipment correctly; assessing digital literacy is essential to prevent data omission or incorrect reporting."
+  },
+  {
+    "id": "q28",
+    "category": "Digital Health Nursing",
+    "question": "What is a primary risk associated with data transmission in mobile health (mHealth) applications?",
+    "options": [
+      "Instant reduction in the drug's chemical half-life",
+      "Data privacy breaches if encryption protocols are weak or absent",
+      "Complete loss of the patient's legal capacity status",
+      "Automatic conversion of water-soluble drugs into fat-soluble variants"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mobile health tools that transmit personal health indicators across networks require robust encryption to safeguard patient confidentiality under data protection regulations."
+  },
+  {
+    "id": "q29",
+    "category": "Digital Health Nursing",
+    "question": "A continuous glucose monitoring study highlighted that using real-time sensors instead of intermittent finger-pricks significantly benefited which specific patient cohort during lockdowns?",
+    "options": [
+      "Neonatal intensive care patients",
+      "Adolescents and young adults with Type 1 Diabetes",
+      "Elderly patients with stable Vascular Dementia",
+      "Post-operative appendectomy patients"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Research shows that young cohorts utilizing real-time digital sensors achieved better metabolic time-in-target indicators, stabilizing glycemic fluctuations during periods of disrupted routines."
+  },
+  {
+    "id": "q30",
+    "category": "Digital Health Nursing",
+    "question": "What is the role of a Clinical Decision Support System (CDSS) embedded within an Electronic Health Record?",
+    "options": [
+      "To replace the primary nurse's clinical judgment completely.",
+      "To provide evidence-based reminders, alerts, and guidance to healthcare professionals during care delivery.",
+      "To automatically delegate clinical tasks to unregulated staff.",
+      "To eliminate the need for taking verbal patient histories."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A CDSS acts as an analytical tool that cross-references patient data with clinical knowledge bases to provide real-time alerts (e.g., drug interactions) to enhance safety."
+  },
+  {
+    "id": "q31",
+    "category": "Digital Health Nursing",
+    "question": "The integration of wearables that monitor heart rate trends directly supports which phase of the nursing process?",
+    "options": [
+      "Financial billing",
+      "Objective assessment and continuous re-assessment",
+      "Medication formulation",
+      "Diagnostic coding"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Continuous physiological data streams from wearables enhance the nurse's ability to identify early patterns of deterioration or positive responses to treatment."
+  },
+  {
+    "id": "q32",
+    "category": "Digital Health Nursing",
+    "question": "A nurse uses a digital platform to conduct a structured video consultation with a rural patient. This practice falls under the definition of:",
+    "options": [
+      "Automated AI hallucination",
+      "Telehealth / Telemedicine",
+      "Non-compliant nursing navigation",
+      "Closed-minded communication"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Telehealth is the distribution of health-related services and information via electronic information and telecommunication technologies to bridge geographic gaps."
+  },
+  {
+    "id": "q33",
+    "category": "Digital Health Nursing",
+    "question": "If an artificial intelligence tool recommends a medication dose change, what must the nurse do before executing the order?",
+    "options": [
+      "Administer the dose immediately to avoid system delays.",
+      "Critically evaluate the recommendation against clinical guidelines and verify it with a qualified prescriber.",
+      "File an immediate incident report for automated computer error.",
+      "Ignore the electronic health record completely for the remainder of the shift."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nurses retain professional accountability for actions taken; AI tools are supportive, and all automated outputs must be verified by clinical judgment."
+  },
+  {
+    "id": "q34",
+    "category": "Digital Health Nursing",
+    "question": "Which digital tool allows an inflammatory bowel disease patient to log daily stool charts and pain scores dynamically?",
+    "options": [
+      "Continuous blood pressure monitor",
+      "Electronic patient diary (e-diary)",
+      "Manchester Triage algorithm",
+      "Roper-Logan-Tierney dependency map"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An e-diary captures real-time, patient-reported outcomes for specific chronic variables, facilitating tailored medical and nursing reviews."
+  },
+  {
+    "id": "q35",
+    "category": "Digital Health Nursing",
+    "question": "Digital health technologies can help reduce carbon emissions in healthcare primarily by:",
+    "options": [
+      "Reducing the need for physical travel via virtual clinics and remote monitoring",
+      "Increasing the use of disposable plastic finger-prick lancets",
+      "Requiring high-power continuous server farms",
+      "Restricting patient access to emergency departments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "By replacing routine, low-risk physical visits with digital reviews, telehealth significantly decreases vehicle use and the associated carbon footprint."
+  },
+  {
+    "id": "q36",
+    "category": "Digital Health Nursing",
+    "question": "When introducing an e-health monitoring tool, a patient states, \"I am worried a machine cannot care for me like a real nurse.\" Which response aligns with Locsin's theory?",
+    "options": [
+      "\"Machines are more efficient than human nurses, so your care will be better.\"",
+      "\"The technology is just a tool that helps me monitor your health closely so I can deliver more precise, individualized care.\"",
+      "\"You are legally required to use this system under hospital policy.\"",
+      "\"This device allows us to care for you without needing to speak to you directly.\""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Under TCCN, technology does not replace the human nurse; rather, it provides data that enhances the nurse's capacity to deliver authentic, humanistic care."
+  },
+  {
+    "id": "q37",
+    "category": "Digital Health Nursing",
+    "question": "What type of bias occurs if a digital triage tool is trained only on data from a single, narrow population group?",
+    "options": [
+      "Illogical baseline shift",
+      "Algorithmic / Selection Bias",
+      "First-pass filtration error",
+      "SBAR communication block"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If health software algorithms are built on non-representative datasets, they can generate skewed or inaccurate clinical recommendations for diverse patient populations."
+  },
+  {
+    "id": "q38",
+    "category": "Digital Health Nursing",
+    "question": "A patient requests a printout of their digital blood pressure log to discuss with their specialist. This practice is an expression of:",
+    "options": [
+      "Non-compliant self-care",
+      "Patient empowerment and shared decision-making",
+      "Professional boundary violation",
+      "Closed-minded clinical reasoning"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Providing patients with transparent access to their digital data fosters active participation, improving engagement and chronic self-management outcomes."
+  },
+  {
+    "id": "q39",
+    "category": "Digital Health Nursing",
+    "question": "The term \"interoperability\" in digital health nursing refers to:",
+    "options": [
+      "The battery lifespan of portable vital sign monitors.",
+      "The ability of different health information systems and software applications to communicate and exchange data accurately.",
+      "The separation of administrative records from clinical nursing charts.",
+      "The speed at which a nurse types a progress note."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interoperability ensures that vital patient metrics flow between primary care, emergency services, and specialist clinics, reducing clinical blind spots."
+  },
+  {
+    "id": "q40",
+    "category": "Digital Health Nursing",
+    "question": "What is the fundamental goal of applying digital health informatics to modern nursing practice?",
+    "options": [
+      "To completely eliminate the need for clinical reflection.",
+      "To maximize patient safety, streamline workflows, and optimize evidence-based clinical outcomes.",
+      "To convert all standard care activities into rigid, automated algorithms.",
+      "To minimize direct verbal engagement between nurses and patients."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Informatics integrates nursing science, computer science, and information science to manage data and support clinical decision-making, aiming to improve safety and care quality."
+  },
+  {
+    "id": "q41",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "What is the primary focus of the Roper-Logan-Tierney (RLT) Model of Nursing when performing a patient assessment?",
+    "options": [
+      "Evaluating the patient\u2019s financial assets and macroeconomic stability.",
+      "Assessing the patient\u2019s capacity across 12 Activities of Living positioned on a dependence-independence continuum.",
+      "Determining immediate emergency triage urgency categories.",
+      "Calculating cellular transport inhibition indices."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The RLT model frameworks patient evaluation around 12 distinct Activities of Living, assessing how their development, life stage, and environment influence their level of independence."
+  },
+  {
+    "id": "q42",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "A nurse is designing a care plan using Dorothea Orem\u2019s model. The main objective of interventions under this framework is to:",
+    "options": [
+      "Complete all activities of daily living for the patient to ensure complete rest.",
+      "Support, maintain, and develop the patient\u2019s personal self-care agency.",
+      "Follow automated pre-printed medical protocols blindly.",
+      "Route all decisions through the hospital's clinical decision support algorithm."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Orem\u2019s Self-Care Deficit Theory centers on identifying what the patient can do (self-care agency) and intervening only where a deficit exists, promoting independence."
+  },
+  {
+    "id": "q43",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "The iterative nursing process framework designated by the acronym \"ASPIRE\" follows which sequential order?",
+    "options": [
+      "Assessment, Storytelling, Procurement, Intervention, Review, Evaluation",
+      "Assessment, Systematic Planning, Implementation, Re-assessment, Evaluation",
+      "Assessment, Specialization, Prescription, Implementation, Regulation, Exit",
+      "Action, Strategy, Planning, Implementation, Reflection, Evaluation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ASPIRE is a structured care planning framework: Assessment, Systematic Planning, Implementation, Re-assessment, and Evaluation."
+  },
+  {
+    "id": "q44",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "A 67-year-old patient is admitted with a suspected deep vein thrombosis. Following standard ward protocol, the nurse selects a generic, pre-printed care plan for weight loss because the chart notes a 6kg drop over three months. Why is this practice criticized?",
+    "options": [
+      "Pre-printed plans are entirely illegal under national fraud guidelines.",
+      "It bypasses individualized, person-centered assessment, missing the root cause of the weight loss (such as mechanical dysphagia or dental issues).",
+      "Generic plans can only be filled out by registered dietitians.",
+      "It automatically voids the patient's legal capacity status."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Generic, pre-printed care plans encourage tick-box behaviors that neglect the unique, holistic context of the individual, which can lead to inappropriate care pathways."
+  },
+  {
+    "id": "q45",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "According to the Nursing and Midwifery Council (NMC) 2018 standards, what is the central role expected of professional nurses regarding care delivery?",
+    "options": [
+      "Performing tasks exclusively dictated by electronic algorithms.",
+      "Being accountable for the comprehensive assessment of patient needs and the planning of evidence-based, person-centered care.",
+      "Delegating all assessment responsibilities to unregulated team members.",
+      "Memorizing institutional policies without evaluating their clinical rationale."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The NMC's Future Nurse standards establish that registered nurses are directly accountable for leading assessments and coordinating individual care plans."
+  },
+  {
+    "id": "q46",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "An \"asset-based approach\" to patient care planning focuses primarily on:",
+    "options": [
+      "Categorizing the patient's physical financial holdings before admission.",
+      "Evaluating what individuals have and can do, building on their personal strengths and social networks.",
+      "Listing only the biological deficits and physiological failures of the target organs.",
+      "Maximizing the use of expensive institutional monitoring hardware."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Asset-based care focuses on the patient's existing capabilities, relationships, skills, and strengths rather than viewing them solely as a list of medical deficits."
+  },
+  {
+    "id": "q47",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "Under the Roper-Logan-Tierney model, which of the following is categorized as one of the 12 Activities of Living?",
+    "options": [
+      "Hepatic biotransformation",
+      "Maintaining a safe environment",
+      "Serum drug level monitoring",
+      "Emergency triage streaming"
+    ],
+    "correctAnswer": 1,
+    "explanation": "\"Maintaining a safe environment\" is a core Activity of Living in the RLT framework, alongside functions like breathing, eating, and personal grooming."
+  },
+  {
+    "id": "q48",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "A patient can feed themselves independently if their meat is pre-cut by the staff. Under Orem's model, how should the nurse class this care requirement?",
+    "options": [
+      "Wholly compensatory system",
+      "Partially compensatory system",
+      "Supportive-educative system",
+      "Total self-care agency failure"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A partially compensatory system applies when both the nurse and the patient perform care actions, collaborating to meet universal self-care requisites."
+  },
+  {
+    "id": "q49",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "Why is the \"Re-assessment\" phase of the ASPIRE framework critical when managing an acute patient?",
+    "options": [
+      "It satisfies administrative record audits for hospital discharge billing.",
+      "It ensures the care plan evolves dynamically in response to changes in the patient's physiological or psychological status.",
+      "It allows the nurse to transfer absolute legal liability to the next shift.",
+      "It completely replaces the formal evaluation stage."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Re-assessment involves checking the patient's response to interventions, ensuring that care plans are updated as the patient's condition changes."
+  },
+  {
+    "id": "q50",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "A nurse incorporates a patient\u2019s family and social circle into the daily care plan to assist with emotional orientation. This aligns with which care paradigm?",
+    "options": [
+      "Wholly compensatory institutionalism",
+      "Person-centered and asset-based care",
+      "Narrow therapeutic index management",
+      "Linear emergency streaming"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Involving the patient's wider social network and recognizing their relationships is a key element of a person-centered, asset-based nursing approach."
+  },
+  {
+    "id": "q51",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "When utilizing the RLT model, a patient's place on the dependence-independence continuum is influenced by five impact factors. Which of the following is one of these factors?",
+    "options": [
+      "Half-life variations",
+      "Psychological factors",
+      "Manchester priority flags",
+      "Digital app interoperability"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The RLT model specifies biological, psychological, sociocultural, environmental, and politicoeconomic factors as the five key influences on the activities of living."
+  },
+  {
+    "id": "q52",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "A nurse documents: \"Patient is unable to perform independent oral hygiene due to severe tremors.\" This statement represents which part of the care planning process?",
+    "options": [
+      "Implementation of a supportive system",
+      "Identification of a nursing problem / self-care deficit",
+      "Final retrospective evaluation",
+      "Macro-economic asset mapping"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Identifying where a patient's capacity falls short of meeting their daily needs establishes the nursing problem or self-care deficit that requires intervention."
+  },
+  {
+    "id": "q53",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "Under Orem's model, a patient who is completely unconscious requires which type of nursing system?",
+    "options": [
+      "Supportive-educative",
+      "Partially compensatory",
+      "Wholly compensatory",
+      "Independent agency"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When a patient is socially and physically unable to participate in their own self-care actions, the nurse must implement a wholly compensatory system to meet all survival needs."
+  },
+  {
+    "id": "q54",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "What does the \"Systematic Planning\" stage of the ASPIRE framework involve?",
+    "options": [
+      "Performing the initial physical head-to-toe examination.",
+      "Formulating clear, measurable, patient-centered goals and selecting evidence-based nursing interventions.",
+      "Carrying out the prescribed clinical procedures at the bedside.",
+      "Interviewing the patient's family regarding past medical histories."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Planning translates assessment data into a clear plan, identifying specific, measurable outcomes and the interventions required to achieve them."
+  },
+  {
+    "id": "q55",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "A care plan notes that an elderly patient becomes highly disoriented if woken abruptly. The nurse schedules routine checks to minimize sleep disruption. This is an example of adjusting which RLT Activity of Living?",
+    "options": [
+      "Expressing sexuality",
+      "Sleeping",
+      "Controlling body temperature",
+      "Working and playing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Modifying nursing schedules to preserve natural rest patterns addresses the Activity of Living of \"Sleeping\" in an individualized manner."
+  },
+  {
+    "id": "q56",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "What is a key hazard of a nurse failing to involve the patient in the care planning conversation?",
+    "options": [
+      "Immediate reduction in the drug's therapeutic window.",
+      "The development of an inaccurate, non-compliant plan that fails to address the patient's true priorities or choices.",
+      "Automatic referral to the Manchester Triage committee.",
+      "Instant loss of the nurse's registration status."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Shared decision-making is central to person-centered care; failing to engage the patient can lead to plans that ignore their preferences, reducing adherence and efficacy."
+  },
+  {
+    "id": "q57",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "A nurse evaluates a care plan and notes: \"Goal met: Patient walked 20 meters independently with a frame.\" This activity belongs to which phase?",
+    "options": [
+      "Assessment",
+      "Implementation",
+      "Evaluation",
+      "Re-assessment"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Evaluation measures the patient's progress against the established goals to determine the effectiveness of the care plan."
+  },
+  {
+    "id": "q58",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "Under Orem's theory, when an individual possesses the knowledge, skills, and motivation to perform their own daily bathing without assistance, they demonstrate effective:",
+    "options": [
+      "Wholly compensatory compliance",
+      "Self-care agency",
+      "Transport inhibition",
+      "Illogical status-quo bias"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Self-care agency is the human capability to recognize, initiate, and perform health-sustaining actions independently."
+  },
+  {
+    "id": "q59",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "How does an asset-based care approach change the role of the patient's family in long-term care planning?",
+    "options": [
+      "It views the family as a burden that creates environmental distractions.",
+      "It identifies the family as a key strength and partner in supporting the patient's well-being and independence.",
+      "It excludes the family from all private clinical data exchanges.",
+      "It shifts all formal legal liability for medical errors onto the relatives."
+    ],
+    "correctAnswer": 1,
+    "explanation": "An asset-based framework maps the patient's social network as an active resource, engaging family members to optimize holistic care delivery."
+  },
+  {
+    "id": "q60",
+    "category": "Developing Nursing Care Plans Using Nursing Models",
+    "question": "A care plan statement states: \"Administer 2L oxygen via nasal cannulae as prescribed to maintain saturations between 92-96%.\" This is an example of:",
+    "options": [
+      "An assessment parameter",
+      "A nursing intervention",
+      "A personal aspiration",
+      "A self-care agency asset"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nursing interventions are the specific, evidence-based actions executed by the clinician to help the patient achieve their established health goals."
+  },
+  {
+    "id": "q61",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "Which of the following best defines \"critical thinking\" in professional adult nursing practice?",
+    "options": [
+      "Quickly memorizing institutional guidelines to pass local ward audits.",
+      "A structured, systematic analysis of nursing practice that promotes quality care, positive outcomes, and patient safety.",
+      "Accepting historical practices without questioning their current validity.",
+      "Deflecting professional blame onto junior team members during crises."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Critical thinking is a purposeful, systematic cognitive process used to analyze evidence, contextualize clinical situations, and make safe, evidence-based decisions."
+  },
+  {
+    "id": "q62",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "A nurse states: \"We have always managed this post-operative presentation this way on our unit, so there is no need to review the new guideline.\" This is an example of which thinking error?",
+    "options": [
+      "Knowledge deficit regarding basic anatomy",
+      "Illogical thinking / Status-quo bias",
+      "Closed-mindedness toward family choices",
+      "Intentional selection bias"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Relying on \"we have always done it this way\" without examining current evidence represents a status-quo bias and illogical reasoning that can compromise safety."
+  },
+  {
+    "id": "q63",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "During a busy shift, a nurse ignores a valid clinical intervention suggested by a specialized colleague because they want to stick to their initial assumptions. This barrier to critical thinking is defined as:",
+    "options": [
+      "Logic deficit",
+      "Closed-mindedness",
+      "Cognitive fatigue",
+      "Communication block"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Closed-mindedness occurs when a professional rejects alternative viewpoints or expert suggestions due to rigid reliance on their own preconceptions."
+  },
+  {
+    "id": "q64",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "A newly qualified nurse administers 10 units of rapid-acting insulin instead of the prescribed 5 units. What is the nurse's immediate priority action?",
+    "options": [
+      "Hide the chart to prevent disciplinary action.",
+      "Report the incident immediately to the charge nurse and physician, and initiate frequent blood glucose monitoring.",
+      "Instruct the HCA to check the patient's vital signs in four hours.",
+      "Wait until the end of the shift to document the event in the electronic records."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Professional accountability requires transparency and immediate action to protect patient safety, followed by close monitoring to mitigate potential harm."
+  },
+  {
+    "id": "q65",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "A patient recovering from an appendectomy requests additional opioid pain medication 2 hours after their last dose. The prescription states it can only be given every 6 hours, and the physician refuses to alter the order. To manage this clinical dilemma critically, the nurse should:",
+    "options": [
+      "Violate the prescription order to ensure the patient is pain-free.",
+      "Tell the patient their pain cannot be managed and avoid entering the room.",
+      "Re-assess the pain holistically, document findings, and employ non-pharmacological comfort strategies while advocating for a medical review if indicated.",
+      "Delegate the decision entirely to an unregulated assistant practitioner."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Critical thinking involves working within legal boundaries while using holistic skills (assessment, comfort measures, communication) to address patient distress and advocate for their needs."
+  },
+  {
+    "id": "q66",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "When a nurse uses a structured, logical approach to evaluate patient data rather than relying on gut feelings alone, they are avoiding which cognitive pitfall?",
+    "options": [
+      "SBAR escalation",
+      "Unfounded assumptions",
+      "Professional reflection",
+      "Evidence-based practice"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Base assumptions take facts for granted without objective verification. Critical thinking requires validating clinical data before implementing interventions."
+  },
+  {
+    "id": "q67",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "Reflective practice in nursing is primarily designed to:",
+    "options": [
+      "Standardize financial billing processes across wards.",
+      "Enable continuous learning, analyze personal performance, and enhance future clinical judgment.",
+      "Replace the need for formal continuing professional development hours.",
+      "Shift accountability away from individual practitioners."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reflection allows nurses to examine their actions, learning from both successes and errors to improve their clinical reasoning and practice."
+  },
+  {
+    "id": "q68",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "A nurse reviews a case where a deteriorating patient was missed because the previous shift failed to record a complete set of vital signs. This error falls under which category?",
+    "options": [
+      "Selection bias",
+      "Lack of information / Knowledge deficit",
+      "Closed-mindedness",
+      "Illogical status-quo bias"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Making clinical decisions or handovers based on incomplete information creates blind spots that can lead to delayed recognition of deterioration."
+  },
+  {
+    "id": "q69",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "Which structured framework is most effective for escalating critical data about a deteriorating patient to an uncooperative physician?",
+    "options": [
+      "Roper-Logan-Tierney checklist",
+      "SBAR (Situation, Background, Assessment, Recommendation)",
+      "Orem self-care agency continuum",
+      "ASPIRE financial summary"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SBAR provides a clear, concise, and objective communication structure that helps ensure critical physiological information is shared during escalations."
+  },
+  {
+    "id": "q70",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "If a nurse approaches a clinical scenario with preconceived notions or favoritism toward a particular outcome without reviewing objective data, they are demonstrating:",
+    "options": [
+      "Open-mindedness",
+      "Bias",
+      "Logic",
+      "Reflection"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bias involves letting subjective prejudices or preconceived ideas influence clinical judgment, which can lead to inappropriate care decisions."
+  },
+  {
+    "id": "q71",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "A nurse takes time after a critical incident to write down what went well, what was challenging, and how they would handle a similar situation in the future. This process is called:",
+    "options": [
+      "Algorithmic streaming",
+      "Self-reflection",
+      "Selection bias",
+      "Wholly compensatory care"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Structured self-reflection is a core component of professional development, helping clinicians turn practical experiences into meaningful learning."
+  },
+  {
+    "id": "q72",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "What is a key characteristic of \"critical reasoning\" during a patient assessment?",
+    "options": [
+      "Collecting data quickly without interpreting its significance.",
+      "Analyzing and synthesizing objective and subjective cues to form a sound clinical judgment.",
+      "Standardizing all care plans to follow identical interventions.",
+      "Delegating the final interpretation of data to administrative staff."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Critical reasoning involves analyzing data points collectively, recognizing patterns of illness or wellness, and using that synthesis to guide clinical action."
+  },
+  {
+    "id": "q73",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "When a nurse questions an unclear or potentially unsafe drug prescription, they are demonstrating:",
+    "options": [
+      "Professional insubordination",
+      "Critical evaluation and professional accountability",
+      "Closed-mindedness toward colleagues",
+      "Illogical status-quo bias"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The NMC Code requires registered professionals to maintain safety, which includes critically evaluating and clarifying any orders that appear unclear or unsafe."
+  },
+  {
+    "id": "q74",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "Which of the following is a recognized barrier to effective critical thinking in a fast-paced emergency department?",
+    "options": [
+      "Utilizing structured SBAR tools",
+      "Cognitive fatigue and high stress levels",
+      "Engaging in peer-reviewed reflective practice",
+      "Adhering to the NMC Code"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Environmental stressors, high workloads, and fatigue can impair cognitive processing, increasing the risk of thinking errors like premature closure or bias."
+  },
+  {
+    "id": "q75",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "A nurse who evaluates a new research paper to see if their unit's wound care technique can be improved is practicing:",
+    "options": [
+      "Status-quo bias",
+      "Evidence-based practice",
+      "Illogical reasoning",
+      "Wholly compensatory navigation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Evidence-based practice involves integrating the best available research evidence with clinical expertise and patient values to optimize care quality."
+  },
+  {
+    "id": "q76",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "A clinical thinking error where a nurse jumps to an immediate diagnostic conclusion based on a single symptom while ignoring conflicting vital signs is an example of:",
+    "options": [
+      "Open-minded clinical reasoning",
+      "Premature closure / Unfounded assumption",
+      "Systematic ASPIRE calculation",
+      "Effective SBAR reporting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Premature closure occurs when a clinician stops the diagnostic process early, accepting an initial assumption before fully analyzing all available evidence."
+  },
+  {
+    "id": "q77",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "What role does \"intellectual humility\" play in critical nursing evaluation?",
+    "options": [
+      "It causes the nurse to doubt their basic skills constantly.",
+      "It allows the nurse to recognize the limits of their knowledge and remain open to new evidence or expert guidance.",
+      "It shifts legal accountability away from the individual.",
+      "It eliminates the need for formal care planning models."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Intellectual humility helps clinicians recognize when they need more information or support, which reduces errors driven by overconfidence or assumptions."
+  },
+  {
+    "id": "q78",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "A nurse reflects on a communication breakdown during a resuscitation event to identify how team coordination could be improved. This is an example of:",
+    "options": [
+      "Reflection-on-action",
+      "Status-quo enforcement",
+      "Algorithmic streaming",
+      "Selection bias"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reflection-on-action occurs after an event has taken place, allowing the clinician to evaluate their performance and plan improvements for the future."
+  },
+  {
+    "id": "q79",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "Which cognitive disposition supports safe clinical decision-making?",
+    "options": [
+      "Rigidity in maintaining historical practices",
+      "An inquisitive mind that values evidence-based justification",
+      "Relying primarily on undocumented assumptions",
+      "Dismissing insights shared by the patient's family"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A safe clinician maintains an analytical approach, seeking objective evidence and rational justifications rather than relying on tradition or assumptions."
+  },
+  {
+    "id": "q80",
+    "category": "Being a Critical Adult Nurse Seminar",
+    "question": "A nurse identifies that a patient's clinical deterioration was caught early because the unit consistently uses a validated early warning scoring system. Sharing this reflection at a staff meeting supports:",
+    "options": [
+      "Status-quo bias propagation",
+      "Quality improvement and collective learning",
+      "Infringement of professional boundaries",
+      "Pharmacodynamic transport inhibition"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Disseminating positive reflections and evidence-based successes helps reinforce safe practices across the healthcare team, improving overall care standards."
+  },
+  {
+    "id": "q81",
+    "category": "Effective Handover and Delegation",
+    "question": "According to the Nursing and Midwifery Council (NMC) standards, who is ultimately accountable for the decision to delegate a clinical task to an unregulated member of staff?",
+    "options": [
+      "The Healthcare Assistant who accepts the task",
+      "The Registered Nurse who chose to delegate the task",
+      "The Hospital Administration Director",
+      "The patient\u2019s next of kin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Under the NMC Code, registered professionals are personally accountable for their delegation choices, ensuring the assignment is safe and appropriate."
+  },
+  {
+    "id": "q82",
+    "category": "Effective Handover and Delegation",
+    "question": "When a Registered Nurse delegates a task to a Healthcare Assistant (HCA), what layer of accountability does the HCA hold?",
+    "options": [
+      "The HCA holds no accountability because they are unregulated.",
+      "The HCA is personally accountable for their own performance of the task and for reporting findings appropriately.",
+      "The HCA shares the nurse's registration status for the duration of the shift.",
+      "The HCA is only accountable if patient harm occurs."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Accountability is dual-layered: the delegatee is responsible for executing the accepted task competently and reporting back, while the delegator retains accountability for the decision to delegate."
+  },
+  {
+    "id": "q83",
+    "category": "Effective Handover and Delegation",
+    "question": "How do the standard guidelines define clinical \"delegation\"?",
+    "options": [
+      "The total transfer of personal legal liability from an employee to an employer.",
+      "The transfer to a competent individual of the authority to perform a specific task in a specified situation.",
+      "Instructing junior staff to perform advanced diagnostic treatments outside their job scope.",
+      "Assigning administrative tasks to reduce the nurse's charting obligations."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Delegation is the systematic transfer of authority to complete a specific task to an individual who has the verified competence to execute it safely."
+  },
+  {
+    "id": "q84",
+    "category": "Effective Handover and Delegation",
+    "question": "Before delegating a task like a simple wound dressing to an assistant practitioner, what must the delegating nurse verify first?",
+    "options": [
+      "That the individual has worked at the facility for at least five years.",
+      "That the task is within the individual's role description and they possess the validated competence to complete it safely.",
+      "That the patient has signed a formal legal waiver.",
+      "That the ward manager is present to watch the entire procedure."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Safe delegation requires confirming that the assignment falls within the delegatee's scope of practice and that their skills are current and verified."
+  },
+  {
+    "id": "q85",
+    "category": "Effective Handover and Delegation",
+    "question": "If a serious clinical error occurs due to improper delegation, what steps do regulatory bodies like the NMC take to review the incident?",
+    "options": [
+      "They terminate the most junior staff member immediately without an audit.",
+      "They evaluate the decisions and actions of both parties to determine if the cause was unsafe delegation, inappropriate acceptance, or both.",
+      "They penalize only the hospital's procurement team.",
+      "They erase the incident from records if no physical harm occurred."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Regulatory reviews look at both the delegator's judgment in assigning the task and the delegatee's judgment in accepting it to identify the root cause of the error."
+  },
+  {
+    "id": "q86",
+    "category": "Effective Handover and Delegation",
+    "question": "According to NICE (2018) guidelines, clinical handover is best defined as the system by which:",
+    "options": [
+      "Administrative staff organize ward budgets between shifts.",
+      "Responsibility for immediate and ongoing care is transferred between health professionals.",
+      "Medical prescribers alter drug formulations.",
+      "Patients sign consent forms prior to major surgery."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Handover is a critical communication bridge designed to ensure the seamless and safe transfer of clinical responsibility and patient data between teams."
+  },
+  {
+    "id": "q87",
+    "category": "Effective Handover and Delegation",
+    "question": "Under Section 8 of the NMC Code (\"Practise effectively\"), nurses must work cooperatively. This includes:",
+    "options": [
+      "Keeping colleagues informed when sharing the care of individuals.",
+      "Keeping clinical concerns confidential from the incoming shift.",
+      "Allowing team members to perform tasks outside their job descriptions to save time.",
+      "Delegating complex assessments without providing oversight."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The NMC Code mandates effective communication and collaboration with colleagues to support continuity of care and maintain patient safety."
+  },
+  {
+    "id": "q88",
+    "category": "Effective Handover and Delegation",
+    "question": "Which of the following is an essential requirement for an individual to safely accept a delegated task?",
+    "options": [
+      "They must hold a full university degree in hospital administration.",
+      "They must have the ability, the authority within their job description, and accept the responsibility to perform the task.",
+      "They must operate entirely without nursing oversight.",
+      "They must be able to alter medication prescriptions independently."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Safe acceptance requires that the task aligns with the individual's role description, organizational policy, and verified personal competence."
+  },
+  {
+    "id": "q89",
+    "category": "Effective Handover and Delegation",
+    "question": "A nurse delegates a complex fluid balance chart to a student nurse on their first clinical placement without checking their experience. The student miscalculates the output, leading to delayed treatment. The nurse failed in which principle?",
+    "options": [
+      "Appropriate hepatic biotransformation monitoring",
+      "Knowing the team's skills and providing safe oversight",
+      "Enforcing status-quo bias",
+      "Maintaining the patient's legal power of attorney"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The delegating nurse must assess the delegatee's competence and provide an appropriate level of supervision based on their experience and the complexity of the task."
+  },
+  {
+    "id": "q90",
+    "category": "Effective Handover and Delegation",
+    "question": "When a registered professional receives a delegated task from another registered colleague, who is responsible for their professional conduct while performing it?",
+    "options": [
+      "The delegating professional retains all responsibility.",
+      "The professional receiving the task is fully accountable for their own conduct and practice.",
+      "The hospital's risk management software holds the accountability.",
+      "The accountability is deferred until the next shift change."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Registered professionals are always personally accountable for their actions, choices, and standard of practice, regardless of whether a task was delegated to them."
+  },
+  {
+    "id": "q91",
+    "category": "Effective Handover and Delegation",
+    "question": "What is a common communication barrier that can lead to an unsafe shift handover?",
+    "options": [
+      "Utilizing a structured SBAR format",
+      "Conducting handovers in a quiet, confidential environment",
+      "Passive listening, structural chaos, or omitting key physiological changes",
+      "Verifying understanding through targeted questioning"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ineffective communication, unstructured formats, and failing to highlight critical changes in a patient's condition are common sources of handover errors."
+  },
+  {
+    "id": "q92",
+    "category": "Effective Handover and Delegation",
+    "question": "Why does the NMC Code apply equally to Nursing Associates regarding delegation?",
+    "options": [
+      "Nursing Associates are unregulated staff members.",
+      "Nursing Associates are registered professionals who uphold the same Code standards as nurses and midwives.",
+      "Nursing Associates can only receive tasks from medical doctors.",
+      "The Code applies only when Nursing Associates work in intensive care."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Since joining the register, Nursing Associates are fully accountable under the NMC Code for their professional practice, conduct, and delegation decisions."
+  },
+  {
+    "id": "q93",
+    "category": "Effective Handover and Delegation",
+    "question": "A nurse is planning to delegate a routine task but realizes the ward is chaotic and they cannot provide adequate supervision. What is the safest clinical action?",
+    "options": [
+      "Delegate the task anyway to clear the workflow.",
+      "Delay or retain the task themselves until it can be safely managed or proper oversight can be provided.",
+      "Instruct the patient's family to complete the task.",
+      "Document that the task is impossible and remove it from the care plan."
+    ],
+    "correctAnswer": 1,
+    "explanation": "If safe oversight cannot be maintained due to high acuity or environmental factors, the nurse should retain the task to protect patient safety."
+  },
+  {
+    "id": "q94",
+    "category": "Effective Handover and Delegation",
+    "question": "An effective clinical handover should always prioritize which perspective to ensure safety?",
+    "options": [
+      "The administrative cost-saving perspective",
+      "The patient safety and continuity of care perspective",
+      "The status-quo comfort perspective",
+      "The pharmaceutical manufacturing perspective"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The primary focus of any clinical handover is to transfer accurate, actionable information to maintain safe, seamless, and continuous care for the patient."
+  },
+  {
+    "id": "q95",
+    "category": "Effective Handover and Delegation",
+    "question": "What should a nurse do if a colleague attempts to delegate an advanced procedure that they do not feel competent to perform?",
+    "options": [
+      "Accept the task to appear cooperative and avoid conflict.",
+      "Decline the task clearly, explain their limits, and seek appropriate training or support.",
+      "Delegate the task downward to a healthcare assistant.",
+      "Attempt the task using an online video tutorial at the bedside."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The NMC Code requires professionals to recognize the limits of their competence and decline any assignments they cannot complete safely, escalating the need for support."
+  },
+  {
+    "id": "q96",
+    "category": "Effective Handover and Delegation",
+    "question": "Which environmental factor is most appropriate for exchanging confidential patient information during a shift handover?",
+    "options": [
+      "The public hospital cafeteria",
+      "A designated, quiet, and private clinical space away from public interruptions",
+      "The main visitor waiting area",
+      "The central hallway during open visiting hours"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Handovers involve sensitive information and should occur in private areas to maintain patient confidentiality and minimize distractions that can cause communication errors."
+  },
+  {
+    "id": "q97",
+    "category": "Effective Handover and Delegation",
+    "question": "A nurse checks if a healthcare assistant understands how to report an abnormal vital sign after being assigned routine observations. This is an example of:",
+    "options": [
+      "Unnecessary micromanagement",
+      "Closing the communication loop to ensure safe delegation",
+      "Demonstrating closed-minded bias",
+      "Enforcing a wholly compensatory nursing system"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Verifying understanding and setting clear reporting parameters are essential steps in the delegation process to ensure deviations are escalated promptly."
+  },
+  {
+    "id": "q98",
+    "category": "Effective Handover and Delegation",
+    "question": "The Royal College of Nursing (RCN) highlights that effective delegation is:",
+    "options": [
+      "A basic administrative task that requires no formal development.",
+      "A core professional skill that needs active development, clear communication, and team awareness.",
+      "A method designed to eliminate the nurse's clinical liability.",
+      "Strictly limited to surgical emergency departments."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Delegation is a complex management skill that requires clear communication, understanding team competencies, and applying professional judgment."
+  },
+  {
+    "id": "q99",
+    "category": "Effective Handover and Delegation",
+    "question": "What is a key risk of performing an unstructured \"social\" handover rather than a systematic clinical handover?",
+    "options": [
+      "Instant reduction in the drug's bioavailable percentage.",
+      "Omission of critical physiological data, trending scores, or active risks, which can delay recognition of deterioration.",
+      "Automatic suspension of the ward manager's registration.",
+      "Conversion of the care plan into a wholly compensatory system."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Unstructured handovers often lack a systematic approach, increasing the risk that important clinical details, such as changes in early warning scores, are missed."
+  },
+  {
+    "id": "q100",
+    "category": "Effective Handover and Delegation",
+    "question": "When delegation goes right in a clinical setting, what is the primary positive outcome?",
+    "options": [
+      "The nurse can leave the shift early.",
+      "Patient safety is protected, resources are optimized, and team collaboration is strengthened.",
+      "The hospital completely eliminates the need for registered staff.",
+      "The patient's underlying disease is cured instantly."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Appropriate delegation utilizes the team's collective skills effectively, ensuring routine care is completed safely while allowing nurses to focus on complex interventions."
+  },
+  {
+    "id": "q101",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "A nurse places the diaphragm of a stethoscope over the 5th intercostal space at the left mid-clavicular line. Which cardiac valve area is being evaluated?",
+    "options": [
+      "Aortic valve",
+      "Pulmonic valve",
+      "Tricuspid valve",
+      "Mitral (Bicuspid) valve"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The mitral valve area and the apex of the heart are located at the fifth intercostal space along the left mid-clavicular line."
+  },
+  {
+    "id": "q102",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "A 62-year-old patient presents with a constricting chest discomfort that radiates to the left jaw. The pain was brought on by walking up a steep hill and resolved completely after 4 minutes of rest. This pattern is classic for:",
+    "options": [
+      "Acute Pericarditis",
+      "Stable Angina",
+      "Gastroesophageal Reflux Disease (GORD)",
+      "Musculoskeletal Strain"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stable angina is characteristically precipitated by exertion or stress and relieved quickly by rest or sublingual nitrates, reflecting predictable myocardial ischemia."
+  },
+  {
+    "id": "q103",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "During an assessment, a patient describes chest pain that is sharp and stabbing. The pain increases when they cough or take a deep breath, and improves when they sit up and lean forward. The nurse recognizes this as consistent with:",
+    "options": [
+      "Myocardial Infarction",
+      "Pericardial or Pleuritic Inflammation",
+      "Stable Angina Pectoris",
+      "Advanced Aortic Stenosis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pain that is sharp, pleuritic, affected by respiration, and positional (relieved by leaning forward) typically points toward pericarditis or respiratory inflammation rather than classic myocardial ischemia."
+  },
+  {
+    "id": "q104",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "Firm pressure applied over the medial malleolus leaves a persistent indentation that takes several seconds to refill. How should the nurse document this objective finding?",
+    "options": [
+      "Tendon xanthomata",
+      "Pitting peripheral edema",
+      "Chronic arterial insufficiency",
+      "Pectus excavatum deformity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pitting peripheral edema is evaluated by applying digital pressure over bony prominences, serving as an indicator of systemic fluid retention or right-sided heart failure."
+  },
+  {
+    "id": "q105",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "A patient presents with acute chest pain described as a sudden \"tearing\" sensation that radiates straight through to the back between the scapulae. The nurse should immediately escalate for:",
+    "options": [
+      "Mitral valve prolapse",
+      "Acute aortic dissection",
+      "Musculoskeletal chest wall strain",
+      "Gastroesophageal reflux spasm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A sudden, tearing or ripping chest pain that radiates to the back is a classic red flag for an acute aortic dissection, a high-mortality medical emergency."
+  },
+  {
+    "id": "q106",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "To locate the pulmonic valve area during cardiac auscultation, where should the nurse place the stethoscope?",
+    "options": [
+      "2nd intercostal space at the right sternal border",
+      "2nd intercostal space at the left sternal border",
+      "4th intercostal space at the lower left sternal border",
+      "5th intercostal space at the left mid-clavicular line"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pulmonic valve auscultation landmark is located at the second intercostal space along the left sternal border."
+  },
+  {
+    "id": "q107",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "Approximately what percentage of patients presenting to emergency departments with acute chest pain are diagnosed with an actual Myocardial Infarction (MI) based on historical epidemiological data?",
+    "options": [
+      "Around 95%",
+      "Between 15% to 25%",
+      "Exactly 75%",
+      "Less than 1%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Literature (such as Pope et al.) shows that while chest pain is a common emergency presentation, only a minority (roughly 15-25%) have an acute MI, while a large percentage have non-cardiac causes."
+  },
+  {
+    "id": "q108",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "Which metabolic physical sign presents as yellowish cholesterol deposits within the tendons, often visible on the Achilles tendon, indicating severe hyperlipidemia?",
+    "options": [
+      "Pitting edema",
+      "Tendon xanthomata",
+      "Pectus carinatum",
+      "Central cyanosis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tendon xanthomata are localized lipid deposits that accumulate in tendons, serving as an external physical sign of familial hypercholesterolemia and elevated cardiovascular risk."
+  },
+  {
+    "id": "q109",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "What is the correct landmark for auscultating the aortic valve area?",
+    "options": [
+      "5th intercostal space at the mid-clavicular line",
+      "2nd intercostal space at the right sternal border",
+      "4th intercostal space at the left sternal border",
+      "2nd intercostal space at the left sternal border"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The aortic valve area is optimally auscultated at the second intercostal space along the right sternal border."
+  },
+  {
+    "id": "q110",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "A chest wall deformity characterized by a distinct displacement or depression of the sternum into the chest is known as:",
+    "options": [
+      "Pectus carinatum",
+      "Pectus excavatum",
+      "Tendon xanthoma",
+      "Mitral stenosis profile"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pectus excavatum (funnel chest) is a congenital structural deformity where the sternum sinks inward, which can sometimes displace or compress thoracic organs in severe cases."
+  },
+  {
+    "id": "q111",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "When undertaking a basic physical cardiac assessment of a non-deteriorating patient, what is the correct initial step in the physical exam sequence?",
+    "options": [
+      "Deep palpation of the abdominal aorta",
+      "General inspection of the patient, noting breathing effort, color, and comfort",
+      "Immediate auscultation of the mitral valve with the bell",
+      "Measuring the ankle-brachial index using Doppler equipment"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A clinical assessment should always begin with general inspection to gauge the patient's immediate comfort, respiratory effort, skin color, and overall status before moving to targeted physical examinations."
+  },
+  {
+    "id": "q112",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "A patient describes their chest discomfort as a \"dull ache or pressure\" that is poorly localized and accompanied by nausea and sweating. This presentation is highly suggestive of:",
+    "options": [
+      "Musculoskeletal chest wall tenderness",
+      "Ischemic cardiac chest pain / Acute Coronary Syndrome",
+      "Simple anxiety or panic hyperventilation",
+      "Gastroesophageal reflux disease"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Visceral cardiac pain from myocardial ischemia is typically described as a heavy pressure or ache, often poorly localized and accompanied by autonomic symptoms like diaphoresis and nausea."
+  },
+  {
+    "id": "q113",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "What is the clinical significance of a significantly elevated Jugular Venous Pressure (JVP) noted during a physical exam?",
+    "options": [
+      "It indicates severe hepatic first-pass drug clearance.",
+      "It reflects increased right atrial pressure and volume, commonly due to right-sided heart failure or fluid overload.",
+      "It proves the patient has a narrow therapeutic window for all cardiac medications.",
+      "It is a normal physiological variant associated with aging."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The internal jugular vein reflects right atrial pressure; an elevated JVP serves as an objective clinical indicator of venous congestion and fluid overload."
+  },
+  {
+    "id": "q114",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "While assessing a patient\u2019s blood pressure, the nurse follows standardized procedures to ensure accuracy. According to Jevon (2020), an improperly sized blood pressure cuff that is too small for a patient's arm will cause:",
+    "options": [
+      "A falsely low blood pressure reading",
+      "A falsely high blood pressure reading",
+      "No change in the measurement accuracy",
+      "An immediate Type A adverse reaction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A cuff that is too small requires higher inflation pressures to occlude the artery, resulting in an artificially elevated blood pressure reading."
+  },
+  {
+    "id": "q115",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "A chest wall deformity where the sternum protrudes prominently outward like a pigeon chest is called:",
+    "options": [
+      "Pectus excavatum",
+      "Pectus carinatum",
+      "Tendon xanthoma",
+      "Pitting edema profile"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pectus carinatum is a structural deformity characterized by an outward protrusion of the sternum and costal cartilages."
+  },
+  {
+    "id": "q116",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "When auscultating heart sounds, the first heart sound ($S_1$, \"lub\") represents the closure of which valves?",
+    "options": [
+      "Aortic and Pulmonic valves",
+      "Mitral and Tricuspid valves",
+      "Superior and Inferior vena cava",
+      "Left and Right coronary arteries"
+    ],
+    "correctAnswer": 1,
+    "explanation": "$S_1$ is produced by the closure of the atrioventricular (mitral and triscupid) valves at the onset of ventricular systole."
+  },
+  {
+    "id": "q117",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "The second heart sound ($S_2$, \"dub\") heard during cardiac auscultation marks the closure of which valves?",
+    "options": [
+      "Mitral and Tricuspid valves",
+      "Aortic and Pulmonic semilunar valves",
+      "Bicuspid and Mitral valves",
+      "Coronary and Carotid valves"
+    ],
+    "correctAnswer": 1,
+    "explanation": "$S_2$ is generated by the closure of the semilunar (aortic and pulmonic) valves at the beginning of ventricular diastole."
+  },
+  {
+    "id": "q118",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "A patient complains of intermittent \"fluttering\" sensations in the chest. The nurse understands that these symptoms are clinically defined as:",
+    "options": [
+      "Angina pectoris",
+      "Palpitations",
+      "Central cyanosis",
+      "Aortic dissection"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Palpitations are defined as a patient's awareness of an irregular, rapid, or forceful heartbeat, which warrants evaluation via history and ECG monitoring."
+  },
+  {
+    "id": "q119",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "What tool or framework is commonly recommended to guide the systematic evaluation of chest pain characteristics during history taking?",
+    "options": [
+      "The ASPIRE Matrix",
+      "The OPQRST framework (Onset, Provocation, Quality, Radiation, Severity, Time)",
+      "The Roper-Logan-Tierney dependence scale",
+      "The Manchester streaming protocol"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The OPQRST mnemonic provides a structured approach to exploring the characteristics of pain, helping clinicians differentiate between cardiac and non-cardiac causes."
+  },
+  {
+    "id": "q120",
+    "category": "Cardiovascular Physical Assessment",
+    "question": "A patient with severe heart failure develops bilateral crackles at the bases of their lungs upon auscultation. What is the physiological mechanism for this finding?",
+    "options": [
+      "Increased hepatic enzyme biotransformation",
+      "Pulmonary congestion and fluid transudation into the alveoli due to left ventricular failure",
+      "A typical Type B unexpected medication outcome",
+      "Structural changes associated with pectus carinatum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Left-sided heart failure causes blood to back up into the pulmonary circulation, increasing hydrostatic pressure and forcing fluid into the alveoli, which manifests as crackles."
+  },
+  {
+    "id": "q121",
+    "category": "Elderly and Dementia Care",
+    "question": "Dementia is officially defined in healthcare practice as:",
+    "options": [
+      "A normal, inevitable physiological consequence of human aging.",
+      "An umbrella term for a range of progressive conditions affecting the brain, altering memory, problem-solving, language, and behavior over time.",
+      "A temporary state of acute confusion triggered by an underlying infection.",
+      "A psychiatric disorder characterized solely by visual hallucinations."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dementia describes a cluster of symptoms caused by progressive neurodegenerative changes that impair global cognitive function over time."
+  },
+  {
+    "id": "q122",
+    "category": "Elderly and Dementia Care",
+    "question": "According to epidemiological data, which type of dementia is the most common form, accounting for the largest percentage of cases globally?",
+    "options": [
+      "Vascular Dementia",
+      "Frontotemporal Dementia",
+      "Alzheimer\u2019s Disease",
+      "Lewy Body Dementia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Alzheimer's disease is the leading cause of dementia, responsible for roughly 60-70% of all clinical diagnoses."
+  },
+  {
+    "id": "q123",
+    "category": "Elderly and Dementia Care",
+    "question": "A 74-year-old patient exhibits early, prominent changes in personality, social behavior, and language fluency, while their short-term memory remains relatively intact. This presentation matches which variant?",
+    "options": [
+      "Alzheimer\u2019s Disease",
+      "Frontotemporal Dementia",
+      "Lewy Body Dementia",
+      "Vascular Dementia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Frontotemporal dementia is characterized by early degeneration of the frontal and temporal lobes, manifesting as prominent behavioral, personality, and language changes rather than initial memory loss."
+  },
+  {
+    "id": "q124",
+    "category": "Elderly and Dementia Care",
+    "question": "What is a core pathological feature of Alzheimer's disease observed at the cellular level?",
+    "options": [
+      "Sudden rupture of major cerebral arteries.",
+      "The formation of extracellular amyloid beta plaques and intracellular neurofibrillary tangles of hyperphosphorylated tau protein.",
+      "The accumulation of alpha-synuclein protein deposits causing extrapyramidal motor signs.",
+      "Microvascular ischemic lesions presenting in a distinct step-wise pattern."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alzheimer's pathology is driven by the accumulation of neuritic amyloid plaques outside cells and neurofibrillary tangles inside neurons, disrupting cellular function and leading to apoptosis."
+  },
+  {
+    "id": "q125",
+    "category": "Elderly and Dementia Care",
+    "question": "A patient with dementia is admitted to an acute ward. The family notes that their cognitive decline has occurred in a distinct \"step-like\" pattern, with sudden drops in function following minor strokes. This indicates:",
+    "options": [
+      "Alzheimer\u2019s Disease",
+      "Vascular Dementia",
+      "Frontotemporal Dementia",
+      "Lewy Body Dementia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vascular dementia is caused by cerebrovascular disease or ischemic injuries, often resulting in a step-wise decline where function drops suddenly after each vascular event."
+  },
+  {
+    "id": "q126",
+    "category": "Elderly and Dementia Care",
+    "question": "What is a critical clinical difference between normal age-related cognitive changes and a progressive dementia?",
+    "options": [
+      "Normal aging causes a complete loss of language expression by age 75.",
+      "Normal aging involves occasional memory lapses but does not impair an individual's ability to perform independent Activities of Daily Living (ADLs).",
+      "Dementia improves significantly with simple environmental reorientation.",
+      "Normal aging is characterized by a rapid, step-wise loss of executive judgment."
+    ],
+    "correctAnswer": 1,
+    "explanation": "While mild forgetfulness can occur with aging, it does not disrupt personal safety, independence, or the capacity to manage daily activities, which are hallmarks of dementia."
+  },
+  {
+    "id": "q127",
+    "category": "Elderly and Dementia Care",
+    "question": "A patient diagnosed with Lewy Body Dementia is admitted to the unit. The nursing care plan should include close monitoring for which core clinical features?",
+    "options": [
+      "Early, rapid weight loss paired with hyper-fluent speech.",
+      "Recurrent visual hallucinations, fluctuating cognition, and motor impairments resembling Parkinson's disease.",
+      "Step-wise cognitive drops occurring exclusively after physical exertion.",
+      "Complete loss of self-care agency within the first 24 hours."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lewy body dementia involves abnormal alpha-synuclein deposits that clinically manifest as vivid visual hallucinations, fluctuating alertness, and extrapyramidal Parkinsonian motor signs."
+  },
+  {
+    "id": "q128",
+    "category": "Elderly and Dementia Care",
+    "question": "An 82-year-old resident with advanced late-stage Alzheimer\u2019s disease demonstrates coughing and throat-clearing during meals, paired with progressive weight loss. The nurse recognizes this as a high-yield risk indicator for:",
+    "options": [
+      "Acute ischemic stroke",
+      "Aspiration pneumonia",
+      "Frontal lobe disinhibition syndrome",
+      "Peripheral arterial insufficiency"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Advanced dementia impairs bulbar muscle coordination, causing dysphagia. Signs like coughing during meals indicate a high risk for silent or overt aspiration, which can cause pneumonia."
+  },
+  {
+    "id": "q129",
+    "category": "Elderly and Dementia Care",
+    "question": "When a patient with advanced dementia exhibits severe aphasia and cannot verbally articulate their physical needs, how should the nurse evaluate them for pain?",
+    "options": [
+      "Wait until the patient verbally requests PRN analgesia.",
+      "Use a validated non-verbal behavioral assessment tool (such as the Abbey Pain Scale) to monitor facial expressions and body language.",
+      "Assume the patient is entirely pain-free if they are not actively crying out.",
+      "Rely solely on automated electronic blood pressure monitors to gauge distress."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When verbal communication fails, nurses must use structured behavioral observation tools to detect pain based on non-verbal indicators like grimacing, guarding, or moaning."
+  },
+  {
+    "id": "q130",
+    "category": "Elderly and Dementia Care",
+    "question": "A patient with dementia becomes highly agitated on an acute medical ward due to sensory overload. Which communication adjustment is the most appropriate initial nursing intervention?",
+    "options": [
+      "Turn up the television volume to distract the patient from ward noise.",
+      "Correct the patient's orientation firmly and repeatedly until they accept reality.",
+      "Conduct interactions in a quiet, low-stimulus space, speak slowly, and use short, simplified sentences.",
+      "Place the patient in physical restraints immediately to prevent wandering."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Agitation in dementia is often worsened by chaotic hospital environments; reducing ambient stimuli and using clear, unhurried communication helps de-escalate distress."
+  },
+  {
+    "id": "q131",
+    "category": "Elderly and Dementia Care",
+    "question": "The primary purpose of the Alzheimer's Society's \"This is me\" leaflet when utilized in an acute care setting is to:",
+    "options": [
+      "Document the patient\u2019s legal power of attorney directives and financial assets.",
+      "Provide a personalized, non-clinical roadmap of the patient's baseline habits, preferences, and history to support person-centered care.",
+      "Dictate the exact pharmacological dosing schedule for antipsychotic medications.",
+      "Replace standard physiological assessment tools like the Glasgow Coma Scale."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The \"This is me\" leaflet captures personal background information, helping hospital staff align daily care with the patient's lifelong habits and preferences to reduce distress."
+  },
+  {
+    "id": "q132",
+    "category": "Elderly and Dementia Care",
+    "question": "A nurse notes a statement in a patient\u2019s \"This is me\" profile: \"I have been a lifelong vegetarian and will spit out food if I taste meat.\" Which action directly addresses this?",
+    "options": [
+      "Mandate a strict nasogastric tube feeding protocol to ensure protein intake.",
+      "Educate the family on the necessity of eating hospital meat options.",
+      "Ensure the catering team flags the chart as strictly vegetarian and verify tray contents before serving.",
+      "Hide pur\u00e9ed meat inside vegetable broths to maximize caloric intake."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Using details from the personalized leaflet helps prevent behavioral distress and nutritional issues by respecting the patient's lifelong habits and choices."
+  },
+  {
+    "id": "q133",
+    "category": "Elderly and Dementia Care",
+    "question": "Under the Roper-Logan-Tierney model, how can personal details from a \"This is me\" leaflet be applied to the Activity of Living of \"Personal Grooming\"?",
+    "options": [
+      "By performing all personal care for the patient to save time.",
+      "Incorporating the patient's lifelong preference to apply her own lipstick every morning into the care plan to maintain identity and orientation.",
+      "Eliminating grooming from the care plan to focus entirely on medical interventions.",
+      "Delegating grooming decisions to an automated electronic app."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tailoring the personal grooming activity to align with the patient's baseline habits supports person-centered care and respects their individual identity."
+  },
+  {
+    "id": "q134",
+    "category": "Elderly and Dementia Care",
+    "question": "A nurse applies Orem\u2019s Self-Care Deficit Model while assisting a patient with cognitive decline. If the leaflet states the patient can brush their own teeth when handed a prepared toothbrush, the care plan should instruct the nurse to:",
+    "options": [
+      "Perform the brushing for the patient to ensure thorough hygiene.",
+      "Hand the prepared brush to the patient and allow them to complete the task independently to preserve self-care agency.",
+      "Cancel oral hygiene from the care plan due to self-care failure.",
+      "Withhold oral care until the patient asks for it verbally."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Orem's model emphasizes supporting the patient's remaining self-care capabilities; intervening only where a deficit exists helps preserve functional autonomy."
+  },
+  {
+    "id": "q135",
+    "category": "Elderly and Dementia Care",
+    "question": "What is the core function of a \"Lasting Power of Attorney (LPA) for Health and Welfare\" in advanced care planning?",
+    "options": [
+      "It allows a bank to manage the patient's financial assets after admission.",
+      "It permits a designated, trusted individual to make medical and care decisions on the patient's behalf if they lose mental capacity.",
+      "It automatically clears the nursing staff of all potential medical errors.",
+      "It converts the care plan into a standardized, pre-printed format permanently."
+    ],
+    "correctAnswer": 1,
+    "explanation": "An LPA for Health and Welfare is a legal arrangement appointing specific proxies to make health-related decisions once the patient is assessed as lacking the capacity to do so."
+  },
+  {
+    "id": "q136",
+    "category": "Elderly and Dementia Care",
+    "question": "When an elderly patient with dementia experiences a sudden, acute worsening of confusion over 24 hours, accompanied by a fever and dysuria, the nurse should immediately screen for:",
+    "options": [
+      "Natural progression of late-stage Alzheimer\u2019s disease",
+      "Delirium secondary to a Urinary Tract Infection (UTI)",
+      "A predictable Type A adverse reaction to an oral tablet",
+      "A structural chest wall deformity like pectus excavatum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Acute changes in cognition accompanied by systemic signs of infection indicate delirium, a common and reversible medical complication in older adults that requires prompt treatment."
+  },
+  {
+    "id": "q137",
+    "category": "Elderly and Dementia Care",
+    "question": "Which communication strategy should be avoided when interacting with a patient who has dementia and is experiencing minor spatial disorientation?",
+    "options": [
+      "Keeping the room well-lit and reducing background noise.",
+      "Arguing with or repeatedly confronting the patient to force them to accept the current calendar date.",
+      "Using clear, concise, single-sentence statements.",
+      "Utilizing non-verbal reassurance and validation techniques."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Direct confrontation can increase agitation and anxiety; validation and gentle reorientation are more effective strategies to maintain a calm interaction."
+  },
+  {
+    "id": "q138",
+    "category": "Elderly and Dementia Care",
+    "question": "The pathological collapse of the intracellular microtubule transport system in Alzheimer\u2019s disease is directly caused by the malfunction of which protein?",
+    "options": [
+      "Amyloid beta",
+      "Tau protein",
+      "Alpha-synuclein",
+      "Serotonin transporter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hyperphosphorylation causes tau proteins to detach from microtubules and clump together, leading to the collapse of the cellular transport system and neuron degeneration."
+  },
+  {
+    "id": "q139",
+    "category": "Elderly and Dementia Care",
+    "question": "When a patient with advanced dementia can no longer chew solid foods safely, the nursing team collaborates with speech and language therapy to modify food textures. This intervention addresses which RLT Activity of Living?",
+    "options": [
+      "Maintaining a safe environment",
+      "Eating and drinking",
+      "Expressing sexuality",
+      "Dying"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Modifying diet textures to manage dysphagia directly addresses the safety and adequacy of the Activity of Living of \"Eating and drinking.\""
+  },
+  {
+    "id": "q140",
+    "category": "Elderly and Dementia Care",
+    "question": "To minimize the risk of falls for an elderly resident with dementia who frequently wanders at night, the care plan should include:",
+    "options": [
+      "Administering a high-dose sedative at bedtime to prevent movement.",
+      "Enclosing the bed with high physical restraints without authorization.",
+      "Ensuring the environment is clear of clutter, well-lit with nightlights, and using sensor mats to alert staff gently.",
+      "Withholding fluids after 4 PM to prevent the need to use the bathroom."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Managing wandering requires balancing safety and autonomy, using non-restrictive measures like clutter clearance and sensor monitors to reduce fall risks without physical constraints."
+  },
+  {
+    "id": "q141",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "In emergency medicine, what is the primary purpose of the clinical \"triage\" process?",
+    "options": [
+      "To finalize a definitive medical diagnosis and discharge stable patients immediately.",
+      "To quickly evaluate patients clinically to determine the urgency of their need for treatment.",
+      "To complete all administrative insurance registration forms before care is provided.",
+      "To delegate complex nursing interventions to untrained waiting room volunteers."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Triage is a rapid assessment process designed to prioritize care based on clinical urgency, ensuring that time-critical conditions are treated first."
+  },
+  {
+    "id": "q142",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "According to standard emergency care principles in the UK, a formal triage assessment should be completed within what maximum timeframe after a patient arrives in the Emergency Department?",
+    "options": [
+      "Within 5 minutes of arrival",
+      "Within 15 minutes of arrival",
+      "Within 45 minutes of arrival",
+      "Within 2 hours of arrival"
+    ],
+    "correctAnswer": 1,
+    "explanation": "UK guidelines (such as the Manchester Triage System framework) state that patients should undergo a formal triage assessment within 15 minutes of arrival to identify urgent needs early."
+  },
+  {
+    "id": "q143",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "Which triage system is widely utilized as the standard tool across most Emergency Departments in the United Kingdom?",
+    "options": [
+      "The ASPIRE Matrix",
+      "The Manchester Triage System (MTS)",
+      "The Roper-Logan-Tierney Scale",
+      "The Orem Deficit Algorithm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Manchester Triage System is the standard clinical triage tool used in UK emergency settings, categorizing patients into five priority levels."
+  },
+  {
+    "id": "q144",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "How does formal emergency triage differ from basic patient \"streaming\" or navigation?",
+    "options": [
+      "Streaming involves full laboratory diagnostic blood tests at the front desk.",
+      "Triage requires a meaningful, face-to-face clinical assessment by a trained, competent professional to evaluate urgency using structured tools.",
+      "Navigation can only be completed by a senior medical consultant.",
+      "Triage is an automated electronic process that requires no human interaction."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Streaming directs patients to specific care streams (e.g., minor injuries), whereas triage is a clinical evaluation of physiological urgency that requires professional judgment and standardized tools."
+  },
+  {
+    "id": "q145",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "A 58-year-old female with a history of COPD arrives via ambulance. She is severely breathless, unable to complete a single sentence, pale, and has purple lips (central cyanosis). Her oxygen saturation is 87% on 2L of oxygen. What is the nurse's immediate priority pathway?",
+    "options": [
+      "Instruct her to wait in the main waiting area until registration is complete.",
+      "Direct her immediately to an emergency resuscitation bay and initiate stabilization using an ABCDE framework.",
+      "Administer a dose from her home PRN rescue pack and schedule a routine triage review.",
+      "Complete a detailed history regarding her smoking habits over the past ten years."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The patient shows red-flag signs of acute respiratory failure and circulatory compromise, requiring immediate placement in a resuscitation room and aggressive stabilization following the ABCDE approach."
+  },
+  {
+    "id": "q146",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "A 62-year-old male with a history of alcohol dependency, hypertension, and angina presents with intermittent, mild chest pain over the past 24 hours. His vital signs are currently stable. What is the correct clinical rationale for keeping this patient under close observation?",
+    "options": [
+      "His stable vital signs guarantee that he is completely free from any cardiac risks.",
+      "His historical risk factors combined with an atypical presentation require serial evaluations (like ECGs and troponins) to rule out acute coronary syndrome safely.",
+      "Patients with alcohol dependency are automatically assigned to the lowest priority category.",
+      "His blood pressure requires the immediate use of intravenous thrombolytic therapies."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Even when vital signs are stable, a history of angina and hypertension means the patient is at high risk for atypical cardiac events, requiring continuous evaluation to rule out acute ischemia."
+  },
+  {
+    "id": "q147",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "Which priority color code is assigned to a patient under the Manchester Triage System who requires Immediate life-saving resuscitation for an airway obstruction?",
+    "options": [
+      "Green",
+      "Yellow",
+      "Orange",
+      "Red"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Category 1 (Red) denotes conditions requiring immediate, life-saving intervention due to threats to the airway, breathing, or circulation."
+  },
+  {
+    "id": "q148",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "What environmental condition should be maintained when conducting a formal triage interview?",
+    "options": [
+      "It should be conducted openly at the main reception desk to save time.",
+      "It should take place in a private, suitable environment that ensures the safe exchange of confidential information.",
+      "It must be held in the main visitor seating area so others can witness the process.",
+      "It must occur exclusively inside a moving ambulance."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Triage involves sharing sensitive clinical and personal history data, requiring an environment that protects patient privacy and limits distractions."
+  },
+  {
+    "id": "q149",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "A 24-year-old female presents with acute abdominal pain, has vomited twice, and reports multiple episodes of diarrhea. Her vital signs are stable. Under a standard triage framework, this presentation is categorized as:",
+    "options": [
+      "Immediate Resuscitation (Red)",
+      "Urgent to Standard depending on pain severity and hydration status indicators",
+      "A predictable Type B adverse reaction to an oral tablet",
+      "An asset-based self-care agency success"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stable gastroenteritis symptoms without systemic shock signs are typically categorized as Urgent or Standard, depending on pain scores and hydration markers."
+  },
+  {
+    "id": "q150",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "When triaging an infant or non-verbal child in an emergency department, what source of information is critical to supplement the physical exam?",
+    "options": [
+      "The hospital's annual procurement report.",
+      "The observations and history provided by the parent or primary caregiver.",
+      "The child's electronic school registration files.",
+      "An automated AI diagnosis algorithm output exclusively."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Parents and caregivers know the child's behavioral baseline, making their history invaluable for identifying subtle signs of serious illness or deterioration."
+  },
+  {
+    "id": "q151",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "Which of the following is considered a core \"discriminator\" within the Manchester Triage System to help establish treatment urgency?",
+    "options": [
+      "The patient's primary language",
+      "Life-threatening hemorrhage or severe pain levels",
+      "The availability of private healthcare insurance",
+      "The model of the digital health device used at home"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The MTS uses specific discriminators\u2014such as airway compromise, major hemorrhage, altered conscious level, or extreme pain\u2014to determine the appropriate urgency category."
+  },
+  {
+    "id": "q152",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "A patient presents with a minor ankle sprain that occurred two days ago, has no skin breakage, is able to bear weight, and reports mild pain. This presentation matches which priority tier?",
+    "options": [
+      "Red (Immediate)",
+      "Orange (Very Urgent)",
+      "Green or Blue (Standard to Non-Urgent)",
+      "Wholly Compensatory (Critical)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Minor, subacute injuries with stable parameters and low pain scores are classified into lower-urgency tiers (Green or Blue), as they do not present an immediate threat to life or limb."
+  },
+  {
+    "id": "q153",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "Why is it dangerous to rely solely on automated electronic kiosk inputs from the waiting room to complete an emergency triage process?",
+    "options": [
+      "Kiosks automatically decrease the half-life of oral drugs.",
+      "Automated inputs lack the objective physical assessment, visual clues, and clinical judgment needed to catch subtle signs of physiological deterioration.",
+      "Kiosks are only approved for use in pediatric care settings.",
+      "Digital inputs automatically alter the patient's legal power of attorney status."
+    ],
+    "correctAnswer": 1,
+    "explanation": "While digital check-ins can help organize patient flow, they cannot replace the clinical evaluation, visual assessment, and professional judgment required to identify an urgent condition."
+  },
+  {
+    "id": "q154",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "Under the emergency ABCDE framework used to assess deteriorating patients, what does the letter \"C\" stand for?",
+    "options": [
+      "Consciousness",
+      "Circulation",
+      "Compliance",
+      "Clearance"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the emergency ABCDE assessment sequence, C stands for Circulation, evaluating parameters like pulse, blood pressure, capillary refill time, and skin temperature."
+  },
+  {
+    "id": "q155",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "A triage nurse notes that a patient presenting with an open fracture has a capillary refill time of 4 seconds peripherally, is tachycardic, and is cold and clammy. These signs suggest:",
+    "options": [
+      "A predictable Type A drug side effect",
+      "Impending circulatory shock requiring immediate escalation",
+      "A normal physiological response to aging",
+      "An asset-based self-care capability"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Prolonged capillary refill, tachycardia, and cool skin are objective signs of poor peripheral perfusion, indicating potential circulatory shock that requires immediate intervention."
+  },
+  {
+    "id": "q156",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "When using the Manchester Triage System, a patient placed in the \"Orange\" category is considered \"Very Urgent.\" What is the target maximum waiting time for medical assessment for this category?",
+    "options": [
+      "Immediately",
+      "Within 10 minutes",
+      "Within 60 minutes",
+      "Within 240 minutes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Orange (Very Urgent) category carries a target waiting time of within 10 minutes due to the high risk of rapid clinical deterioration."
+  },
+  {
+    "id": "q157",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "A patient presents with a sudden onset of facial asymmetry, unilateral arm weakness, and slurred speech that began 45 minutes ago. The triage nurse recognizes this as an acute stroke presentation and categorizes the patient as:",
+    "options": [
+      "Standard (Green) due to stable vital signs.",
+      "Very Urgent (Orange) or Immediate (Red) to activate the time-critical hyperacute stroke pathway.",
+      "A typical Type B unexpected pharmacodynamic reaction.",
+      "An RLT Activity of Living self-care deficit to be reviewed routinely."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Acute ischemic strokes have a narrow therapeutic window for thrombolysis, requiring high-urgency categorization to initiate stroke protocols without delay."
+  },
+  {
+    "id": "q158",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "What is the role of the triage nurse if the emergency department experiences a sudden influx of high-acuity patients, causing long waiting times?",
+    "options": [
+      "Close the front doors to prevent new presentations.",
+      "Continuously monitor and periodically re-triage patients in the waiting room to identify anyone whose condition is deteriorating.",
+      "Administer generic oral medications to all waiting patients without prescriptions.",
+      "Focus exclusively on completing administrative data entries."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Triage is a dynamic process; when delays occur, the triage team must monitor and re-evaluate waiting patients to catch changes in clinical status early."
+  },
+  {
+    "id": "q159",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "A patient presents with a severe, acute asthma exacerbation, a respiratory rate of 32 breaths per minute, and is unable to speak. Under the ABCDE framework, this is a crisis of which primary parameter?",
+    "options": [
+      "Airway",
+      "Breathing",
+      "Circulation",
+      "Disability"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tachypnea and the inability to speak due to breathlessness point to a severe breathing compromise, requiring immediate oxygenation and bronchodilator therapy under the \"B\" phase of the assessment."
+  },
+  {
+    "id": "q160",
+    "category": "Emergency Care and Triage Seminar",
+    "question": "What is the fundamental professional benefit of utilizing a standardized triage framework like the Manchester Triage System in a high-pressure emergency care environment?",
+    "options": [
+      "It removes all personal clinical accountability from the nursing staff.",
+      "It provides an objective, evidence-based, and consistent method for prioritizing patients, minimizing decision-making variance and enhancing safety.",
+      "It automatically drafts the patient's long-term care plan using Orem's model.",
+      "It guarantees that every patient is completely cured before leaving the department."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standardized triage tools use objective clinical discriminators to ensure patients are prioritized consistently based on urgency, reducing the risk of cognitive bias during busy shifts."
+  }
+]
