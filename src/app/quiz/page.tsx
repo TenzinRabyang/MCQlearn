@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState, useRef } from "react";
+import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { useQuizStore } from "@/store/useQuizStore";
 import { Bookmark, BookmarkCheck, ArrowRight, Clock, AlertCircle } from "lucide-react";
@@ -23,7 +23,6 @@ export default function QuizPage() {
   } = useQuizStore();
 
   const [timeLeft, setTimeLeft] = useState(settings.timePerQuestion);
-  const timerRef = useRef<NodeJS.Timeout>(null);
 
   const [mounted, setMounted] = useState(false);
 
