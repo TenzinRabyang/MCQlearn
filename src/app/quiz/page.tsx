@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { useQuizStore } from "@/store/useQuizStore";
-import { Bookmark, BookmarkCheck, ArrowRight, Clock, AlertCircle, House } from "lucide-react";
+import { Bookmark, BookmarkCheck, ArrowRight, Clock, AlertCircle, House, CheckSquare } from "lucide-react";
 
 export default function QuizPage() {
   const router = useRouter();
@@ -125,11 +125,24 @@ export default function QuizPage() {
         
         <div className="flex items-center gap-2">
           <button
+            onClick={() => {
+              const confirmed = window.confirm("Are you sure you want to end the quiz early and submit your current score?");
+              if (confirmed) {
+                finishQuiz();
+                router.push("/results");
+              }
+            }}
+            className="inline-flex items-center gap-2 rounded-full px-3 py-2 text-sm font-medium text-red-500 transition hover:bg-red-50 dark:hover:bg-red-950/30"
+          >
+            <CheckSquare className="h-4 w-4" />
+            <span className="hidden sm:inline">Submit Early</span>
+          </button>
+          <button
             onClick={handleSaveAndExit}
             className="inline-flex items-center gap-2 rounded-full px-3 py-2 text-sm font-medium text-[var(--text-muted)] transition hover:bg-slate-200 dark:hover:bg-slate-800"
           >
             <House className="h-4 w-4" />
-            Save & Exit
+            <span className="hidden sm:inline">Save & Exit</span>
           </button>
           <button 
             onClick={() => toggleBookmark(currentQ.id)}
@@ -144,6 +157,19 @@ export default function QuizPage() {
           </button>
         </div>
       </header>
+
+      {/* Sticky Next Button for convenience when answered */}
+      {isAnswered && (
+        <div className="sticky top-4 z-20 mb-4 animate-in fade-in slide-in-from-top-4 duration-300">
+          <button 
+            onClick={handleNext}
+            className="btn-primary w-full flex items-center justify-center space-x-2 shadow-lg ring-4 ring-[var(--bg-color)]"
+          >
+            <span>{isLastQuestion ? 'Finish Quiz' : 'Next Question'}</span>
+            <ArrowRight className="w-5 h-5" />
+          </button>
+        </div>
+      )}
 
       {/* Timer Bar */}
       <div className="w-full bg-slate-200 dark:bg-slate-800 rounded-full h-2 mb-6 overflow-hidden">
