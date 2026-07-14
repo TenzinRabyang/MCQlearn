@@ -10,6 +10,7 @@ import sbarData from "@/data/imported/sbar-clinical-communication.json";
 import skinConditionsData from "@/data/imported/skin-conditions-and-wound-healing.json";
 import woundCareData from "@/data/imported/wound-care-pathophysiology-assessment.json";
 import woundDressingsData from "@/data/imported/wound-dressings-selection-formularies.json";
+import womensAndReproductiveHealthData from "@/data/imported/womens-and-reproductive-health.json";
 
 export const originalQuestions = originalQuestionsData as Question[];
 
@@ -63,6 +64,11 @@ export const importedSubjects = [
     slug: "wound-dressings-selection-formularies",
     title: "Wound Dressings Selection Formularies",
     questions: woundDressingsData as Question[],
+  },
+  {
+    slug: "womens-and-reproductive-health",
+    title: "Women's & Reproductive Health",
+    questions: womensAndReproductiveHealthData as Question[],
   },
 ] as const;
 
