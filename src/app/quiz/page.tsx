@@ -44,17 +44,13 @@ export default function QuizPage() {
 
     const timer = setInterval(() => {
       incrementTimeSpent();
-      decrementCurrentTimeLeft();
     }, 1000);
 
     return () => clearInterval(timer);
-  }, [isActive, isAnswered, incrementTimeSpent, decrementCurrentTimeLeft]);
+  }, [isActive, isAnswered, incrementTimeSpent]);
 
-  useEffect(() => {
-    if (currentTimeLeft <= 0 && !isAnswered && questions.length > 0) {
-      answerQuestion(questions[currentIndex].id, -1); // -1 means timeout/unanswered
-    }
-  }, [currentTimeLeft, isAnswered, answerQuestion, questions, currentIndex]);
+  // Removed timeout auto-answer logic as timer is disabled
+
 
   if (!mounted || !hasHydrated) {
     return (
@@ -106,9 +102,6 @@ export default function QuizPage() {
   const handleSaveAndExit = () => {
     router.push("/");
   };
-
-  const timerPercentage = (currentTimeLeft / settings.timePerQuestion) * 100;
-  const isLowTime = currentTimeLeft <= 5 && !isAnswered;
 
   return (
     <div className="flex flex-col h-full animate-in slide-in-from-bottom-4 duration-500 pb-8">
@@ -170,22 +163,6 @@ export default function QuizPage() {
           </button>
         </div>
       )}
-
-      {/* Timer Bar */}
-      <div className="w-full bg-slate-200 dark:bg-slate-800 rounded-full h-2 mb-6 overflow-hidden">
-        <div 
-          className={`h-full transition-all duration-1000 ease-linear ${isLowTime ? 'bg-red-500' : 'bg-slate-800 dark:bg-slate-400'}`}
-          style={{ width: `${timerPercentage}%` }}
-        />
-      </div>
-
-      <div className="flex items-center justify-between mb-8">
-        <div className={`flex items-center space-x-2 font-medium ${isLowTime ? 'text-red-500 animate-pulse' : 'text-[var(--text-muted)]'}`}>
-          <Clock className="w-5 h-5" />
-          <span>00:{currentTimeLeft.toString().padStart(2, '0')}</span>
-        </div>
-        <span className="text-sm text-[var(--text-muted)]">Progress saves automatically</span>
-      </div>
 
       {/* Question */}
       <div className="mb-8">

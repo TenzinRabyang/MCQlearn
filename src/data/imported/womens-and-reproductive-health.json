@@ -1,1939 +1,1939 @@
 [
   {
     "id": "wrh-1",
-    "text": "According to the Royal College of Obstetricians and Gynaecologists (RCOG, 2015), which of the following is identified as a key predisposing risk factor for developing an Obstetric Anal Sphincter Injury (OASI)?",
+    "category": "Women's & Reproductive Health",
+    "question": "According to the Royal College of Obstetricians and Gynaecologists (RCOG, 2015), which of the following is identified as a key predisposing risk factor for developing an Obstetric Anal Sphincter Injury (OASI)?",
     "options": [
       "Elective caesarean section",
       "Prolonged second stage of labour",
       "Multiparity with rapid second stage",
       "Maternal age under 20 years"
     ],
-    "correctAnswer": "B",
-    "explanation": "Predisposing clinical factors for OASI include a prolonged second stage of labour, instrumental births (forceps or ventouse), high birth weight (macrosomia), shoulder dystocia, and primiparity.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Predisposing clinical factors for OASI include a prolonged second stage of labour, instrumental births (forceps or ventouse), high birth weight (macrosomia), shoulder dystocia, and primiparity."
   },
   {
     "id": "wrh-2",
-    "text": "When comparing the routine HPV vaccination guidelines between the UK and the US (CDC), at what routine age is the HPV vaccine typically administered in the UK immunisation schedule?",
+    "category": "Women's & Reproductive Health",
+    "question": "When comparing the routine HPV vaccination guidelines between the UK and the US (CDC), at what routine age is the HPV vaccine typically administered in the UK immunisation schedule?",
     "options": [
       "9\u201310 years",
       "12\u201313 years",
       "15\u201316 years",
       "18\u201321 years"
     ],
-    "correctAnswer": "B",
-    "explanation": "In the UK, the routine HPV vaccination is offered to boys and girls aged 12 to 13 years (School Year 8).",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "In the UK, the routine HPV vaccination is offered to boys and girls aged 12 to 13 years (School Year 8)."
   },
   {
     "id": "wrh-3",
-    "text": "A nurse is planning antenatal education for a primigravid client at 34 weeks of gestation. Which non-pharmacological strategy is recommended antenatally to help reduce the risk of perineal trauma during childbirth?",
+    "category": "Women's & Reproductive Health",
+    "question": "A nurse is planning antenatal education for a primigravid client at 34 weeks of gestation. Which non-pharmacological strategy is recommended antenatally to help reduce the risk of perineal trauma during childbirth?",
     "options": [
       "Daily pelvic floor muscle exercises only",
       "Daily warm tub baths",
       "Antenatal perineal massage",
       "Avoiding all weight-bearing exercises"
     ],
-    "correctAnswer": "C",
-    "explanation": "Antenatal perineal massage, typically initiated around 32 to 36 weeks of gestation, helps stretch and soften the perineal tissues, reducing the risk of episiotomy and perineal tears.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "Antenatal perineal massage, typically initiated around 32 to 36 weeks of gestation, helps stretch and soften the perineal tissues, reducing the risk of episiotomy and perineal tears."
   },
   {
     "id": "wrh-4",
-    "text": "During an assessment, a female client from an area with a high prevalence of Female Genital Mutilation (FGM) is identified as having FGM Type III. What specific surgical intervention may be required prior to or during childbirth to allow a safe vaginal delivery?",
+    "category": "Women's & Reproductive Health",
+    "question": "During an assessment, a female client from an area with a high prevalence of Female Genital Mutilation (FGM) is identified as having FGM Type III. What specific surgical intervention may be required prior to or during childbirth to allow a safe vaginal delivery?",
     "options": [
       "Episiotomy only",
       "Elective Caesarean Section",
       "Defibulation",
       "Cervical cerclage"
     ],
-    "correctAnswer": "C",
-    "explanation": "For women with FGM Type III (infibulation), defibulation (a surgical procedure to open the sealed vaginal introitus) is recommended antenatally or intrapartum to allow safe vaginal birth and prevent severe tissue damage.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "For women with FGM Type III (infibulation), defibulation (a surgical procedure to open the sealed vaginal introitus) is recommended antenatally or intrapartum to allow safe vaginal birth and prevent severe tissue damage."
   },
   {
     "id": "wrh-5",
-    "text": "In the context of women's and reproductive health, how does the World Health Organization (WHO, 2009) define \"Women's Health\"?",
+    "category": "Women's & Reproductive Health",
+    "question": "In the context of women's and reproductive health, how does the World Health Organization (WHO, 2009) define \"Women's Health\"?",
     "options": [
       "Health issues that are exclusively related to pregnancy and childbearing",
       "The branch of healthcare focusing only on hormonal changes during menopause",
       "Health issues specific to women, or those that affect women differently or more commonly than men",
       "The complete absence of gynecological disease throughout the lifespan"
     ],
-    "correctAnswer": "C",
-    "explanation": "The WHO (2009) defines women's health holistically, extending beyond reproduction to include any issues specific to women or those presenting differently or more frequently in women than in men.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "The WHO (2009) defines women's health holistically, extending beyond reproduction to include any issues specific to women or those presenting differently or more frequently in women than in men."
   },
   {
     "id": "wrh-6",
-    "text": "What is considered a primary component of preventive gynecological care that nurses actively promote to reduce cervical cancer mortality?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is considered a primary component of preventive gynecological care that nurses actively promote to reduce cervical cancer mortality?",
     "options": [
       "Annual pelvic floor muscle training",
       "Cervical screening (Smear test) and HPV vaccination",
       "Screening for gestational diabetes",
       "Routine pelvic ultrasound scans"
     ],
-    "correctAnswer": "B",
-    "explanation": "Cervical screening and HPV vaccination are the two most effective public health interventions for the primary prevention and early detection of cervical cancers.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Cervical screening and HPV vaccination are the two most effective public health interventions for the primary prevention and early detection of cervical cancers."
   },
   {
     "id": "wrh-7",
-    "text": "Which of the following is a key physical promotion strategy recommended antenatally to support pelvic health and improve bladder control?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which of the following is a key physical promotion strategy recommended antenatally to support pelvic health and improve bladder control?",
     "options": [
       "Strict bed rest starting from the second trimester",
       "High-impact aerobic training",
       "Pelvic floor (Kegel) exercises",
       "Increasing carbonated beverage intake"
     ],
-    "correctAnswer": "C",
-    "explanation": "Regular pelvic floor muscle exercises strengthen the supportive muscles of the bladder, uterus, and bowel, preventing incontinence and pelvic organ prolapse.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "Regular pelvic floor muscle exercises strengthen the supportive muscles of the bladder, uterus, and bowel, preventing incontinence and pelvic organ prolapse."
   },
   {
     "id": "wrh-8",
-    "text": "What is the main clinical objective of the \"OASI Care Bundle\" used in UK maternity units?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the main clinical objective of the \"OASI Care Bundle\" used in UK maternity units?",
     "options": [
       "To completely replace the need for active management of the third stage of labour",
       "To standardize interventions during birth to reduce the incidence of severe perineal tears",
       "To promote water births for all high-risk pregnancies",
       "To avoid the use of instrumental births in all scenarios"
     ],
-    "correctAnswer": "B",
-    "explanation": "The Obstetric Anal Sphincter Injury (OASI) Care Bundle is an evidence-based set of practices designed to minimize third- and fourth-degree perineal tears during vaginal births.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The Obstetric Anal Sphincter Injury (OASI) Care Bundle is an evidence-based set of practices designed to minimize third- and fourth-degree perineal tears during vaginal births."
   },
   {
     "id": "wrh-9",
-    "text": "At what gestational age range is it ideal to educate pregnant women regarding perineal massage and pelvic health preparation?",
+    "category": "Women's & Reproductive Health",
+    "question": "At what gestational age range is it ideal to educate pregnant women regarding perineal massage and pelvic health preparation?",
     "options": [
       "12 to 16 weeks",
       "20 to 24 weeks",
       "32 to 36 weeks",
       "Only once active labour commences"
     ],
-    "correctAnswer": "C",
-    "explanation": "Education regarding pelvic floor health, perineal massage, and OASI prevention is ideally delivered between 32 and 36 weeks of gestation.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "Education regarding pelvic floor health, perineal massage, and OASI prevention is ideally delivered between 32 and 36 weeks of gestation."
   },
   {
     "id": "wrh-10",
-    "text": "Which social determinant is recognized as a major factor influencing a woman's access to reproductive health screenings?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which social determinant is recognized as a major factor influencing a woman's access to reproductive health screenings?",
     "options": [
       "Intracellular potassium levels",
       "Socio-economic status and healthcare literacy",
       "Genetic mutations in type III collagen",
       "Rate of hepatic first-pass metabolism"
     ],
-    "correctAnswer": "B",
-    "explanation": "Socio-economic status, education, geographical location, and healthcare literacy significantly shape a woman's ability to access and engage with screening services.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Socio-economic status, education, geographical location, and healthcare literacy significantly shape a woman's ability to access and engage with screening services."
   },
   {
     "id": "wrh-11",
-    "text": "A nurse is discussing pelvic floor muscle exercises. What is the recommended frequency and duration for these exercises to be effective?",
+    "category": "Women's & Reproductive Health",
+    "question": "A nurse is discussing pelvic floor muscle exercises. What is the recommended frequency and duration for these exercises to be effective?",
     "options": [
       "Once a week for 30 minutes",
       "Multiple times daily, performing both slow and fast contractions consistently",
       "Only when experiencing active urinary leakage",
       "100 consecutive fast contractions without resting"
     ],
-    "correctAnswer": "B",
-    "explanation": "Pelvic floor muscle training requires regular, daily sessions combining slow/endurance holds and fast/power contractions to build tone and coordination.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Pelvic floor muscle training requires regular, daily sessions combining slow/endurance holds and fast/power contractions to build tone and coordination."
   },
   {
     "id": "wrh-12",
-    "text": "The incidence of pelvic floor dysfunction, such as pelvic organ prolapse, is often difficult to define epidemiologically because of:",
+    "category": "Women's & Reproductive Health",
+    "question": "The incidence of pelvic floor dysfunction, such as pelvic organ prolapse, is often difficult to define epidemiologically because of:",
     "options": [
       "A complete lack of diagnostic imaging tools",
       "Shame, stigma, and underreporting by affected women",
       "The condition resolving spontaneously in all cases",
       "Its restriction to women under the age of 25"
     ],
-    "correctAnswer": "B",
-    "explanation": "Shame and social stigma surrounding pelvic floor symptoms mean many women suffer in silence, leading to a high gap between estimated prevalence and diagnosed cases.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Shame and social stigma surrounding pelvic floor symptoms mean many women suffer in silence, leading to a high gap between estimated prevalence and diagnosed cases."
   },
   {
     "id": "wrh-13",
-    "text": "In the context of maternal care, \"shoulder dystocia\" is classified as:",
+    "category": "Women's & Reproductive Health",
+    "question": "In the context of maternal care, \"shoulder dystocia\" is classified as:",
     "options": [
       "A normal physiological position during the first stage of labour",
       "An obstetric emergency where the baby's shoulder becomes wedged behind the mother's pubic bone",
       "A metabolic condition affecting neonatal calcium levels",
       "A contraindication to receiving the HPV vaccine"
     ],
-    "correctAnswer": "B",
-    "explanation": "Shoulder dystocia is a major obstetric emergency that increases the risk of maternal perineal trauma (OASI) and neonatal injury.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Shoulder dystocia is a major obstetric emergency that increases the risk of maternal perineal trauma (OASI) and neonatal injury."
   },
   {
     "id": "wrh-14",
-    "text": "Which dietary and lifestyle advice is recommended to optimize pelvic and bowel health in women?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which dietary and lifestyle advice is recommended to optimize pelvic and bowel health in women?",
     "options": [
       "Restricting dietary fiber to prevent bowel movements",
       "Adequate fluid intake, high-fiber diet, and smoking cessation",
       "High caffeine intake to stimulate bladder contraction",
       "Avoiding physical activity or walking"
     ],
-    "correctAnswer": "B",
-    "explanation": "A high-fiber diet and hydration prevent constipation and straining (which weakens the pelvic floor), while smoking cessation reduces chronic coughing, another risk factor for prolapse.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "A high-fiber diet and hydration prevent constipation and straining (which weakens the pelvic floor), while smoking cessation reduces chronic coughing, another risk factor for prolapse."
   },
   {
     "id": "wrh-15",
-    "text": "Why is a multi-disciplinary approach (including midwives, physiotherapists, and obstetricians) vital in women's pelvic health?",
+    "category": "Women's & Reproductive Health",
+    "question": "Why is a multi-disciplinary approach (including midwives, physiotherapists, and obstetricians) vital in women's pelvic health?",
     "options": [
       "It eliminates the patient's need to take personal responsibility for care.",
       "It provides holistic, integrated management from prenatal prevention to postnatal rehabilitation.",
       "It restricts patients from seeking primary care reviews.",
       "It converts all standard gynecological care into wholly compensatory systems."
     ],
-    "correctAnswer": "B",
-    "explanation": "Pelvic health involves a continuum of preventative education, active intrapartum protection, and specialized physical therapy for optimal recovery. Presentation 2: Seminar - Women's & Reproductive Health",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Pelvic health involves a continuum of preventative education, active intrapartum protection, and specialized physical therapy for optimal recovery. Presentation 2: Seminar - Women's & Reproductive Health"
   },
   {
     "id": "wrh-16",
-    "text": "How does the World Health Organization (WHO, 2006) define \"Reproductive Health\" holistically?",
+    "category": "Women's & Reproductive Health",
+    "question": "How does the World Health Organization (WHO, 2006) define \"Reproductive Health\" holistically?",
     "options": [
       "The complete absence of physical reproductive tract disease during pregnancy",
       "A state of complete physical, mental, and social well-being in all matters relating to the reproductive system, functions, and processes",
       "The capacity to reproduce successfully up to the age of 45",
       "Achieving clinical perfection in prenatal diagnostic test results"
     ],
-    "correctAnswer": "B",
-    "explanation": "The WHO definition of reproductive health is holistic, emphasizing complete physical, mental, and social well-being rather than just the absence of disease.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The WHO definition of reproductive health is holistic, emphasizing complete physical, mental, and social well-being rather than just the absence of disease."
   },
   {
     "id": "wrh-17",
-    "text": "When applying a sensitive, trauma-informed approach to cervical screening (smear tests), which action is most appropriate for the nurse?",
+    "category": "Women's & Reproductive Health",
+    "question": "When applying a sensitive, trauma-informed approach to cervical screening (smear tests), which action is most appropriate for the nurse?",
     "options": [
       "Performing the speculum examination quickly without explanation to save time",
       "Explaining each step clearly, obtaining active consent, offering a chaperone, and allowing the client control over the pace of the procedure",
       "Telling the client that pain is completely imaginary and must be ignored",
       "Mandating that the client's family members remain in the exam room"
     ],
-    "correctAnswer": "B",
-    "explanation": "A sensitive, trauma-informed approach is vital in cervical screening to support anxiety, protect dignity, and build trust.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "A sensitive, trauma-informed approach is vital in cervical screening to support anxiety, protect dignity, and build trust."
   },
   {
     "id": "wrh-18",
-    "text": "According to Ansari (2024), adopting a highly sensitive and individualized approach during cervical screening directly influences:",
+    "category": "Women's & Reproductive Health",
+    "question": "According to Ansari (2024), adopting a highly sensitive and individualized approach during cervical screening directly influences:",
     "options": [
       "The biochemical sensitivity of the laboratory HPV assay",
       "Uptake rates, patient trust, and overall screening coverage across diverse or vulnerable populations",
       "The half-life of the speculum lubricant",
       "The physiological thickness of the vaginal epithelial strata"
     ],
-    "correctAnswer": "B",
-    "explanation": "Patient-centered and culturally sensitive communication reduces barriers to screening, directly boosting screening participation among underserved groups.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Patient-centered and culturally sensitive communication reduces barriers to screening, directly boosting screening participation among underserved groups."
   },
   {
     "id": "wrh-19",
-    "text": "Under a life-course approach to women\u2019s health, which key transitions must nurses recognize as having unique physical and psychological implications?",
+    "category": "Women's & Reproductive Health",
+    "question": "Under a life-course approach to women\u2019s health, which key transitions must nurses recognize as having unique physical and psychological implications?",
     "options": [
       "Only pregnancy and childbirth",
       "Menarche, reproductive years, pregnancy, postpartum, and perimenopause/menopause",
       "Hepatic first-pass clearance and renal filtration shifts",
       "Standard triage streaming categories"
     ],
-    "correctAnswer": "B",
-    "explanation": "A life-course framework recognizes that health outcomes are shaped by experiences across a woman's entire lifespan, from puberty to post-menopause.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "A life-course framework recognizes that health outcomes are shaped by experiences across a woman's entire lifespan, from puberty to post-menopause."
   },
   {
     "id": "wrh-20",
-    "text": "Why is it clinically incorrect to assume that \"reproductive health\" only concerns pregnant women?",
+    "category": "Women's & Reproductive Health",
+    "question": "Why is it clinically incorrect to assume that \"reproductive health\" only concerns pregnant women?",
     "options": [
       "Non-pregnant women do not possess a reproductive system.",
       "It excludes crucial dimensions like menstrual health, contraception, sexual well-being, fertility, and menopause.",
       "Pregnancy is the only phase where reproductive organs are metabolically active.",
       "Standard nursing models only apply during the prenatal period."
     ],
-    "correctAnswer": "B",
-    "explanation": "Holistic reproductive health encompasses all stages of life and physical/social aspects of the reproductive system, far beyond the scope of gestation alone.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Holistic reproductive health encompasses all stages of life and physical/social aspects of the reproductive system, far beyond the scope of gestation alone."
   },
   {
     "id": "wrh-21",
-    "text": "The phrase \"complete well-being\" in the WHO definition of health is best understood as:",
+    "category": "Women's & Reproductive Health",
+    "question": "The phrase \"complete well-being\" in the WHO definition of health is best understood as:",
     "options": [
       "Achieving a flawless state of physical and mental performance",
       "A broad, multidimensional view of health that includes psychological and social dimensions, rather than a lack of symptoms",
       "An unrealistic standard that cannot be applied to modern nursing",
       "The absolute rejection of all pharmacological interventions"
     ],
-    "correctAnswer": "B",
-    "explanation": "Modern health theories (like Schramme, 2023) clarify that \"complete\" denotes breadth (addressing physical, mental, and social aspects of life) rather than requiring perfection.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Modern health theories (like Schramme, 2023) clarify that \"complete\" denotes breadth (addressing physical, mental, and social aspects of life) rather than requiring perfection."
   },
   {
     "id": "wrh-22",
-    "text": "When a nurse provides contraceptive counseling, which clinical principle is paramount to support patient autonomy?",
+    "category": "Women's & Reproductive Health",
+    "question": "When a nurse provides contraceptive counseling, which clinical principle is paramount to support patient autonomy?",
     "options": [
       "Directing the client to the method the nurse personally prefers",
       "Providing objective, evidence-based information on all options to facilitate shared decision-making",
       "Choosing a method based solely on the cheapest institutional cost",
       "Insisting that the client's partner makes the final decision"
     ],
-    "correctAnswer": "B",
-    "explanation": "Respecting autonomy means offering comprehensive, unbiased contraceptive education so the individual can make an informed choice that suits their life.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Respecting autonomy means offering comprehensive, unbiased contraceptive education so the individual can make an informed choice that suits their life."
   },
   {
     "id": "wrh-23",
-    "text": "Which of the following is a recognized barrier to cervical screening uptake among young or marginalized women?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which of the following is a recognized barrier to cervical screening uptake among young or marginalized women?",
     "options": [
       "High level of digital literacy",
       "Fear of pain, embarrassment, or previous traumatic experiences",
       "Excessive availability of open-access screening clinics",
       "Standardized HPV vaccination schedules"
     ],
-    "correctAnswer": "B",
-    "explanation": "Barriers to screening include fear, embarrassment, pain, past trauma, cultural taboos, or lack of knowledge about the procedure's purpose.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Barriers to screening include fear, embarrassment, pain, past trauma, cultural taboos, or lack of knowledge about the procedure's purpose."
   },
   {
     "id": "wrh-24",
-    "text": "A life-course approach to women's health highlights that adult cardiovascular and bone health can be heavily influenced by:",
+    "category": "Women's & Reproductive Health",
+    "question": "A life-course approach to women's health highlights that adult cardiovascular and bone health can be heavily influenced by:",
     "options": [
       "Childhood nutrition, physical activity, and adolescent lifestyle habits",
       "The exact time of day a medication is administered",
       "The choice of emergency triage color category in youth",
       "Using manual rather than automated blood pressure cuffs"
     ],
-    "correctAnswer": "A",
-    "explanation": "Health behaviors and nutritional states in early life phases build baseline reserves (e.g., peak bone mass), directly influencing risks (like osteoporosis) in later years.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 0,
+    "explanation": "Health behaviors and nutritional states in early life phases build baseline reserves (e.g., peak bone mass), directly influencing risks (like osteoporosis) in later years."
   },
   {
     "id": "wrh-25",
-    "text": "What is the role of the nurse when a client discloses they have experienced gender-based violence?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the role of the nurse when a client discloses they have experienced gender-based violence?",
     "options": [
       "To investigate the incident forensically without patient consent",
       "To provide a safe, non-judgmental space, offer immediate clinical care, and signpost to specialized support services",
       "To advise the patient to ignore the incident to avoid social stigma",
       "To document it only if physical injuries are visible"
     ],
-    "correctAnswer": "B",
-    "explanation": "Safeguarding and trauma-informed care require active listening, validation, addressing physical/mental needs, and connecting the survivor to support pathways.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Safeguarding and trauma-informed care require active listening, validation, addressing physical/mental needs, and connecting the survivor to support pathways."
   },
   {
     "id": "wrh-26",
-    "text": "Menopause is clinically defined as the point in time when a woman has not had a menstrual period for:",
+    "category": "Women's & Reproductive Health",
+    "question": "Menopause is clinically defined as the point in time when a woman has not had a menstrual period for:",
     "options": [
       "3 consecutive months",
       "6 consecutive months",
       "12 consecutive months",
       "24 consecutive months"
     ],
-    "correctAnswer": "C",
-    "explanation": "Menopause is diagnosed retrospectively after 12 consecutive months of amenorrhea without other physiological or pathological causes.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "Menopause is diagnosed retrospectively after 12 consecutive months of amenorrhea without other physiological or pathological causes."
   },
   {
     "id": "wrh-27",
-    "text": "How can nurses advocate for \"menstrual equity\" in their clinical or community practice?",
+    "category": "Women's & Reproductive Health",
+    "question": "How can nurses advocate for \"menstrual equity\" in their clinical or community practice?",
     "options": [
       "By limiting education regarding menstrual hygiene to adult populations only",
       "Promoting access to free sanitary products, reducing period stigma, and educating on menstrual disorders",
       "Requiring all female patients to use hormonal suppression therapies",
       "Eliminating menstrual history taking from baseline assessments"
     ],
-    "correctAnswer": "B",
-    "explanation": "Menstrual equity involves ensuring all individuals have access to the products, education, and supportive environments needed to manage menstruation safely and with dignity.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Menstrual equity involves ensuring all individuals have access to the products, education, and supportive environments needed to manage menstruation safely and with dignity."
   },
   {
     "id": "wrh-28",
-    "text": "Why is it essential for nurses to screen for perinatal depression during antenatal and postnatal visits?",
+    "category": "Women's & Reproductive Health",
+    "question": "Why is it essential for nurses to screen for perinatal depression during antenatal and postnatal visits?",
     "options": [
       "Mental health changes during this period are always self-limiting and require no intervention.",
       "Perinatal mental health disorders are common and can significantly impact both maternal well-being and infant development.",
       "Prescribing antidepressants is mandatory for all postpartum patients.",
       "Standard care plans do not cover physical complications."
     ],
-    "correctAnswer": "B",
-    "explanation": "Early identification and management of perinatal mood disorders (such as depression or psychosis) are vital to protect maternal-infant safety and support bonding.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Early identification and management of perinatal mood disorders (such as depression or psychosis) are vital to protect maternal-infant safety and support bonding."
   },
   {
     "id": "wrh-29",
-    "text": "A client states they are hesitant to attend cervical screening because of their cultural background. How should the nurse respond?",
+    "category": "Women's & Reproductive Health",
+    "question": "A client states they are hesitant to attend cervical screening because of their cultural background. How should the nurse respond?",
     "options": [
       "\"If you do not attend, you are being non-compliant with standard healthcare guidelines.\"",
       "\"I understand your concerns; let's discuss how we can adapt the environment or procedure to make you feel as comfortable and respected as possible.\"",
       "\"There is no alternative, so you must overcome your embarrassment.\"",
       "\"We can bypass screening if you have received the HPV vaccine.\""
     ],
-    "correctAnswer": "B",
-    "explanation": "Delivering culturally sensitive care involves validating the client's feelings and identifying collaborative adaptations to facilitate safe, comfortable care.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Delivering culturally sensitive care involves validating the client's feelings and identifying collaborative adaptations to facilitate safe, comfortable care."
   },
   {
     "id": "wrh-30",
-    "text": "What does the term \"holistic care\" mean when applied to reproductive health nursing?",
+    "category": "Women's & Reproductive Health",
+    "question": "What does the term \"holistic care\" mean when applied to reproductive health nursing?",
     "options": [
       "Focusing solely on the physiological functions of the pelvic organs",
       "Integrating the physical, psychological, cultural, social, and spiritual dimensions of the patient into the care plan",
       "Bypassing evidence-based treatments in favor of alternative therapies only",
       "Standardizing care to treat all women as an identical cohort"
     ],
-    "correctAnswer": "B",
-    "explanation": "Holistic care recognizes that a woman's reproductive well-being is deeply interconnected with her emotional, social, and cultural context, requiring individualized care planning. Presentation 3: Global Health and Inequalities",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Holistic care recognizes that a woman's reproductive well-being is deeply interconnected with her emotional, social, and cultural context, requiring individualized care planning. Presentation 3: Global Health and Inequalities"
   },
   {
     "id": "wrh-31",
-    "text": "Which of the following best defines \"Global Health\" as an academic and clinical discipline?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which of the following best defines \"Global Health\" as an academic and clinical discipline?",
     "options": [
       "The study of health issues that only affect low-income countries",
       "An area for study, research, and practice that places a priority on improving health and achieving equity in health for all people worldwide",
       "The administrative distribution of pharmaceutical medical patents",
       "Establishing standardized triage color codes across European hospitals"
     ],
-    "correctAnswer": "B",
-    "explanation": "Global health focuses on transnational health issues and determinants, aiming to improve health outcomes and reduce health disparities globally.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Global health focuses on transnational health issues and determinants, aiming to improve health outcomes and reduce health disparities globally."
   },
   {
     "id": "wrh-32",
-    "text": "During the period of 2018\u20132023, the World Health Organization tracked the progress of its Sustainable Development Goals. Which of the following was identified as a major remaining challenge for building \"healthier populations\"?",
+    "category": "Women's & Reproductive Health",
+    "question": "During the period of 2018\u20132023, the World Health Organization tracked the progress of its Sustainable Development Goals. Which of the following was identified as a major remaining challenge for building \"healthier populations\"?",
     "options": [
       "A global surplus of clean drinking water",
       "Declining rates of global physical inactivity",
       "Air quality, tobacco consumption, and obesity",
       "Too many individuals achieving universal health coverage"
     ],
-    "correctAnswer": "C",
-    "explanation": "Environmental degradation, rising obesity rates, sedentary lifestyles, and tobacco use remain major global barriers to population health.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "Environmental degradation, rising obesity rates, sedentary lifestyles, and tobacco use remain major global barriers to population health."
   },
   {
     "id": "wrh-33",
-    "text": "What is meant by the term \"Universal Health Coverage\" (UHC) under the Sustainable Development Goals?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is meant by the term \"Universal Health Coverage\" (UHC) under the Sustainable Development Goals?",
     "options": [
       "Ensuring all citizens globally are prescribed the same medications",
       "That all people have access to needed health services of high quality without experiencing financial hardship",
       "Restricting healthcare access to those with private medical insurance",
       "Shifting all health systems to wholly compensatory models of care"
     ],
-    "correctAnswer": "B",
-    "explanation": "The core of UHC is ensuring equitable access to care, treatment, and prevention without pushing families into poverty or debt.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The core of UHC is ensuring equitable access to care, treatment, and prevention without pushing families into poverty or debt."
   },
   {
     "id": "wrh-34",
-    "text": "In global public health, what is a \"health inequality\" (or health disparity)?",
+    "category": "Women's & Reproductive Health",
+    "question": "In global public health, what is a \"health inequality\" (or health disparity)?",
     "options": [
       "The biological variations in height and eye color among populations",
       "Systematic, avoidable, and unjust differences in health status, survival, and access to healthcare between different population groups",
       "The difference in active drug bioavailability between oral and IV routes",
       "A normal physiological adaptation to environmental changes"
     ],
-    "correctAnswer": "B",
-    "explanation": "Health inequalities are not random biological differences; they are systematic variations driven by social, economic, and political factors.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Health inequalities are not random biological differences; they are systematic variations driven by social, economic, and political factors."
   },
   {
     "id": "wrh-35",
-    "text": "In 2025, the UK House of Commons announced plans to adjust its Official Development Assistance (ODA) budget. What was the projected target for UK aid funding starting from 2027?",
+    "category": "Women's & Reproductive Health",
+    "question": "In 2025, the UK House of Commons announced plans to adjust its Official Development Assistance (ODA) budget. What was the projected target for UK aid funding starting from 2027?",
     "options": [
       "Increasing aid to 1.5% of Gross National Income (GNI)",
       "Reducing aid to 0.3% of Gross National Income (GNI)",
       "Setting aid at a flat rate of $\\$1$ billion annually",
       "Eliminating all international development spending entirely"
     ],
-    "correctAnswer": "B",
-    "explanation": "The UK House of Commons outlined a reduction in aid spending to 0.3% of GNI from 2027, highlighting policy shifts that affect global health funding.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The UK House of Commons outlined a reduction in aid spending to 0.3% of GNI from 2027, highlighting policy shifts that affect global health funding."
   },
   {
     "id": "wrh-36",
-    "text": "According to epidemiological estimates surrounding the COVID-19 pandemic, how did the actual global excess mortality compare to the official recorded COVID-19 deaths?",
+    "category": "Women's & Reproductive Health",
+    "question": "According to epidemiological estimates surrounding the COVID-19 pandemic, how did the actual global excess mortality compare to the official recorded COVID-19 deaths?",
     "options": [
       "The actual excess mortality was identical to the official count.",
       "The actual excess mortality was estimated to be up to three times higher than the official recorded figures.",
       "The actual excess mortality was significantly lower than the official records.",
       "No reliable data exists to measure excess mortality."
     ],
-    "correctAnswer": "B",
-    "explanation": "WHO estimates suggest actual excess mortality during the pandemic was roughly three times higher than officially registered COVID-19 fatalities due to underreporting and disrupted healthcare systems.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "WHO estimates suggest actual excess mortality during the pandemic was roughly three times higher than officially registered COVID-19 fatalities due to underreporting and disrupted healthcare systems."
   },
   {
     "id": "wrh-37",
-    "text": "The term \"Social Determinants of Health\" (SDOH) refers to:",
+    "category": "Women's & Reproductive Health",
+    "question": "The term \"Social Determinants of Health\" (SDOH) refers to:",
     "options": [
       "The genetic profile and chromosomal sequence of an individual",
       "The conditions in which people are born, grow, live, work, and age, which shape their health outcomes",
       "The chemical binding affinity of a drug receptor",
       "The layout of an intensive care resuscitation bay"
     ],
-    "correctAnswer": "B",
-    "explanation": "SDOH are non-medical factors (like housing, income, education, and employment) that have a massive influence on systemic health inequalities.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "SDOH are non-medical factors (like housing, income, education, and employment) that have a massive influence on systemic health inequalities."
   },
   {
     "id": "wrh-38",
-    "text": "Which global indicator measures the average number of years a newborn is expected to live in \"full health,\" free from chronic disease or disability?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which global indicator measures the average number of years a newborn is expected to live in \"full health,\" free from chronic disease or disability?",
     "options": [
       "Healthy Life Expectancy (HALE)",
       "Crude Birth Rate (CBR)",
       "Infant Mortality Rate (IMR)",
       "Gross National Income (GNI)"
     ],
-    "correctAnswer": "A",
-    "explanation": "Unlike overall life expectancy, HALE adjusts for years lived with disability or illness, capturing the quality of life years in a population.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 0,
+    "explanation": "Unlike overall life expectancy, HALE adjusts for years lived with disability or illness, capturing the quality of life years in a population."
   },
   {
     "id": "wrh-39",
-    "text": "What is a \"double burden of disease\" commonly observed in rapidly developing low- and middle-income countries?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is a \"double burden of disease\" commonly observed in rapidly developing low- and middle-income countries?",
     "options": [
       "Managing both physical pain and high pharmaceutical costs",
       "Facing high rates of both infectious diseases (malaria, TB) and chronic non-communicable diseases (diabetes, cardiovascular disease)",
       "Having to coordinate both primary and secondary nursing models",
       "Addressing both water-soluble and fat-soluble drug side effects"
     ],
-    "correctAnswer": "B",
-    "explanation": "Many developing nations face a double burden as they combat ongoing infectious diseases while seeing a rise in lifestyle-related chronic conditions.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Many developing nations face a double burden as they combat ongoing infectious diseases while seeing a rise in lifestyle-related chronic conditions."
   },
   {
     "id": "wrh-40",
-    "text": "When planning a global health intervention, why is it vital to assess \"acceptability\" within the target community?",
+    "category": "Women's & Reproductive Health",
+    "question": "When planning a global health intervention, why is it vital to assess \"acceptability\" within the target community?",
     "options": [
       "To satisfy international trademark guidelines for medical software",
       "To ensure the intervention aligns with local cultural values, beliefs, and practices, supporting trust and sustained participation",
       "To bypass the need for local governmental approval",
       "To standardize treatment costs across all participating nations"
     ],
-    "correctAnswer": "B",
-    "explanation": "Interventions that ignore local culture, taboos, or social structures often face resistance, leading to project failure despite being technically sound.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Interventions that ignore local culture, taboos, or social structures often face resistance, leading to project failure despite being technically sound."
   },
   {
     "id": "wrh-41",
-    "text": "The concept of \"brain drain\" in global health refers to:",
+    "category": "Women's & Reproductive Health",
+    "question": "The concept of \"brain drain\" in global health refers to:",
     "options": [
       "The progressive cognitive decline observed in advanced stages of dementia",
       "The migration of highly trained healthcare professionals from low-resource countries to wealthier nations, worsening local staff shortages",
       "The loss of memory caused by prolonged stays in intensive care units",
       "Algorithmic bias within clinical decision support systems"
     ],
-    "correctAnswer": "B",
-    "explanation": "Brain drain strips developing health systems of their trained human resources, widening the global gap in healthcare capacity and quality.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Brain drain strips developing health systems of their trained human resources, widening the global gap in healthcare capacity and quality."
   },
   {
     "id": "wrh-42",
-    "text": "Which of the following serves as a key structural determinant of health inequalities within a city or region?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which of the following serves as a key structural determinant of health inequalities within a city or region?",
     "options": [
       "Access to reliable public transport and clean green spaces",
       "The specific brand of stethoscope used by hospital staff",
       "The chemical half-life of oral insulin",
       "The color of the hospital's triage registration desks"
     ],
-    "correctAnswer": "A",
-    "explanation": "Environmental design, transportation, housing, and access to clean spaces directly shape physical activity, stress levels, and exposure to pollution.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 0,
+    "explanation": "Environmental design, transportation, housing, and access to clean spaces directly shape physical activity, stress levels, and exposure to pollution."
   },
   {
     "id": "wrh-43",
-    "text": "What is the primary role of Non-Governmental Organizations (NGOs) in global health delivery?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the primary role of Non-Governmental Organizations (NGOs) in global health delivery?",
     "options": [
       "To write national health legislation and enforce taxes",
       "To provide targeted aid, healthcare services, and advocacy, particularly in crisis zones or underserved areas",
       "To manufacture and distribute all pharmaceutical medications globally",
       "To replace the World Health Organization's legal authority"
     ],
-    "correctAnswer": "B",
-    "explanation": "NGOs fill gaps in state infrastructure, delivering humanitarian assistance, training local staff, and piloting health innovations.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "NGOs fill gaps in state infrastructure, delivering humanitarian assistance, training local staff, and piloting health innovations."
   },
   {
     "id": "wrh-44",
-    "text": "How does a country's Gross National Income (GNI) per capita correlate with its average life expectancy?",
+    "category": "Women's & Reproductive Health",
+    "question": "How does a country's Gross National Income (GNI) per capita correlate with its average life expectancy?",
     "options": [
       "There is no statistical relationship between income and survival.",
       "Countries with higher GNI per capita generally have higher life expectancies due to better infrastructure, nutrition, and healthcare access.",
       "Low GNI per capita is associated with a complete absence of chronic disease.",
       "High GNI per capita automatically eliminates the risk of infectious diseases."
     ],
-    "correctAnswer": "B",
-    "explanation": "Economic prosperity supports the public infrastructure, sanitation, nutrition, and health services needed to sustain long-term population health.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Economic prosperity supports the public infrastructure, sanitation, nutrition, and health services needed to sustain long-term population health."
   },
   {
     "id": "wrh-45",
-    "text": "When implementing global health solutions, what does \"feasibility\" refer to?",
+    "category": "Women's & Reproductive Health",
+    "question": "When implementing global health solutions, what does \"feasibility\" refer to?",
     "options": [
       "The maximum cost-effectiveness of a drug's hepatic metabolism",
       "The practical capability of an intervention to be successfully executed given available resources, staff, and local infrastructure",
       "The speed at which an AI diagnostic tool generates a recommendation",
       "The transition of a patient from intensive care to a standard ward"
     ],
-    "correctAnswer": "B",
-    "explanation": "Feasibility assesses whether a plan can realistically work in the real-world conditions of the target setting, avoiding overly complex strategies that local staff cannot maintain. Presentation 4: Integumentary System & Wound Healing",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Feasibility assesses whether a plan can realistically work in the real-world conditions of the target setting, avoiding overly complex strategies that local staff cannot maintain. Presentation 4: Integumentary System & Wound Healing"
   },
   {
     "id": "wrh-46",
-    "text": "The skin is divided into distinct layers. Which of the following represents the correct sequence of the epidermal strata, starting from the deepest germinal layer to the outermost surface?",
+    "category": "Women's & Reproductive Health",
+    "question": "The skin is divided into distinct layers. Which of the following represents the correct sequence of the epidermal strata, starting from the deepest germinal layer to the outermost surface?",
     "options": [
       "Corneum, Granulosum, Spinosum, Basal",
       "Basal, Spinosum, Granulosum, Corneum",
       "Basal, Granulosum, Spinosum, Corneum",
       "Corneum, Spinosum, Granulosum, Basal"
     ],
-    "correctAnswer": "B",
-    "explanation": "The epidermis grows from the deepest germinal layer (basal) through the spiny layer (spinosum), the flattening keratogenous layer (granulosum), to the dead, keratin-packed outer layer (corneum).",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The epidermis grows from the deepest germinal layer (basal) through the spiny layer (spinosum), the flattening keratogenous layer (granulosum), to the dead, keratin-packed outer layer (corneum)."
   },
   {
     "id": "wrh-47",
-    "text": "If a severe burn or trauma completely destroys the basal layer of the epidermis, what is the clinical consequence regarding skin regeneration?",
+    "category": "Women's & Reproductive Health",
+    "question": "If a severe burn or trauma completely destroys the basal layer of the epidermis, what is the clinical consequence regarding skin regeneration?",
     "options": [
       "The skin will regenerate rapidly from the hair follicles.",
       "The skin will not be able to self-regenerate and may require an autograft.",
       "The basement membrane will immediately manufacture new basal cells.",
       "The skin will heal exclusively by primary intention without scarring."
     ],
-    "correctAnswer": "B",
-    "explanation": "The basal layer contains the germinal stem cells required for epidermal renewal. Its destruction halts natural re-epithelialization, requiring surgical grafts.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The basal layer contains the germinal stem cells required for epidermal renewal. Its destruction halts natural re-epithelialization, requiring surgical grafts."
   },
   {
     "id": "wrh-48",
-    "text": "Which specialized cells located within the epidermis are responsible for providing protection against harmful ultraviolet (UV) radiation by producing melanin?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which specialized cells located within the epidermis are responsible for providing protection against harmful ultraviolet (UV) radiation by producing melanin?",
     "options": [
       "Langerhans cells",
       "Merkel cells",
       "Melanocytes",
       "Keratinocytes"
     ],
-    "correctAnswer": "C",
-    "explanation": "Melanocytes synthesize the pigment melanin, which absorbs UV light to protect cell nuclei from radiation damage.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "Melanocytes synthesize the pigment melanin, which absorbs UV light to protect cell nuclei from radiation damage."
   },
   {
     "id": "wrh-49",
-    "text": "A nurse is managing a surgical incision where the wound edges are clean, closely approximated with sutures, and have minimal tissue loss. This wound is healing by which mechanism?",
+    "category": "Women's & Reproductive Health",
+    "question": "A nurse is managing a surgical incision where the wound edges are clean, closely approximated with sutures, and have minimal tissue loss. This wound is healing by which mechanism?",
     "options": [
       "Secondary intention",
       "Primary intention",
       "Delayed primary closure",
       "Granulation tissue formation"
     ],
-    "correctAnswer": "B",
-    "explanation": "Primary intention occurs when clean wound edges are brought adjacent to each other, minimizing the space for granulation and reducing scar formation.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Primary intention occurs when clean wound edges are brought adjacent to each other, minimizing the space for granulation and reducing scar formation."
   },
   {
     "id": "wrh-50",
-    "text": "A patient has a large pressure ulcer that is left open to heal. The wound cavity is slowly filling with red, moist, vascular tissue composed of new capillaries and collagen. What is this tissue called?",
+    "category": "Women's & Reproductive Health",
+    "question": "A patient has a large pressure ulcer that is left open to heal. The wound cavity is slowly filling with red, moist, vascular tissue composed of new capillaries and collagen. What is this tissue called?",
     "options": [
       "Keloid scar tissue",
       "Granulation tissue",
       "Eschar tissue",
       "Epidermal strata"
     ],
-    "correctAnswer": "B",
-    "explanation": "Granulation tissue is the vascularized, fragile connective tissue that forms during the proliferative phase of secondary intention wound healing.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Granulation tissue is the vascularized, fragile connective tissue that forms during the proliferative phase of secondary intention wound healing."
   },
   {
     "id": "wrh-51",
-    "text": "What is the primary cellular event that characterizes the \"remodelling\" phase of wound healing?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the primary cellular event that characterizes the \"remodelling\" phase of wound healing?",
     "options": [
       "Migration of Langerhans cells to trigger inflammation",
       "Conversion of temporary Type III collagen to stronger, organized Type I collagen",
       "Rapid mitosis of basal cells to close the wound margin",
       "Massive leakage of plasma proteins from local capillaries"
     ],
-    "correctAnswer": "B",
-    "explanation": "Remodeling (maturation) involves restructuring collagen fibers to increase tensile strength, transitioning from flexible Type III to scar-associated Type I collagen.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Remodeling (maturation) involves restructuring collagen fibers to increase tensile strength, transitioning from flexible Type III to scar-associated Type I collagen."
   },
   {
     "id": "wrh-52",
-    "text": "Which specialized epidermal cells function as macrophages, playing a key role in the skin's immune defense by presenting antigens to T-lymphocytes?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which specialized epidermal cells function as macrophages, playing a key role in the skin's immune defense by presenting antigens to T-lymphocytes?",
     "options": [
       "Merkel cells",
       "Melanocytes",
       "Langerhans cells",
       "Keratinocytes"
     ],
-    "correctAnswer": "C",
-    "explanation": "Langerhans cells are dendritic immunological cells in the epidermis that identify, capture, and present foreign antigens to initiate an immune response.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "Langerhans cells are dendritic immunological cells in the epidermis that identify, capture, and present foreign antigens to initiate an immune response."
   },
   {
     "id": "wrh-53",
-    "text": "A nurse is assessing a complex wound that was purposely left open for 5 days to clear an infection before being surgically closed with grafts. This method of healing is called:",
+    "category": "Women's & Reproductive Health",
+    "question": "A nurse is assessing a complex wound that was purposely left open for 5 days to clear an infection before being surgically closed with grafts. This method of healing is called:",
     "options": [
       "Primary intention",
       "Secondary intention",
       "Delayed primary closure (or tertiary intention)",
       "Natural granulation"
     ],
-    "correctAnswer": "C",
-    "explanation": "Delayed primary closure is used for contaminated wounds, allowing drainage and observation before surgical closure is completed.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "Delayed primary closure is used for contaminated wounds, allowing drainage and observation before surgical closure is completed."
   },
   {
     "id": "wrh-54",
-    "text": "What is the complex, specialized zone situated between the epidermis and the dermis that anchors the two layers together?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the complex, specialized zone situated between the epidermis and the dermis that anchors the two layers together?",
     "options": [
       "Stratum corneum",
       "Basement membrane zone (BMZ)",
       "Subcutaneous adipose tissue",
       "Reticular dermis"
     ],
-    "correctAnswer": "B",
-    "explanation": "The BMZ is a structural interface composed of collagen and laminin that anchors the epidermis to the underlying dermis, facilitating nutrient transport.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The BMZ is a structural interface composed of collagen and laminin that anchors the epidermis to the underlying dermis, facilitating nutrient transport."
   },
   {
     "id": "wrh-55",
-    "text": "Which cells are responsible for light touch sensory perception in the basal layer of the skin?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which cells are responsible for light touch sensory perception in the basal layer of the skin?",
     "options": [
       "Melanocytes",
       "Merkel cells",
       "Langerhans cells",
       "Fibroblasts"
     ],
-    "correctAnswer": "B",
-    "explanation": "Merkel cells are specialized neuroendocrine cells in the basal epidermis that pair with sensory nerve endings to detect gentle tactile stimuli.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Merkel cells are specialized neuroendocrine cells in the basal epidermis that pair with sensory nerve endings to detect gentle tactile stimuli."
   },
   {
     "id": "wrh-56",
-    "text": "The dermis is primarily composed of which structural proteins, providing elasticity and tensile strength to the skin?",
+    "category": "Women's & Reproductive Health",
+    "question": "The dermis is primarily composed of which structural proteins, providing elasticity and tensile strength to the skin?",
     "options": [
       "Keratin and Melanin",
       "Collagen and Elastin",
       "Actin and Myosin",
       "Hemoglobin and Myoglobin"
     ],
-    "correctAnswer": "B",
-    "explanation": "Fibroblasts in the dermis produce a dense matrix of collagen (for strength) and elastin (for flexibility and stretch).",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Fibroblasts in the dermis produce a dense matrix of collagen (for strength) and elastin (for flexibility and stretch)."
   },
   {
     "id": "wrh-57",
-    "text": "A nurse notes yellow, devitalized slough in the center of a patient's leg ulcer. What is the nurse's priority action regarding this tissue?",
+    "category": "Women's & Reproductive Health",
+    "question": "A nurse notes yellow, devitalized slough in the center of a patient's leg ulcer. What is the nurse's priority action regarding this tissue?",
     "options": [
       "Leaving it intact to protect the wound bed",
       "Encouraging debridement to remove dead tissue and promote granulation",
       "Massaging the area vigorously to increase local perfusion",
       "Applying a dry gauze dressing without any cleaning"
     ],
-    "correctAnswer": "B",
-    "explanation": "Slough consists of dead cells and debris that blocks granulation; removing it via debridement is essential to progress the healing cycle.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Slough consists of dead cells and debris that blocks granulation; removing it via debridement is essential to progress the healing cycle."
   },
   {
     "id": "wrh-58",
-    "text": "Why do surgical wounds closed by primary intention heal faster and with less scarring than those healing by secondary intention?",
+    "category": "Women's & Reproductive Health",
+    "question": "Why do surgical wounds closed by primary intention heal faster and with less scarring than those healing by secondary intention?",
     "options": [
       "Primary intention wounds bypass the inflammatory phase entirely.",
       "The approximated edges minimize the volume of granulation tissue and epithelial migration required to seal the wound.",
       "Primary intention does not involve collagen synthesis.",
       "They are kept completely dry without any cellular activity."
     ],
-    "correctAnswer": "B",
-    "explanation": "Bringing the edges together minimizes tissue loss, requiring less cellular energy, granulation, and remodeling, which results in a smaller scar.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Bringing the edges together minimizes tissue loss, requiring less cellular energy, granulation, and remodeling, which results in a smaller scar."
   },
   {
     "id": "wrh-59",
-    "text": "During which phase of wound healing do local capillaries dilate, allowing white blood cells and plasma to enter the tissue, causing swelling and redness?",
+    "category": "Women's & Reproductive Health",
+    "question": "During which phase of wound healing do local capillaries dilate, allowing white blood cells and plasma to enter the tissue, causing swelling and redness?",
     "options": [
       "Hemostasis phase",
       "Inflammatory phase",
       "Proliferative phase",
       "Maturation phase"
     ],
-    "correctAnswer": "B",
-    "explanation": "The inflammatory phase is characterized by vasodilation and increased vascular permeability to deliver neutrophils and macrophages to clean the wound.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The inflammatory phase is characterized by vasodilation and increased vascular permeability to deliver neutrophils and macrophages to clean the wound."
   },
   {
     "id": "wrh-60",
-    "text": "Which systemic factor is most critical to support collagen synthesis and cellular repair in a patient with a large healing wound?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which systemic factor is most critical to support collagen synthesis and cellular repair in a patient with a large healing wound?",
     "options": [
       "High intake of simple carbohydrates",
       "Adequate protein, Vitamin C, and zinc intake",
       "Restricting fluid intake to minimize wound drainage",
       "High doses of anti-inflammatory steroids"
     ],
-    "correctAnswer": "B",
-    "explanation": "Protein provides the amino acids needed for collagen synthesis, while Vitamin C and zinc are vital cofactors for cellular repair and tissue building. Presentation 5: Introduction to Critical Care Nursing",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Protein provides the amino acids needed for collagen synthesis, while Vitamin C and zinc are vital cofactors for cellular repair and tissue building. Presentation 5: Introduction to Critical Care Nursing"
   },
   {
     "id": "wrh-61",
-    "text": "According to Kayambankadzanja (2022), \"Critical Care\" is defined as a state of ill health characterized by:",
+    "category": "Women's & Reproductive Health",
+    "question": "According to Kayambankadzanja (2022), \"Critical Care\" is defined as a state of ill health characterized by:",
     "options": [
       "Stable chronic disease that requires outpatient management",
       "Vital organ dysfunction, a high risk of imminent death if care is not provided, and the potential for reversibility",
       "Any injury that requires immediate emergency department triage",
       "The complete loss of cognitive function in late-stage dementia"
     ],
-    "correctAnswer": "B",
-    "explanation": "The definition of critical care emphasizes the severity of organ dysfunction, the high risk of mortality, and the key criterion of reversibility.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The definition of critical care emphasizes the severity of organ dysfunction, the high risk of mortality, and the key criterion of reversibility."
   },
   {
     "id": "wrh-62",
-    "text": "According to the Department of Health (2014) guidelines, \"Critical Care\" is defined not by a discrete clinical unit, but rather by:",
+    "category": "Women's & Reproductive Health",
+    "question": "According to the Department of Health (2014) guidelines, \"Critical Care\" is defined not by a discrete clinical unit, but rather by:",
     "options": [
       "The presence of mechanical ventilators",
       "The level of care needed by the critically ill patient, wherever they are located",
       "The ratio of physicians to nursing staff on a ward",
       "The daily financial budget allocated to the intensive care unit"
     ],
-    "correctAnswer": "B",
-    "explanation": "Critical care is a service concept defined by patient needs and acuity, meaning critical care principles must be applied wherever the deteriorating patient is.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Critical care is a service concept defined by patient needs and acuity, meaning critical care principles must be applied wherever the deteriorating patient is."
   },
   {
     "id": "wrh-63",
-    "text": "What is the primary clinical difference between High Dependency Care and Intensive Care as classified by the British Association of Critical Care Nurses (BACCN, 2024)?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the primary clinical difference between High Dependency Care and Intensive Care as classified by the British Association of Critical Care Nurses (BACCN, 2024)?",
     "options": [
       "High Dependency Care requires a 1:1 nursing ratio, while Intensive Care is 1:2.",
       "High Dependency Care involves patients requiring more intensive observation and risk assessment; Intensive Care involves patients with multi-organ failure requiring life support.",
       "High Dependency Care is exclusively for post-operative orthopedic patients.",
       "Intensive Care is defined solely by the patient\u2019s age."
     ],
-    "correctAnswer": "B",
-    "explanation": "High dependency care focuses on close observation and preventing deterioration, while intensive care manages active organ failure requiring mechanical ventilation, vasoactive drugs, or renal replacement therapy.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "High dependency care focuses on close observation and preventing deterioration, while intensive care manages active organ failure requiring mechanical ventilation, vasoactive drugs, or renal replacement therapy."
   },
   {
     "id": "wrh-64",
-    "text": "When assessing a critically ill patient who is at risk of clinical deterioration, which structured tool is recommended by NICE (2017) to track vital signs and alert for early intervention?",
+    "category": "Women's & Reproductive Health",
+    "question": "When assessing a critically ill patient who is at risk of clinical deterioration, which structured tool is recommended by NICE (2017) to track vital signs and alert for early intervention?",
     "options": [
       "The Abbey Pain Scale",
       "The National Early Warning Score (NEWS/NEWS2)",
       "The Roper-Logan-Tierney dependence card",
       "The SBAR escalation sheet"
     ],
-    "correctAnswer": "B",
-    "explanation": "NEWS2 is a standardized scoring system that tracks physiological parameters to detect early signs of clinical deterioration, prompting timely escalation.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "NEWS2 is a standardized scoring system that tracks physiological parameters to detect early signs of clinical deterioration, prompting timely escalation."
   },
   {
     "id": "wrh-65",
-    "text": "During a systematic ABCDE assessment of a deteriorating patient, which airway sign indicates a partial airway obstruction requiring immediate intervention?",
+    "category": "Women's & Reproductive Health",
+    "question": "During a systematic ABCDE assessment of a deteriorating patient, which airway sign indicates a partial airway obstruction requiring immediate intervention?",
     "options": [
       "Bilateral lung crackles on auscultation",
       "Snoring, gurgling, or stridor",
       "A respiratory rate of 16 breaths per minute",
       "Capillary refill time of 2 seconds"
     ],
-    "correctAnswer": "B",
-    "explanation": "Adventitious airway sounds (stridor, snoring, wheezing, gurgling) are key signs of partial airway compromise that must be managed in the \"A\" phase of the assessment.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Adventitious airway sounds (stridor, snoring, wheezing, gurgling) are key signs of partial airway compromise that must be managed in the \"A\" phase of the assessment."
   },
   {
     "id": "wrh-66",
-    "text": "When evaluating the \"B\" (Breathing) parameter of the ABCDE framework, what objective assessment findings should the critical care nurse prioritize?",
+    "category": "Women's & Reproductive Health",
+    "question": "When evaluating the \"B\" (Breathing) parameter of the ABCDE framework, what objective assessment findings should the critical care nurse prioritize?",
     "options": [
       "Capillary refill time and peripheral pulse rate",
       "Respiratory rate, oxygen saturation, chest expansion symmetry, and breath sounds",
       "Glasgow Coma Scale (GCS) and pupillary light reflex",
       "Blood glucose levels and core body temperature"
     ],
-    "correctAnswer": "B",
-    "explanation": "Evaluating breathing involves checking respiratory rate and effort, chest movement symmetry, oxygen saturations, and auscultating for air entry or abnormal sounds.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Evaluating breathing involves checking respiratory rate and effort, chest movement symmetry, oxygen saturations, and auscultating for air entry or abnormal sounds."
   },
   {
     "id": "wrh-67",
-    "text": "A patient in the ICU has a central venous catheter (CVC) in place. Why is maintaining strict aseptic technique during CVC care critical?",
+    "category": "Women's & Reproductive Health",
+    "question": "A patient in the ICU has a central venous catheter (CVC) in place. Why is maintaining strict aseptic technique during CVC care critical?",
     "options": [
       "To speed up the rate of drug excretion by the kidneys",
       "To prevent Central Line-Associated Bloodstream Infections (CLABSIs)",
       "To stabilize the patient's hypercapnic respiratory drive",
       "To avoid Type B idiosyncratic drug reactions"
     ],
-    "correctAnswer": "B",
-    "explanation": "CVCs provide direct access to the central venous circulation, making strict asepsis during line access and dressing changes vital to prevent systemic infections.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "CVCs provide direct access to the central venous circulation, making strict asepsis during line access and dressing changes vital to prevent systemic infections."
   },
   {
     "id": "wrh-68",
-    "text": "Excessive noise in the Intensive Care Unit has been researched extensively. According to Darbyshire (2016), high noise levels are:",
+    "category": "Women's & Reproductive Health",
+    "question": "Excessive noise in the Intensive Care Unit has been researched extensively. According to Darbyshire (2016), high noise levels are:",
     "options": [
       "Beneficial because they keep patients alert and oriented",
       "Bad for staff performance and very bad for patient sleep, recovery, and delirium risk",
       "Essential to ensure all alarms are heard clearly across the ward",
       "Completely unavoidable and carry no physiological consequences"
     ],
-    "correctAnswer": "B",
-    "explanation": "Noise pollution in the ICU disrupts sleep, increases stress hormones, delays healing, and is a major risk factor for ICU psychosis and delirium.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Noise pollution in the ICU disrupts sleep, increases stress hormones, delays healing, and is a major risk factor for ICU psychosis and delirium."
   },
   {
     "id": "wrh-69",
-    "text": "Which sleep hygiene strategy has been shown to reduce the incidence of delirium in intensive care units, as supported by Litton et al. (2016)?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which sleep hygiene strategy has been shown to reduce the incidence of delirium in intensive care units, as supported by Litton et al. (2016)?",
     "options": [
       "Leaving all overhead ward lights on continuously",
       "The use of earplugs and eye masks to support natural sleep patterns",
       "Administering high-dose sedatives to all patients at night",
       "Restricting family visits to nighttime hours only"
     ],
-    "correctAnswer": "B",
-    "explanation": "Promoting natural circadian rhythms through non-pharmacological sleep hygiene interventions (like earplugs, eye masks, and quiet hours) lowers delirium risk.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Promoting natural circadian rhythms through non-pharmacological sleep hygiene interventions (like earplugs, eye masks, and quiet hours) lowers delirium risk."
   },
   {
     "id": "wrh-70",
-    "text": "In critical care communication, what is the core clinical focus of the \"ReSPECT\" process (Recommended Summary of Plan for Emergency Care and Treatment)?",
+    "category": "Women's & Reproductive Health",
+    "question": "In critical care communication, what is the core clinical focus of the \"ReSPECT\" process (Recommended Summary of Plan for Emergency Care and Treatment)?",
     "options": [
       "Standardizing the financial billing for ICU therapies",
       "Creating a personalized plan for a person's clinical care in a future emergency when they may lack capacity",
       "Mandating resuscitation for all admitted patients regardless of prognosis",
       "Documenting the patient's historical volume of distribution"
     ],
-    "correctAnswer": "B",
-    "explanation": "The ReSPECT process is a collaborative planning tool used to establish emergency care preferences, including CPR decisions, before a crisis occurs.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The ReSPECT process is a collaborative planning tool used to establish emergency care preferences, including CPR decisions, before a crisis occurs."
   },
   {
     "id": "wrh-71",
-    "text": "Under the \"D\" (Disability) phase of the ABCDE framework, what is the primary neurological assessment tool used to evaluate a patient's level of consciousness?",
+    "category": "Women's & Reproductive Health",
+    "question": "Under the \"D\" (Disability) phase of the ABCDE framework, what is the primary neurological assessment tool used to evaluate a patient's level of consciousness?",
     "options": [
       "The Abbey Pain Scale",
       "The Glasgow Coma Scale (GCS) or AVPU scale",
       "The Manchester Triage checklist",
       "The RLT Activity of Living map"
     ],
-    "correctAnswer": "B",
-    "explanation": "Assessing neurological status involves checking conscious level (via GCS or AVPU), pupillary size and reaction, and blood glucose.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Assessing neurological status involves checking conscious level (via GCS or AVPU), pupillary size and reaction, and blood glucose."
   },
   {
     "id": "wrh-72",
-    "text": "When assessing a deteriorating patient's circulation (\"C\"), which clinical sign suggests early hypovolemic compensation?",
+    "category": "Women's & Reproductive Health",
+    "question": "When assessing a deteriorating patient's circulation (\"C\"), which clinical sign suggests early hypovolemic compensation?",
     "options": [
       "Warm, flushed skin and bradycardia",
       "Cool, pale, clammy skin, tachycardia, and prolonged capillary refill time",
       "Sudden hyperventilation and respiratory alkalosis",
       "Intracellular fluid shifts into the transcellular space"
     ],
-    "correctAnswer": "B",
-    "explanation": "The body compensates for fluid loss or low cardiac output by vasoconstricting peripheral vessels and increasing heart rate to maintain perfusion to vital organs.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The body compensates for fluid loss or low cardiac output by vasoconstricting peripheral vessels and increasing heart rate to maintain perfusion to vital organs."
   },
   {
     "id": "wrh-73",
-    "text": "Self-care and resilience strategies for critical care nurses are essential to prevent:",
+    "category": "Women's & Reproductive Health",
+    "question": "Self-care and resilience strategies for critical care nurses are essential to prevent:",
     "options": [
       "Type A exaggerated drug reactions",
       "Compassion fatigue, burnout, and moral distress",
       "Fluctuations in patient early warning scores",
       "Administrative record auditing errors"
     ],
-    "correctAnswer": "B",
-    "explanation": "The high-stress, high-acuity environment of critical care puts nursing staff at high risk for psychological burnout, requiring robust institutional and personal self-care strategies.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The high-stress, high-acuity environment of critical care puts nursing staff at high risk for psychological burnout, requiring robust institutional and personal self-care strategies."
   },
   {
     "id": "wrh-74",
-    "text": "Why is \"potential for reversibility\" a key criterion when admitting a patient to an Intensive Care Unit?",
+    "category": "Women's & Reproductive Health",
+    "question": "Why is \"potential for reversibility\" a key criterion when admitting a patient to an Intensive Care Unit?",
     "options": [
       "Intensive care beds are designed to be used only for short-term stays.",
       "Invasive, high-acuity life support interventions are appropriate only when there is a realistic prospect of recovery or quality of life.",
       "Reversibility is a legal requirement under the UK Data Protection Act.",
       "Standard nursing models do not work on irreversible conditions."
     ],
-    "correctAnswer": "B",
-    "explanation": "ICU care is highly invasive and associated with major complications; clinical utility dictates that these therapies are targeted where they can restore functioning or bridge a reversible crisis. Presentation 6: Principles and Aims of Intravenous Fluid Therapy",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "ICU care is highly invasive and associated with major complications; clinical utility dictates that these therapies are targeted where they can restore functioning or bridge a reversible crisis. Presentation 6: Principles and Aims of Intravenous Fluid Therapy"
   },
   {
     "id": "wrh-75",
-    "text": "In an adult body, what percentage of lean body weight is typically accounted for by water?",
+    "category": "Women's & Reproductive Health",
+    "question": "In an adult body, what percentage of lean body weight is typically accounted for by water?",
     "options": [
       "15% to 20%",
       "35% to 40%",
       "55% to 60%",
       "85% to 90%"
     ],
-    "correctAnswer": "C",
-    "explanation": "Water is the largest single component of the human body, accounting for roughly 55% to 60% of total body mass in lean adults.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "Water is the largest single component of the human body, accounting for roughly 55% to 60% of total body mass in lean adults."
   },
   {
     "id": "wrh-76",
-    "text": "The total body water is divided into discrete compartments. What percentage of total body weight is represented by Intracellular Fluid (ICF)?",
+    "category": "Women's & Reproductive Health",
+    "question": "The total body water is divided into discrete compartments. What percentage of total body weight is represented by Intracellular Fluid (ICF)?",
     "options": [
       "5%",
       "12%",
       "33%",
       "42%"
     ],
-    "correctAnswer": "D",
-    "explanation": "Intracellular fluid (the cytosol of cells) constitutes the largest fluid compartment, representing roughly 42% of total body weight.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 3,
+    "explanation": "Intracellular fluid (the cytosol of cells) constitutes the largest fluid compartment, representing roughly 42% of total body weight."
   },
   {
     "id": "wrh-77",
-    "text": "The Extracellular Fluid (ECF) is divided into several sub-compartments. Which of the following is the major component of ECF that surrounds cells but does not actively circulate?",
+    "category": "Women's & Reproductive Health",
+    "question": "The Extracellular Fluid (ECF) is divided into several sub-compartments. Which of the following is the major component of ECF that surrounds cells but does not actively circulate?",
     "options": [
       "Plasma (Intravascular fluid)",
       "Interstitial Fluid (ISF)",
       "Transcellular Fluid (TCF)",
       "Cytosol"
     ],
-    "correctAnswer": "B",
-    "explanation": "Interstitial fluid makes up the bulk of the ECF, filling the gaps and spaces between cells.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Interstitial fluid makes up the bulk of the ECF, filling the gaps and spaces between cells."
   },
   {
     "id": "wrh-78",
-    "text": "Fluid compartments are separated by barriers. What type of physical barrier primarily separates the intracellular fluid (ICF) from the surrounding interstitial fluid (ISF)?",
+    "category": "Women's & Reproductive Health",
+    "question": "Fluid compartments are separated by barriers. What type of physical barrier primarily separates the intracellular fluid (ICF) from the surrounding interstitial fluid (ISF)?",
     "options": [
       "The capillary basement membrane",
       "The semi-permeable cell membrane",
       "The blood-brain barrier",
       "The alveolar-capillary membrane"
     ],
-    "correctAnswer": "B",
-    "explanation": "The cell membrane serves as the barrier between the inside and outside of the cell, allowing the passage of water and selective movement of solutes.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The cell membrane serves as the barrier between the inside and outside of the cell, allowing the passage of water and selective movement of solutes."
   },
   {
     "id": "wrh-79",
-    "text": "A nurse is preparing to administer an intravenous fluid that has an osmolarity similar to that of normal blood plasma. This type of fluid is classified as:",
+    "category": "Women's & Reproductive Health",
+    "question": "A nurse is preparing to administer an intravenous fluid that has an osmolarity similar to that of normal blood plasma. This type of fluid is classified as:",
     "options": [
       "Hypertonic crystalloid",
       "Isotonic crystalloid",
       "Hypotonic crystalloid",
       "Hyperoncotic colloid"
     ],
-    "correctAnswer": "B",
-    "explanation": "Isotonic fluids (such as 0.9% Sodium Chloride) have an osmolarity close to blood plasma, causing minimal fluid shifts across semi-permeable membranes.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Isotonic fluids (such as 0.9% Sodium Chloride) have an osmolarity close to blood plasma, causing minimal fluid shifts across semi-permeable membranes."
   },
   {
     "id": "wrh-80",
-    "text": "What is the primary clinical danger associated with the rapid administration of a hypertonic intravenous fluid?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the primary clinical danger associated with the rapid administration of a hypertonic intravenous fluid?",
     "options": [
       "Cellular swelling and rupture (lysis)",
       "Cellular dehydration and shrinkage due to water shifting out of the cells",
       "Immediate loss of renal excretion capability",
       "An increase in the drug's first-pass hepatic metabolism"
     ],
-    "correctAnswer": "B",
-    "explanation": "Hypertonic solutions draw water out of the intracellular space into the vascular compartment, which can cause cellular dehydration.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Hypertonic solutions draw water out of the intracellular space into the vascular compartment, which can cause cellular dehydration."
   },
   {
     "id": "wrh-81",
-    "text": "Colloids differ from crystalloids because colloids contain:",
+    "category": "Women's & Reproductive Health",
+    "question": "Colloids differ from crystalloids because colloids contain:",
     "options": [
       "Small, completely dissolved mineral salts that pass freely through membranes",
       "Large, insoluble molecules (such as proteins or starches) that remain in the vascular space and exert oncotic pressure",
       "Only water and glucose molecules",
       "Lipid-soluble compounds designed to cross the blood-brain barrier"
     ],
-    "correctAnswer": "B",
-    "explanation": "Colloids do not readily cross the capillary membrane, keeping fluid within the intravascular space to expand blood volume.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Colloids do not readily cross the capillary membrane, keeping fluid within the intravascular space to expand blood volume."
   },
   {
     "id": "wrh-82",
-    "text": "A patient is administered 5% Dextrose in water ($D_5W$). What happens physiologically to this solution once it enters the patient's systemic circulation?",
+    "category": "Women's & Reproductive Health",
+    "question": "A patient is administered 5% Dextrose in water ($D_5W$). What happens physiologically to this solution once it enters the patient's systemic circulation?",
     "options": [
       "It remains entirely in the intravascular space as a colloid.",
       "The glucose is rapidly metabolized by cells, leaving behind free water that distributes evenly across all fluid compartments.",
       "It causes immediate red blood cell lysis due to persistent hypertonicity.",
       "It is excreted unchanged by the kidneys within 5 minutes."
     ],
-    "correctAnswer": "B",
-    "explanation": "While isotonic in the bag, the metabolism of dextrose turns $D_5W$ into a hypotonic solution of free water, which distributes throughout both ICF and ECF.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "While isotonic in the bag, the metabolism of dextrose turns $D_5W$ into a hypotonic solution of free water, which distributes throughout both ICF and ECF."
   },
   {
     "id": "wrh-83",
-    "text": "What is a key nursing responsibility when managing a patient receiving continuous intravenous fluid therapy?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is a key nursing responsibility when managing a patient receiving continuous intravenous fluid therapy?",
     "options": [
       "Ensuring the fluid bag is kept completely flat on the patient's bed",
       "Monitoring intake and output, tracking daily weights, and assessing for signs of fluid overload",
       "Changing the administration tubing every 2 hours",
       "Adjusting the infusion rate based on patient preferences alone"
     ],
-    "correctAnswer": "B",
-    "explanation": "Nurses are responsible for monitoring fluid status (including checking for lung crackles and edema) to detect and prevent fluid overload.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Nurses are responsible for monitoring fluid status (including checking for lung crackles and edema) to detect and prevent fluid overload."
   },
   {
     "id": "wrh-84",
-    "text": "Which of the following is an objective clinical indicator that a patient's intravenous fluid resuscitation has been successful?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which of the following is an objective clinical indicator that a patient's intravenous fluid resuscitation has been successful?",
     "options": [
       "Development of a bounding pulse and bilateral lung crackles",
       "Stabilization of blood pressure and heart rate, with urine output of $>0.5 \\text{ mL/kg/hour}$",
       "A sudden drop in oxygen saturations to under 90%",
       "An immediate increase in body weight of 5 kg"
     ],
-    "correctAnswer": "B",
-    "explanation": "Adequate perfusion during fluid resuscitation is indicated by stable hemodynamics, clear lungs, and adequate renal perfusion (measured by urine output).",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Adequate perfusion during fluid resuscitation is indicated by stable hemodynamics, clear lungs, and adequate renal perfusion (measured by urine output)."
   },
   {
     "id": "wrh-85",
-    "text": "Speed shock is a systemic complication of IV therapy that occurs when:",
+    "category": "Women's & Reproductive Health",
+    "question": "Speed shock is a systemic complication of IV therapy that occurs when:",
     "options": [
       "An IV fluid is administered too slowly over several days.",
       "A medication or fluid is introduced into the circulation too rapidly, causing toxic systemic concentrations.",
       "The patient\u2019s metabolic rate drops suddenly.",
       "The cannula is accidentally displaced into the subcutaneous tissue."
     ],
-    "correctAnswer": "B",
-    "explanation": "Rapid infusion can overwhelm the cardiovascular system, causing sudden hypotension, syncope, chest tightness, and cardiac arrest.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Rapid infusion can overwhelm the cardiovascular system, causing sudden hypotension, syncope, chest tightness, and cardiac arrest."
   },
   {
     "id": "wrh-86",
-    "text": "What is the physiological role of the hormone Aldosterone in maintaining human fluid balance?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the physiological role of the hormone Aldosterone in maintaining human fluid balance?",
     "options": [
       "It stimulates the kidneys to excrete water while retaining potassium.",
       "It promotes renal sodium and water reabsorption, expanding ECF volume.",
       "It triggers immediate vasodilation in the pulmonary vessels.",
       "It decreases systemic vascular resistance during shock."
     ],
-    "correctAnswer": "B",
-    "explanation": "Released in response to the renin-angiotensin system, aldosterone acts on the distal tubules to retain sodium and water, helping maintain blood volume and pressure.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Released in response to the renin-angiotensin system, aldosterone acts on the distal tubules to retain sodium and water, helping maintain blood volume and pressure."
   },
   {
     "id": "wrh-87",
-    "text": "A patient is found to have an IV site that is cool, pale, swollen, and painful to touch. The infusion has stopped running. The nurse should suspect:",
+    "category": "Women's & Reproductive Health",
+    "question": "A patient is found to have an IV site that is cool, pale, swollen, and painful to touch. The infusion has stopped running. The nurse should suspect:",
     "options": [
       "Phlebitis",
       "Infiltration or extravasation",
       "Systemic infection",
       "Speed shock"
     ],
-    "correctAnswer": "B",
-    "explanation": "Infiltration is the leakage of non-vesicant IV fluid into the surrounding subcutaneous tissue, presenting with localized coolness, swelling, and discomfort.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Infiltration is the leakage of non-vesicant IV fluid into the surrounding subcutaneous tissue, presenting with localized coolness, swelling, and discomfort."
   },
   {
     "id": "wrh-88",
-    "text": "Which crystalloid solution is most appropriate for initial fluid resuscitation in a patient presenting with hypovolemic shock?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which crystalloid solution is most appropriate for initial fluid resuscitation in a patient presenting with hypovolemic shock?",
     "options": [
       "5% Dextrose in water ($D_5W$)",
       "0.45% Sodium Chloride (Half Normal Saline)",
       "Balanced crystalloids (such as Hartmann\u2019s Solution or Lactated Ringer\u2019s)",
       "7.2% Hypertonic Saline"
     ],
-    "correctAnswer": "C",
-    "explanation": "Balanced crystalloids mimic the electrolyte composition of plasma, making them preferred for large-volume resuscitation to avoid hyperchloremic acidosis.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "Balanced crystalloids mimic the electrolyte composition of plasma, making them preferred for large-volume resuscitation to avoid hyperchloremic acidosis."
   },
   {
     "id": "wrh-89",
-    "text": "When caring for a patient on IV fluids, why is it essential to pay close attention to co-morbidities like congestive heart failure or renal failure?",
+    "category": "Women's & Reproductive Health",
+    "question": "When caring for a patient on IV fluids, why is it essential to pay close attention to co-morbidities like congestive heart failure or renal failure?",
     "options": [
       "These patients have a high rate of drug biotransformation.",
       "These patients have a significantly reduced capacity to handle fluid shifts, putting them at high risk for rapid pulmonary edema.",
       "These conditions increase the risk of Type B idiosyncratic drug reactions.",
       "These patients require the exclusive use of colloid solutions."
     ],
-    "correctAnswer": "B",
-    "explanation": "Compromised cardiac or renal function impairs the body's ability to excrete or pump fluid, requiring cautious, low-volume, and closely monitored IV therapy. Presentation 7: Medicines Management",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Compromised cardiac or renal function impairs the body's ability to excrete or pump fluid, requiring cautious, low-volume, and closely monitored IV therapy. Presentation 7: Medicines Management"
   },
   {
     "id": "wrh-90",
-    "text": "What is the clinical difference between the generic name and the trade/brand name of a medication?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the clinical difference between the generic name and the trade/brand name of a medication?",
     "options": [
       "The generic name is the official chemical name of the active compound; the trade name is the commercial brand name given by the manufacturer.",
       "The generic name can have multiple variations, while there is only ever one trade name.",
       "The trade name is legally approved for pediatric use only.",
       "The generic name represents the inactive binders in the tablet."
     ],
-    "correctAnswer": "A",
-    "explanation": "A drug has one unique generic name reflecting its active ingredient, but can be sold under various trade names by different pharmaceutical companies.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 0,
+    "explanation": "A drug has one unique generic name reflecting its active ingredient, but can be sold under various trade names by different pharmaceutical companies."
   },
   {
     "id": "wrh-91",
-    "text": "What is the primary role of the British National Formulary (BNF) in UK clinical practice?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the primary role of the British National Formulary (BNF) in UK clinical practice?",
     "options": [
       "To track the hourly financial expenditure of hospital wards",
       "To provide a comprehensive, authoritative reference guide on prescribing, pharmacology, and drug administration safety",
       "To mandate standard emergency triage protocols",
       "To record the legal power of attorney records for admitted patients"
     ],
-    "correctAnswer": "B",
-    "explanation": "The BNF is the standard, up-to-date reference used by UK clinicians to verify drug dosages, indications, side effects, and interactions.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The BNF is the standard, up-to-date reference used by UK clinicians to verify drug dosages, indications, side effects, and interactions."
   },
   {
     "id": "wrh-92",
-    "text": "A nurse is preparing to administer a medication and notes the abbreviation \"PRN\" on the prescription sheet. What does this mean?",
+    "category": "Women's & Reproductive Health",
+    "question": "A nurse is preparing to administer a medication and notes the abbreviation \"PRN\" on the prescription sheet. What does this mean?",
     "options": [
       "Administer the medication strictly at bedtime.",
       "The medication should be given as required or when necessary.",
       "The dose must be split between oral and IV routes.",
       "The medication is restricted to patients with a narrow therapeutic index."
     ],
-    "correctAnswer": "B",
-    "explanation": "PRN stands for pro re nata , indicating the drug is given as needed within specified dosing intervals.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "PRN stands for pro re nata , indicating the drug is given as needed within specified dosing intervals."
   },
   {
     "id": "wrh-93",
-    "text": "When reviewing a medication order, the nurse notes the abbreviation \"QDS.\" What is the correct dosing frequency for this instruction?",
+    "category": "Women's & Reproductive Health",
+    "question": "When reviewing a medication order, the nurse notes the abbreviation \"QDS.\" What is the correct dosing frequency for this instruction?",
     "options": [
       "Once daily",
       "Twice daily",
       "Three times daily",
       "Four times daily"
     ],
-    "correctAnswer": "D",
-    "explanation": "QDS stands for quater die sumendus , instructing the medication to be taken four times a day.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 3,
+    "explanation": "QDS stands for quater die sumendus , instructing the medication to be taken four times a day."
   },
   {
     "id": "wrh-94",
-    "text": "Why must a nurse use the BNF to check for \"drug-drug interactions\" before administering a new prescription?",
+    "category": "Women's & Reproductive Health",
+    "question": "Why must a nurse use the BNF to check for \"drug-drug interactions\" before administering a new prescription?",
     "options": [
       "To ensure the patient is not charged twice for the medications.",
       "To identify if combining the drugs will alter their efficacy, clearance, or cause dangerous side effects.",
       "To verify if the drugs are compatible with the RLT Activities of Living model.",
       "To automate the patient's self-care agency scoring."
     ],
-    "correctAnswer": "B",
-    "explanation": "Co-administering drugs can lead to interactions that enhance toxicity or reduce therapeutic effect by competing for the same receptors or metabolic pathways.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Co-administering drugs can lead to interactions that enhance toxicity or reduce therapeutic effect by competing for the same receptors or metabolic pathways."
   },
   {
     "id": "wrh-95",
-    "text": "What is the meaning of the abbreviation \"PO\" on a medication administration record?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the meaning of the abbreviation \"PO\" on a medication administration record?",
     "options": [
       "Administer via the parenteral route only",
       "Administer orally (by mouth)",
       "Post-operative administration",
       "Per rectum"
     ],
-    "correctAnswer": "B",
-    "explanation": "PO stands for per os , indicating the oral route of administration.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "PO stands for per os , indicating the oral route of administration."
   },
   {
     "id": "wrh-96",
-    "text": "When a nurse maintains a personal professional journal tracking the medications they commonly encounter in their practice area, which parameter is key to support safe care?",
+    "category": "Women's & Reproductive Health",
+    "question": "When a nurse maintains a personal professional journal tracking the medications they commonly encounter in their practice area, which parameter is key to support safe care?",
     "options": [
       "The retail pricing of the medications",
       "The drug classification, indications, dosages, side effects, and specific nursing considerations",
       "The corporate history of the manufacturing company",
       "The color of the packaging box"
     ],
-    "correctAnswer": "B",
-    "explanation": "Tracking clinical pharmacology parameters builds practical knowledge, helping the nurse anticipate side effects and deliver safer care.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Tracking clinical pharmacology parameters builds practical knowledge, helping the nurse anticipate side effects and deliver safer care."
   },
   {
     "id": "wrh-97",
-    "text": "A patient is prescribed a medication marked \"M/R\" (Modified Release). What is a critical safety consideration when administering this tablet?",
+    "category": "Women's & Reproductive Health",
+    "question": "A patient is prescribed a medication marked \"M/R\" (Modified Release). What is a critical safety consideration when administering this tablet?",
     "options": [
       "It must be dissolved in hot water before swallowing.",
       "It must not be crushed, chewed, or split, as this can cause rapid, toxic absorption of the entire dose.",
       "It must be administered exclusively via the intravenous route.",
       "It must be given on an empty stomach in all scenarios."
     ],
-    "correctAnswer": "B",
-    "explanation": "MR formulations are designed to release the drug slowly over time. Crushing destroys the release mechanism, causing a rapid, potentially toxic release of the active drug.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "MR formulations are designed to release the drug slowly over time. Crushing destroys the release mechanism, causing a rapid, potentially toxic release of the active drug."
   },
   {
     "id": "wrh-98",
-    "text": "Under the NMC standards, if a nurse makes or identifies a medication error, what is their immediate professional duty?",
+    "category": "Women's & Reproductive Health",
+    "question": "Under the NMC standards, if a nurse makes or identifies a medication error, what is their immediate professional duty?",
     "options": [
       "Correcting the chart silently to avoid alarm",
       "Being open and honest, reporting the error immediately to protect patient safety, and documenting the event accurately",
       "Resigning from their clinical post immediately",
       "Waiting for the weekly ward review to mention the incident"
     ],
-    "correctAnswer": "B",
-    "explanation": "The duty of candor requires transparency when things go wrong, ensuring immediate corrective action is taken to protect the patient.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The duty of candor requires transparency when things go wrong, ensuring immediate corrective action is taken to protect the patient."
   },
   {
     "id": "wrh-99",
-    "text": "The abbreviation \"BD\" on a drug prescription instructions means:",
+    "category": "Women's & Reproductive Health",
+    "question": "The abbreviation \"BD\" on a drug prescription instructions means:",
     "options": [
       "Once daily",
       "Twice daily",
       "Three times daily",
       "Every other day"
     ],
-    "correctAnswer": "B",
-    "explanation": "BD stands for bis in die , instructing the dose to be administered twice a day.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "BD stands for bis in die , instructing the dose to be administered twice a day."
   },
   {
     "id": "wrh-100",
-    "text": "What does the abbreviation \"TDS\" mean on a medical prescription?",
+    "category": "Women's & Reproductive Health",
+    "question": "What does the abbreviation \"TDS\" mean on a medical prescription?",
     "options": [
       "Three times daily",
       "Two times daily",
       "To be discontinued immediately",
       "Total daily dose"
     ],
-    "correctAnswer": "A",
-    "explanation": "TDS stands for ter die sumendus , instructing the dose to be administered three times a day.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 0,
+    "explanation": "TDS stands for ter die sumendus , instructing the dose to be administered three times a day."
   },
   {
     "id": "wrh-101",
-    "text": "When a drug is marked as \"Contraindicated\" in a patient with liver failure, it means:",
+    "category": "Women's & Reproductive Health",
+    "question": "When a drug is marked as \"Contraindicated\" in a patient with liver failure, it means:",
     "options": [
       "The drug should be administered with an enzyme blocker.",
       "The drug must not be given to this patient because the risk of harm outweighs any potential benefit.",
       "The drug can be given but only at double the standard dose.",
       "The drug must be administered via the transdermal route only."
     ],
-    "correctAnswer": "B",
-    "explanation": "A contraindication is a specific situation in which a drug, procedure, or surgery should not be used because it may be harmful to the patient.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "A contraindication is a specific situation in which a drug, procedure, or surgery should not be used because it may be harmful to the patient."
   },
   {
     "id": "wrh-102",
-    "text": "What is the purpose of the \"double checking\" process for high-risk medications (such as insulin or opioids)?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the purpose of the \"double checking\" process for high-risk medications (such as insulin or opioids)?",
     "options": [
       "To increase the time spent on ward administration.",
       "To provide an independent verification of the drug, dose, route, patient, and timing, reducing the risk of a catastrophic error.",
       "To allow two nurses to share the legal liability of a mistake.",
       "To comply with national tax guidelines."
     ],
-    "correctAnswer": "B",
-    "explanation": "High-alert medications have a narrow safety margin; a second independent check helps identify errors in calculation or selection before the drug reaches the patient.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "High-alert medications have a narrow safety margin; a second independent check helps identify errors in calculation or selection before the drug reaches the patient."
   },
   {
     "id": "wrh-103",
-    "text": "Which of the following is one of the \"Rights\" of medication administration that nurses must verify at the bedside?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which of the following is one of the \"Rights\" of medication administration that nurses must verify at the bedside?",
     "options": [
       "Right Patient, Right Drug, Right Dose, Right Route, Right Time",
       "Right Cost, Right Packaging, Right Ward, Right Doctor, Right Bed",
       "Right Diagnosis, Right Prognosis, Right Diet, Right Exercise, Right Sleep",
       "Right Clinic, Right Insurance, Right GNI, Right Triage, Right Model"
     ],
-    "correctAnswer": "A",
-    "explanation": "The \"five rights\" (often expanded to seven or nine) are a fundamental safety framework to prevent administration errors.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 0,
+    "explanation": "The \"five rights\" (often expanded to seven or nine) are a fundamental safety framework to prevent administration errors."
   },
   {
     "id": "wrh-104",
-    "text": "A patient complains of stomach upset after taking a newly prescribed non-steroidal anti-inflammatory drug (NSAID). Where in the BNF should the nurse look to see if this is a common side effect?",
+    "category": "Women's & Reproductive Health",
+    "question": "A patient complains of stomach upset after taking a newly prescribed non-steroidal anti-inflammatory drug (NSAID). Where in the BNF should the nurse look to see if this is a common side effect?",
     "options": [
       "Under the \"Contraindications\" section",
       "Under the \"Adverse Effects\" or \"Side Effects\" section",
       "Under the \"Medicinal Forms\" pricing table",
       "Under the \"Dose and Administration\" subsection"
     ],
-    "correctAnswer": "B",
-    "explanation": "Expected or common side effects associated with a drug class are listed in the side effects section of the monograph. Presentation 8: Neurological Disorders",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Expected or common side effects associated with a drug class are listed in the side effects section of the monograph. Presentation 8: Neurological Disorders"
   },
   {
     "id": "wrh-105",
-    "text": "In the central nervous system, synaptic transmission involves the release of neurotransmitters. Which of the following is identified as the primary inhibitory neurotransmitter in the brain?",
+    "category": "Women's & Reproductive Health",
+    "question": "In the central nervous system, synaptic transmission involves the release of neurotransmitters. Which of the following is identified as the primary inhibitory neurotransmitter in the brain?",
     "options": [
       "Acetylcholine (ACh)",
       "Dopamine (DA)",
       "Gamma-Aminobutyric Acid (GABA)",
       "Norepinephrine (NA)"
     ],
-    "correctAnswer": "C",
-    "explanation": "GABA is the primary inhibitory neurotransmitter in the CNS, acting to hyperpolarize neurons and reduce action potential firing.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "GABA is the primary inhibitory neurotransmitter in the CNS, acting to hyperpolarize neurons and reduce action potential firing."
   },
   {
     "id": "wrh-106",
-    "text": "Which of the following describes the cellular process of \"excitotoxicity\" leading to neuronal death?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which of the following describes the cellular process of \"excitotoxicity\" leading to neuronal death?",
     "options": [
       "Adequate oxygen perfusion causing cellular energy storage",
       "Excessive activation of glutamate receptors leading to a massive influx of calcium ions, which activates destructive enzymes",
       "The accumulation of extracellular amyloid plaques without cell damage",
       "The normal physiological breakdown of GABA in the synaptic cleft"
     ],
-    "correctAnswer": "B",
-    "explanation": "Glutamate excess over-activates NMDA receptors, allowing calcium to flood the cell, which triggers enzymatic self-digestion and cell death.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Glutamate excess over-activates NMDA receptors, allowing calcium to flood the cell, which triggers enzymatic self-digestion and cell death."
   },
   {
     "id": "wrh-107",
-    "text": "Neurodegenerative diseases often involve the process of \"protein aggregation.\" What is the first step in this pathological cascade?",
+    "category": "Women's & Reproductive Health",
+    "question": "Neurodegenerative diseases often involve the process of \"protein aggregation.\" What is the first step in this pathological cascade?",
     "options": [
       "Apoptotic membrane blebbing",
       "Misfolding of specific cellular proteins, causing them to lose function and clump together",
       "Rapid regeneration of the basal epidermal layer",
       "Hyper-filtration of cerebral spinal fluid"
     ],
-    "correctAnswer": "B",
-    "explanation": "Protein aggregation begins with protein misfolding, exposing hydrophobic areas that cause the proteins to clump into toxic deposits.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Protein aggregation begins with protein misfolding, exposing hydrophobic areas that cause the proteins to clump into toxic deposits."
   },
   {
     "id": "wrh-108",
-    "text": "What is the core pharmacological objective of drug therapy in Parkinson's disease?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the core pharmacological objective of drug therapy in Parkinson's disease?",
     "options": [
       "To block all dopamine receptors in the motor cortex",
       "To restore the balance of neurotransmitter levels, primarily by increasing dopamine activity or reducing acetylcholine activity",
       "To increase the rate of GABA breakdown in the brainstem",
       "To block the transport of calcium into the mitochondria"
     ],
-    "correctAnswer": "B",
-    "explanation": "Parkinson's involves the loss of dopaminergic neurons in the substantia nigra. Therapy aims to restore the balance between dopamine (inhibitory in this pathway) and acetylcholine (excitatory) to manage motor symptoms.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Parkinson's involves the loss of dopaminergic neurons in the substantia nigra. Therapy aims to restore the balance between dopamine (inhibitory in this pathway) and acetylcholine (excitatory) to manage motor symptoms."
   },
   {
     "id": "wrh-109",
-    "text": "How does a partial seizure differ from a generalized seizure?",
+    "category": "Women's & Reproductive Health",
+    "question": "How does a partial seizure differ from a generalized seizure?",
     "options": [
       "Partial seizures always involve a complete loss of consciousness.",
       "Partial seizures begin in one localized focus of the brain; generalized seizures involve both cerebral hemispheres from the onset.",
       "Partial seizures are restricted to infants, while generalized seizures affect adults.",
       "Partial seizures do not involve any alteration in ion channels."
     ],
-    "correctAnswer": "B",
-    "explanation": "Seizure classification is based on the site of onset: partial (focal) seizures start in a specific area, whereas generalized seizures involve widespread networks across both hemispheres.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Seizure classification is based on the site of onset: partial (focal) seizures start in a specific area, whereas generalized seizures involve widespread networks across both hemispheres."
   },
   {
     "id": "wrh-110",
-    "text": "During an ischemic stroke (cerebrovascular accident), what is the primary challenge associated with re-establishing perfusion (thrombolysis)?",
+    "category": "Women's & Reproductive Health",
+    "question": "During an ischemic stroke (cerebrovascular accident), what is the primary challenge associated with re-establishing perfusion (thrombolysis)?",
     "options": [
       "It increases the half-life of oral anticoagulants.",
       "The risk of reperfusion injury and hemorrhagic transformation if blood flow is restored too late to damaged vessels.",
       "It slows down the patient's respiratory rate.",
       "It converts the ischemic area into a wholly compensatory system."
     ],
-    "correctAnswer": "B",
-    "explanation": "While restoring blood flow is vital, late reperfusion can introduce oxygen free radicals that damage fragile vessels, leading to bleeding into the brain.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "While restoring blood flow is vital, late reperfusion can introduce oxygen free radicals that damage fragile vessels, leading to bleeding into the brain."
   },
   {
     "id": "wrh-111",
-    "text": "Why are infants more susceptible to seizures affecting localized, small areas of the body compared to adults?",
+    "category": "Women's & Reproductive Health",
+    "question": "Why are infants more susceptible to seizures affecting localized, small areas of the body compared to adults?",
     "options": [
       "Their kidneys excrete GABA too rapidly.",
       "Their intracortical connections are less developed, and their neurons are less capable of sustained, prolonged firing.",
       "They have a higher density of Merkel cells.",
       "They lack a functioning basement membrane."
     ],
-    "correctAnswer": "B",
-    "explanation": "Developing brains have incomplete myelination and synaptic pathways, which limits the spread of abnormal electrical discharges compared to adult brains.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Developing brains have incomplete myelination and synaptic pathways, which limits the spread of abnormal electrical discharges compared to adult brains."
   },
   {
     "id": "wrh-112",
-    "text": "Apoptosis differs from necrosis because apoptosis is:",
+    "category": "Women's & Reproductive Health",
+    "question": "Apoptosis differs from necrosis because apoptosis is:",
     "options": [
       "A rapid, uncontrolled cell death caused by external trauma, resulting in severe inflammation",
       "A programmed, highly regulated cell death that does not trigger a local inflammatory response",
       "The process of cellular swelling and rupture",
       "Restricted to muscle cells during exercise"
     ],
-    "correctAnswer": "B",
-    "explanation": "Apoptosis is \"cellular suicide\" where the cell is systematically dismantled and cleared by macrophages without releasing inflammatory contents, unlike the messy rupture of necrosis.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Apoptosis is \"cellular suicide\" where the cell is systematically dismantled and cleared by macrophages without releasing inflammatory contents, unlike the messy rupture of necrosis."
   },
   {
     "id": "wrh-113",
-    "text": "Why is the use of anti-inflammatory steroids kept to a minimum in the long-term management of autoimmune neurological diseases?",
+    "category": "Women's & Reproductive Health",
+    "question": "Why is the use of anti-inflammatory steroids kept to a minimum in the long-term management of autoimmune neurological diseases?",
     "options": [
       "They cause an immediate decrease in the volume of distribution.",
       "They are associated with severe long-term side effects, including osteoporosis, immune suppression, diabetes, and adrenal suppression.",
       "They completely block the action of GABA receptors.",
       "They are ineffective at reducing neuro-inflammation."
     ],
-    "correctAnswer": "B",
-    "explanation": "While steroids are effective for acute exacerbations, their long-term systemic side effects require clinicians to minimize their use.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "While steroids are effective for acute exacerbations, their long-term systemic side effects require clinicians to minimize their use."
   },
   {
     "id": "wrh-114",
-    "text": "What are the two types of transmission that coordinate activity in the human nervous system?",
+    "category": "Women's & Reproductive Health",
+    "question": "What are the two types of transmission that coordinate activity in the human nervous system?",
     "options": [
       "Biological and Sociocultural",
       "Electrical (along axons) and Chemical (at synapses)",
       "Isotonic and Hypertonic",
       "Primary and Secondary"
     ],
-    "correctAnswer": "B",
-    "explanation": "Signal transmission involves electrical action potentials traveling down the nerve axon, followed by the release of chemical neurotransmitters across the synaptic cleft.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Signal transmission involves electrical action potentials traveling down the nerve axon, followed by the release of chemical neurotransmitters across the synaptic cleft."
   },
   {
     "id": "wrh-115",
-    "text": "When an electrical impulse arrives at the pre-synaptic end plate, what ion is primarily responsible for triggering the exocytosis of neurotransmitter vesicles?",
+    "category": "Women's & Reproductive Health",
+    "question": "When an electrical impulse arrives at the pre-synaptic end plate, what ion is primarily responsible for triggering the exocytosis of neurotransmitter vesicles?",
     "options": [
       "Sodium ($Na^+$)",
       "Potassium ($K^+$)",
       "Calcium ($Ca^{2+}$)",
       "Chloride ($Cl^-$)"
     ],
-    "correctAnswer": "C",
-    "explanation": "Action potential depolarization opens voltage-gated calcium channels, and the resulting calcium influx triggers vesicle fusion and neurotransmitter release.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "Action potential depolarization opens voltage-gated calcium channels, and the resulting calcium influx triggers vesicle fusion and neurotransmitter release."
   },
   {
     "id": "wrh-116",
-    "text": "A drug that blocks the reuptake of a neurotransmitter from the synaptic cleft will have what effect on synaptic transmission?",
+    "category": "Women's & Reproductive Health",
+    "question": "A drug that blocks the reuptake of a neurotransmitter from the synaptic cleft will have what effect on synaptic transmission?",
     "options": [
       "It will decrease the amount of neurotransmitter available to bind to receptors.",
       "It will prolong and enhance the action of the neurotransmitter.",
       "It will cause immediate apoptosis of the post-synaptic cell.",
       "It will block all electrical transmission along the axon."
     ],
-    "correctAnswer": "B",
-    "explanation": "Inhibiting reuptake keeps the neurotransmitter in the cleft longer, increasing its interaction with post-synaptic receptors.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Inhibiting reuptake keeps the neurotransmitter in the cleft longer, increasing its interaction with post-synaptic receptors."
   },
   {
     "id": "wrh-117",
-    "text": "In epilepsy, what is meant by the term \"focus\"?",
+    "category": "Women's & Reproductive Health",
+    "question": "In epilepsy, what is meant by the term \"focus\"?",
     "options": [
       "The patient's ability to concentrate during a seizure",
       "The specific area of abnormal brain tissue where the hyper-synchronous electrical discharge begins",
       "The lens adjustment on a diagnostic microscope",
       "The target organ of an antiepileptic drug"
     ],
-    "correctAnswer": "B",
-    "explanation": "Focal seizures originate from a localized area of hyperexcitable neurons, known as the epileptic focus.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Focal seizures originate from a localized area of hyperexcitable neurons, known as the epileptic focus."
   },
   {
     "id": "wrh-118",
-    "text": "How does \"oxidative stress\" contribute to neuronal death in neurodegenerative conditions?",
+    "category": "Women's & Reproductive Health",
+    "question": "How does \"oxidative stress\" contribute to neuronal death in neurodegenerative conditions?",
     "options": [
       "By increasing the oxygen saturations to 100% in the blood",
       "Through the generation of reactive oxygen species (free radicals) that damage cellular lipids, proteins, and DNA",
       "By preventing the breakdown of acetylcholine",
       "By stabilizing the mitochondrial membrane"
     ],
-    "correctAnswer": "B",
-    "explanation": "An imbalance between free radical production and antioxidant defenses leads to oxidative damage, a key driver of cell death in diseases like Alzheimer's and Parkinson's.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "An imbalance between free radical production and antioxidant defenses leads to oxidative damage, a key driver of cell death in diseases like Alzheimer's and Parkinson's."
   },
   {
     "id": "wrh-119",
-    "text": "Which neurological structure serves as a physiological barrier that restricts many water-soluble drugs from entering the brain tissue?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which neurological structure serves as a physiological barrier that restricts many water-soluble drugs from entering the brain tissue?",
     "options": [
       "The basement membrane of the skin",
       "The Blood-Brain Barrier (BBB)",
       "The synaptic cleft",
       "The reticular activating system"
     ],
-    "correctAnswer": "B",
-    "explanation": "The BBB, formed by tight junctions of endothelial cells and astrocytes, shields the brain from systemic toxins and limits the entry of polar, water-soluble drugs. Presentation 9: Basics of Oxygen Therapy",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The BBB, formed by tight junctions of endothelial cells and astrocytes, shields the brain from systemic toxins and limits the entry of polar, water-soluble drugs. Presentation 9: Basics of Oxygen Therapy"
   },
   {
     "id": "wrh-120",
-    "text": "According to the British Thoracic Society (BTS, 2017) guidelines, what is the target oxygen saturation range for most acutely ill patients who are not at risk of hypercapnic respiratory failure?",
+    "category": "Women's & Reproductive Health",
+    "question": "According to the British Thoracic Society (BTS, 2017) guidelines, what is the target oxygen saturation range for most acutely ill patients who are not at risk of hypercapnic respiratory failure?",
     "options": [
       "88% to 92%",
       "90% to 94%",
       "94% to 98%",
       "98% to 100%"
     ],
-    "correctAnswer": "C",
-    "explanation": "For patients without chronic hypercapnic respiratory drive, the target saturation range to prevent hypoxemia while avoiding hyperoxemic toxicity is 94\u201398%.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "For patients without chronic hypercapnic respiratory drive, the target saturation range to prevent hypoxemia while avoiding hyperoxemic toxicity is 94\u201398%."
   },
   {
     "id": "wrh-121",
-    "text": "For patients with chronic obstructive pulmonary disease (COPD) or a known history of hypercapnic respiratory drive, what is the recommended target oxygen saturation range?",
+    "category": "Women's & Reproductive Health",
+    "question": "For patients with chronic obstructive pulmonary disease (COPD) or a known history of hypercapnic respiratory drive, what is the recommended target oxygen saturation range?",
     "options": [
       "94% to 98%",
       "88% to 92%",
       "92% to 96%",
       "100% strictly"
     ],
-    "correctAnswer": "B",
-    "explanation": "Patients with hypercapnic drive rely on relative hypoxemia to stimulate breathing. Too much oxygen can suppress this drive, causing hypoventilation and respiratory acidosis.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Patients with hypercapnic drive rely on relative hypoxemia to stimulate breathing. Too much oxygen can suppress this drive, causing hypoventilation and respiratory acidosis."
   },
   {
     "id": "wrh-122",
-    "text": "In clinical nursing practice, supplementary oxygen must be treated and managed as:",
+    "category": "Women's & Reproductive Health",
+    "question": "In clinical nursing practice, supplementary oxygen must be treated and managed as:",
     "options": [
       "A non-prescription comfort therapy that can be adjusted at will",
       "A medication that must be prescribed, complete with target saturation goals and delivery devices",
       "An inert gas that carries no risk of adverse effects",
       "A therapy reserved exclusively for intensive care settings"
     ],
-    "correctAnswer": "B",
-    "explanation": "Because oxygen has potent physiological effects and potential toxicities, it is classified as a medication and requires a prescriber's order.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Because oxygen has potent physiological effects and potential toxicities, it is classified as a medication and requires a prescriber's order."
   },
   {
     "id": "wrh-123",
-    "text": "Which of the following is identified as an early clinical sign that a patient may require supplementary oxygen therapy?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which of the following is identified as an early clinical sign that a patient may require supplementary oxygen therapy?",
     "options": [
       "Flushed, dry skin and bradycardia",
       "Altered breathing pattern, accessory muscle use, cyanosis, and inability to speak in complete sentences",
       "Worsening pitting peripheral edema",
       "A sudden decrease in the GCS score to 3"
     ],
-    "correctAnswer": "B",
-    "explanation": "Signs of respiratory distress, hypoxemia, and increased work of breathing are key indicators for initiating oxygen therapy.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Signs of respiratory distress, hypoxemia, and increased work of breathing are key indicators for initiating oxygen therapy."
   },
   {
     "id": "wrh-124",
-    "text": "What is the fundamental goal of supplementary oxygen administration as described by Jevon (2020)?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the fundamental goal of supplementary oxygen administration as described by Jevon (2020)?",
     "options": [
       "To completely eliminate the need for cellular metabolism",
       "To provide an inspired oxygen concentration sufficient to fully saturate available hemoglobin, decreasing the work of breathing and myocardial workload",
       "To increase the rate of renal drug clearance",
       "To convert the patient's respiratory drive from chemical to electrical"
     ],
-    "correctAnswer": "B",
-    "explanation": "Oxygen therapy aims to ensure adequate tissue oxygenation while reducing the cardiovascular and respiratory effort required to maintain it.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Oxygen therapy aims to ensure adequate tissue oxygenation while reducing the cardiovascular and respiratory effort required to maintain it."
   },
   {
     "id": "wrh-125",
-    "text": "When a patient requires high-flow oxygen during an acute emergency resuscitation, what device is used to deliver an inspired oxygen fraction ($FiO_2$) of up to 85% at a flow rate of 15 L/min?",
+    "category": "Women's & Reproductive Health",
+    "question": "When a patient requires high-flow oxygen during an acute emergency resuscitation, what device is used to deliver an inspired oxygen fraction ($FiO_2$) of up to 85% at a flow rate of 15 L/min?",
     "options": [
       "Nasal Cannulae",
       "Simple Face Mask (Hudson Mask)",
       "Non-Rebreather Mask (with reservoir bag)",
       "Venturi Mask"
     ],
-    "correctAnswer": "C",
-    "explanation": "The non-rebreather mask has a reservoir bag and one-way valves that prevent exhaled air from diluting the oxygen, delivering high concentrations in acute crises.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "The non-rebreather mask has a reservoir bag and one-way valves that prevent exhaled air from diluting the oxygen, delivering high concentrations in acute crises."
   },
   {
     "id": "wrh-126",
-    "text": "To administer a precise, fixed concentration of oxygen (e.g., exactly 28% or 35%) to a patient with a hypercapnic respiratory drive, which delivery device should the nurse select?",
+    "category": "Women's & Reproductive Health",
+    "question": "To administer a precise, fixed concentration of oxygen (e.g., exactly 28% or 35%) to a patient with a hypercapnic respiratory drive, which delivery device should the nurse select?",
     "options": [
       "Nasal Cannulae",
       "Non-Rebreather Mask",
       "Venturi Mask",
       "Simple Face Mask"
     ],
-    "correctAnswer": "C",
-    "explanation": "Venturi masks use the Bernoulli principle to mix a specific flow of oxygen with ambient air, delivering a highly accurate, fixed fraction of inspired oxygen ($FiO_2$) regardless of the patient's breathing pattern.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "Venturi masks use the Bernoulli principle to mix a specific flow of oxygen with ambient air, delivering a highly accurate, fixed fraction of inspired oxygen ($FiO_2$) regardless of the patient's breathing pattern."
   },
   {
     "id": "wrh-127",
-    "text": "What is the maximum recommended oxygen flow rate when administering oxygen via standard Nasal Cannulae to prevent mucosal irritation and drying?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the maximum recommended oxygen flow rate when administering oxygen via standard Nasal Cannulae to prevent mucosal irritation and drying?",
     "options": [
       "2 L/min",
       "6 L/min",
       "10 L/min",
       "15 L/min"
     ],
-    "correctAnswer": "B",
-    "explanation": "Nasal cannulae are low-flow devices. Flow rates above 6 L/min are inefficient, uncomfortable, and dry out the nasal passages.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Nasal cannulae are low-flow devices. Flow rates above 6 L/min are inefficient, uncomfortable, and dry out the nasal passages."
   },
   {
     "id": "wrh-128",
-    "text": "When utilizing a Bag-Valve-Mask (BVM) resuscitator in an emergency, what is the correct oxygen flow rate to attach to the flow meter to ensure the reservoir bag fills adequately?",
+    "category": "Women's & Reproductive Health",
+    "question": "When utilizing a Bag-Valve-Mask (BVM) resuscitator in an emergency, what is the correct oxygen flow rate to attach to the flow meter to ensure the reservoir bag fills adequately?",
     "options": [
       "2 to 4 L/min",
       "5 to 8 L/min",
       "10 to 12 L/min",
       "15 L/min"
     ],
-    "correctAnswer": "D",
-    "explanation": "To ensure the reservoir bag remains inflated to deliver 100% oxygen during rescue breathing, the flow meter must be set to 15 L/min.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 3,
+    "explanation": "To ensure the reservoir bag remains inflated to deliver 100% oxygen during rescue breathing, the flow meter must be set to 15 L/min."
   },
   {
     "id": "wrh-129",
-    "text": "What is a key nursing intervention to prevent skin breakdown in a patient who requires continuous nasal cannulae?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is a key nursing intervention to prevent skin breakdown in a patient who requires continuous nasal cannulae?",
     "options": [
       "Applying petroleum jelly inside the nostrils",
       "Checking and padding the skin behind the ears and around the cheeks regularly",
       "Restricting the patient's fluid intake",
       "Removing the oxygen device for 4 hours each shift"
     ],
-    "correctAnswer": "B",
-    "explanation": "The plastic tubing of nasal cannulae or masks can cause pressure injuries behind the ears and over the cheekbones, requiring regular skin inspection and protection.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The plastic tubing of nasal cannulae or masks can cause pressure injuries behind the ears and over the cheekbones, requiring regular skin inspection and protection."
   },
   {
     "id": "wrh-130",
-    "text": "A patient with COPD who is receiving too much oxygen has a rising carbon dioxide level (hypercapnia). What clinical sign should alert the nurse to this complication?",
+    "category": "Women's & Reproductive Health",
+    "question": "A patient with COPD who is receiving too much oxygen has a rising carbon dioxide level (hypercapnia). What clinical sign should alert the nurse to this complication?",
     "options": [
       "Hyper-alertness and rapid speech",
       "Drowsiness, confusion, headache, and a flapping hand tremor (asterixis)",
       "Cold, clammy skin and bradycardia",
       "Sudden development of a pleural rub"
     ],
-    "correctAnswer": "B",
-    "explanation": "Carbon dioxide retention (narcosis) depresses the central nervous system, leading to lethargy, confusion, headache, and tremors.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Carbon dioxide retention (narcosis) depresses the central nervous system, leading to lethargy, confusion, headache, and tremors."
   },
   {
     "id": "wrh-131",
-    "text": "What is the role of the nurse regarding oxygen prescription in an acute ward setting?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the role of the nurse regarding oxygen prescription in an acute ward setting?",
     "options": [
       "The nurse can administer any level of oxygen without a prescription indefinitely.",
       "The nurse must ensure a valid oxygen prescription is documented, showing target saturations, and monitor the patient to keep them within that range.",
       "The nurse should only check oxygen levels once a day.",
       "The nurse must always maintain oxygen saturation at 100%."
     ],
-    "correctAnswer": "B",
-    "explanation": "Except in emergencies, oxygen is a prescribed medication. The nurse's role is to monitor saturations and titrate flow within the prescribed target range.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Except in emergencies, oxygen is a prescribed medication. The nurse's role is to monitor saturations and titrate flow within the prescribed target range."
   },
   {
     "id": "wrh-132",
-    "text": "Which parameter must be checked before placing a humidified oxygen system for a patient?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which parameter must be checked before placing a humidified oxygen system for a patient?",
     "options": [
       "The brand of the oxygen cylinder",
       "The sterile water level and that the connections are tight to prevent infection and leakage",
       "The patient's GNI score",
       "The model of the digital health diary"
     ],
-    "correctAnswer": "B",
-    "explanation": "Humidifiers use sterile water to moisten dry oxygen gas, requiring regular checks to ensure reservoirs are clean and lines are secure.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Humidifiers use sterile water to moisten dry oxygen gas, requiring regular checks to ensure reservoirs are clean and lines are secure."
   },
   {
     "id": "wrh-133",
-    "text": "A patient has a respiratory rate of 30, is using accessory muscles, and has an oxygen saturation of 85% on room air. How should the nurse prioritize this situation?",
+    "category": "Women's & Reproductive Health",
+    "question": "A patient has a respiratory rate of 30, is using accessory muscles, and has an oxygen saturation of 85% on room air. How should the nurse prioritize this situation?",
     "options": [
       "Check the patient's baseline GCS in four hours.",
       "Administer emergency high-flow oxygen via a non-rebreather mask and call for immediate medical escalation.",
       "Document the findings and wait for the routine ward round.",
       "Instruct the patient to perform deep breathing exercises."
     ],
-    "correctAnswer": "B",
-    "explanation": "Severe hypoxemia accompanied by tachypnea is an emergency requiring immediate oxygenation and rapid clinical escalation.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Severe hypoxemia accompanied by tachypnea is an emergency requiring immediate oxygenation and rapid clinical escalation."
   },
   {
     "id": "wrh-134",
-    "text": "Why is smoking strictly prohibited in rooms where oxygen therapy is being administered?",
+    "category": "Women's & Reproductive Health",
+    "question": "Why is smoking strictly prohibited in rooms where oxygen therapy is being administered?",
     "options": [
       "Oxygen is highly explosive when combined with tobacco leaves.",
       "Oxygen is a powerful accelerant that supports rapid combustion, creating a major fire hazard.",
       "Nicotine blocks the absorption of oxygen in the lungs.",
       "Tobacco smoke lowers the volume of distribution of oxygen."
     ],
-    "correctAnswer": "B",
-    "explanation": "While oxygen itself does not burn, it is an oxidizer that causes materials to ignite much more easily and burn far more intensely. Presentation 10: Assessment and Management of Pain",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "While oxygen itself does not burn, it is an oxidizer that causes materials to ignite much more easily and burn far more intensely. Presentation 10: Assessment and Management of Pain"
   },
   {
     "id": "wrh-135",
-    "text": "According to Margo McCaffery\u2019s (1983) landmark nursing definition, \"Pain\" is defined as:",
+    "category": "Women's & Reproductive Health",
+    "question": "According to Margo McCaffery\u2019s (1983) landmark nursing definition, \"Pain\" is defined as:",
     "options": [
       "An objective physiological reaction to tissue damage",
       "Whatever the experiencing person says it is, existing whenever they say it does",
       "A score of 5 or more on a standardized scale",
       "A transient emotional response to surgical trauma"
     ],
-    "correctAnswer": "B",
-    "explanation": "McCaffery's definition is a cornerstone of nursing care, emphasizing the subjective nature of pain and the necessity of believing the patient's self-report.pptx].",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "McCaffery's definition is a cornerstone of nursing care, emphasizing the subjective nature of pain and the necessity of believing the patient's self-report.pptx]."
   },
   {
     "id": "wrh-136",
-    "text": "The International Association for the Study of Pain (IASP, 1986) defines \"Pain\" as:",
+    "category": "Women's & Reproductive Health",
+    "question": "The International Association for the Study of Pain (IASP, 1986) defines \"Pain\" as:",
     "options": [
       "A purely sensory perception that can be measured objectively via vital signs",
       "An unpleasant sensory and emotional experience associated with actual or potential tissue damage",
       "The activation of nociceptors in the peripheral nervous system",
       "A psychological deficit that resolves with environmental reorientation"
     ],
-    "correctAnswer": "B",
-    "explanation": "The IASP definition highlights that pain is multidimensional, involving both a sensory component (nociception) and an emotional/affective response.pptx].",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The IASP definition highlights that pain is multidimensional, involving both a sensory component (nociception) and an emotional/affective response.pptx]."
   },
   {
     "id": "wrh-137",
-    "text": "Which classical neurological theory, proposed by Melzack and Wall (1965), explains how cognitive and sensory inputs can modulate the transmission of pain signals in the spinal cord?",
+    "category": "Women's & Reproductive Health",
+    "question": "Which classical neurological theory, proposed by Melzack and Wall (1965), explains how cognitive and sensory inputs can modulate the transmission of pain signals in the spinal cord?",
     "options": [
       "Orem's Self-Care Agency Theory",
       "The Gate Control Theory",
       "The First-Pass Metabolism Theory",
       "The ABCDE Resuscitation Framework"
     ],
-    "correctAnswer": "B",
-    "explanation": "The Gate Control Theory suggests that a neural \"gate\" in the dorsal horn of the spinal cord can open or close to regulate pain signals, influenced by competing sensory inputs (like rubbing) or cognitive factors.pptx].",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The Gate Control Theory suggests that a neural \"gate\" in the dorsal horn of the spinal cord can open or close to regulate pain signals, influenced by competing sensory inputs (like rubbing) or cognitive factors.pptx]."
   },
   {
     "id": "wrh-138",
-    "text": "How does \"acute pain\" differ from \"chronic pain\" in terms of onset, duration, and physiological purpose?",
+    "category": "Women's & Reproductive Health",
+    "question": "How does \"acute pain\" differ from \"chronic pain\" in terms of onset, duration, and physiological purpose?",
     "options": [
       "Acute pain is chronic pain that has migrated to a different organ.",
       "Acute pain is sudden, short-term, and serves a protective warning purpose; chronic pain lasts beyond the normal healing time ($>3\\text{\u2013}6$ months) and has no adaptive purpose.",
       "Acute pain is purely emotional; chronic pain is purely physical.",
       "Acute pain is managed with non-pharmacological therapies only."
     ],
-    "correctAnswer": "B",
-    "explanation": "Acute pain is a protective mechanism warning of damage, while chronic pain is persistent, often outlasts its biological utility, and becomes a disease state in itself.pptx].",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Acute pain is a protective mechanism warning of damage, while chronic pain is persistent, often outlasts its biological utility, and becomes a disease state in itself.pptx]."
   },
   {
     "id": "wrh-139",
-    "text": "When undertaking a clinical pain assessment, what does the nurse understand about the relationship between a patient's vital signs and their pain experience?",
+    "category": "Women's & Reproductive Health",
+    "question": "When undertaking a clinical pain assessment, what does the nurse understand about the relationship between a patient's vital signs and their pain experience?",
     "options": [
       "Vital signs are highly reliable indicators of chronic pain.",
       "Autonomic compensation (tachycardia, hypertension) can occur in acute pain but is often absent in chronic pain, making self-report the gold standard.",
       "If vital signs are normal, the patient cannot be in pain.",
       "Vital signs always decrease when pain severity increases."
     ],
-    "correctAnswer": "B",
-    "explanation": "The body adapts to chronic pain, stabilizing vital signs. Relying on heart rate or blood pressure to verify pain is a common clinical error; self-report remains the most accurate measure.pptx].",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The body adapts to chronic pain, stabilizing vital signs. Relying on heart rate or blood pressure to verify pain is a common clinical error; self-report remains the most accurate measure.pptx]."
   },
   {
     "id": "wrh-140",
-    "text": "Brennan et al. (2007) suggest that the \"unreasonable failure to treat pain\" should be viewed as:",
+    "category": "Women's & Reproductive Health",
+    "question": "Brennan et al. (2007) suggest that the \"unreasonable failure to treat pain\" should be viewed as:",
     "options": [
       "A standard clinical variation in busy wards",
       "Poor medicine, unethical practice, and an abrogation of fundamental human rights",
       "A necessary step to prevent opioid dependence",
       "An acceptable choice when managing patients with cognitive deficits"
     ],
-    "correctAnswer": "B",
-    "explanation": "Effective pain management is recognized as an ethical obligation and a human right, making inadequate pain control a significant clinical failure.pptx].",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Effective pain management is recognized as an ethical obligation and a human right, making inadequate pain control a significant clinical failure.pptx]."
   },
   {
     "id": "wrh-141",
-    "text": "Approximately how many people in the United Kingdom are estimated to be living with chronic pain, according to epidemiological data (e.g., Fayaz et al., 2016)?",
+    "category": "Women's & Reproductive Health",
+    "question": "Approximately how many people in the United Kingdom are estimated to be living with chronic pain, according to epidemiological data (e.g., Fayaz et al., 2016)?",
     "options": [
       "Under 500,000",
       "Around 5 million",
       "Approximately 28 million",
       "Nearly 90% of the population over age 80"
     ],
-    "correctAnswer": "C",
-    "explanation": "Chronic pain is highly prevalent in the UK, affecting roughly 28 million individuals and representing a massive public health challenge.pptx].",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 2,
+    "explanation": "Chronic pain is highly prevalent in the UK, affecting roughly 28 million individuals and representing a massive public health challenge.pptx]."
   },
   {
     "id": "wrh-142",
-    "text": "When assessing pain in a non-verbal patient, which of the following is considered a reliable behavioral indicator of pain?",
+    "category": "Women's & Reproductive Health",
+    "question": "When assessing pain in a non-verbal patient, which of the following is considered a reliable behavioral indicator of pain?",
     "options": [
       "Normal pupil size and calm breathing",
       "Facial grimacing, moaning, guarding the painful area, and restlessness",
       "Patient sleeping peacefully throughout the assessment",
       "A reduction in heart rate to 60 bpm"
     ],
-    "correctAnswer": "B",
-    "explanation": "When patients cannot self-report, clinicians must observe non-verbal behaviors (such as muscle tension, vocalizations, and facial expressions) to detect distress.pptx].",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "When patients cannot self-report, clinicians must observe non-verbal behaviors (such as muscle tension, vocalizations, and facial expressions) to detect distress.pptx]."
   },
   {
     "id": "wrh-143",
-    "text": "According to literature on clinical pain management, a major barrier to effective pain control in hospital settings is:",
+    "category": "Women's & Reproductive Health",
+    "question": "According to literature on clinical pain management, a major barrier to effective pain control in hospital settings is:",
     "options": [
       "Having too many analgesic options available",
       "Inadequate clinical assessment, fear of opioid addiction, and staff underestimation of pain",
       "Patient demand for non-pharmacological therapies",
       "Standardizing pain scales across wards"
     ],
-    "correctAnswer": "B",
-    "explanation": "Misconceptions about addiction, poor assessment skills, and subjective bias among clinicians often lead to undertreatment of pain.pptx].",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Misconceptions about addiction, poor assessment skills, and subjective bias among clinicians often lead to undertreatment of pain.pptx]."
   },
   {
     "id": "wrh-144",
-    "text": "When using the Gate Control Theory to justify clinical comfort measures, which intervention works by stimulating large, fast non-nociceptive (sensory) nerve fibers to \"close the gate\"?",
+    "category": "Women's & Reproductive Health",
+    "question": "When using the Gate Control Theory to justify clinical comfort measures, which intervention works by stimulating large, fast non-nociceptive (sensory) nerve fibers to \"close the gate\"?",
     "options": [
       "Intravenous morphine administration",
       "Transcutaneous Electrical Nerve Stimulation (TENS), massage, or heat application",
       "Teaching the patient about first-pass metabolism",
       "Placing the patient on a high dependency care plan"
     ],
-    "correctAnswer": "B",
-    "explanation": "TENS and massage activate tactile sensory fibers ($A$-beta), which block the transmission of pain signals ($A$-delta and $C$ fibers) at the spinal gate.pptx].",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "TENS and massage activate tactile sensory fibers ($A$-beta), which block the transmission of pain signals ($A$-delta and $C$ fibers) at the spinal gate.pptx]."
   },
   {
     "id": "wrh-145",
-    "text": "A nurse is managing a patient with severe chronic pain. The patient has been taking opioids for months and requires a higher dose to achieve the same level of pain relief. The nurse recognizes this as:",
+    "category": "Women's & Reproductive Health",
+    "question": "A nurse is managing a patient with severe chronic pain. The patient has been taking opioids for months and requires a higher dose to achieve the same level of pain relief. The nurse recognizes this as:",
     "options": [
       "Addiction (Psychological dependence)",
       "Tolerance",
       "Non-compliance",
       "Type B idiosyncratic reaction"
     ],
-    "correctAnswer": "B",
-    "explanation": "Tolerance is a normal physiological adaptation where exposure to a drug over time results in a diminished response, requiring dose adjustment.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Tolerance is a normal physiological adaptation where exposure to a drug over time results in a diminished response, requiring dose adjustment."
   },
   {
     "id": "wrh-146",
-    "text": "Under the WHO Analgesic Ladder, what is the recommended starting class of medications for a patient presenting with mild acute pain (pain score 1\u20133)?",
+    "category": "Women's & Reproductive Health",
+    "question": "Under the WHO Analgesic Ladder, what is the recommended starting class of medications for a patient presenting with mild acute pain (pain score 1\u20133)?",
     "options": [
       "Strong opioids (e.g., Morphine)",
       "Non-opioids (e.g., Paracetamol or NSAIDs)",
       "Weak opioids (e.g., Codeine)",
       "Nerve blocks and epidurals"
     ],
-    "correctAnswer": "B",
-    "explanation": "The WHO ladder starts with non-opioids for mild pain, escalating to weak and then strong opioids as pain severity increases.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "The WHO ladder starts with non-opioids for mild pain, escalating to weak and then strong opioids as pain severity increases."
   },
   {
     "id": "wrh-147",
-    "text": "What is the clinical benefit of using a multi-modal (combination) approach to pain management?",
+    "category": "Women's & Reproductive Health",
+    "question": "What is the clinical benefit of using a multi-modal (combination) approach to pain management?",
     "options": [
       "It eliminates the need for any nursing assessment.",
       "It combines drugs with different mechanisms of action to improve pain control while minimizing the side effects of any single drug.",
       "It allows the patient to select their own medications.",
       "It bypasses first-pass hepatic metabolism completely."
     ],
-    "correctAnswer": "B",
-    "explanation": "Combining different classes (such as paracetamol, NSAIDs, and low-dose opioids) targets different pain pathways, providing optimal relief with lower individual drug doses.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Combining different classes (such as paracetamol, NSAIDs, and low-dose opioids) targets different pain pathways, providing optimal relief with lower individual drug doses."
   },
   {
     "id": "wrh-148",
-    "text": "Why is it clinically important to reassess a patient's pain level within a specified timeframe after administering an analgesic?",
+    "category": "Women's & Reproductive Health",
+    "question": "Why is it clinically important to reassess a patient's pain level within a specified timeframe after administering an analgesic?",
     "options": [
       "To satisfy administrative record audits for ward funding.",
       "To evaluate the effectiveness of the intervention and monitor for adverse effects (such as respiratory depression).",
       "To verify if the patient's legal capacity status has changed.",
       "To ensure the patient does not request further meals."
     ],
-    "correctAnswer": "B",
-    "explanation": "Pain management is an iterative process; post-administration reassessment ensures the treatment is working and safe.",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Pain management is an iterative process; post-administration reassessment ensures the treatment is working and safe."
   },
   {
     "id": "wrh-149",
-    "text": "A patient with a history of substance use disorder is admitted with acute post-operative pain. How should the nurse manage this patient's pain?",
+    "category": "Women's & Reproductive Health",
+    "question": "A patient with a history of substance use disorder is admitted with acute post-operative pain. How should the nurse manage this patient's pain?",
     "options": [
       "Avoid administering any opioid medications to prevent relapse.",
       "Deliver compassionate, effective pain control, using a multimodal plan and collaborating with pain specialists, without undertreating the acute pain.",
       "Rely entirely on non-pharmacological therapies.",
       "Discharge the patient immediately to primary care."
     ],
-    "correctAnswer": "B",
-    "explanation": "Patients with substance use disorders have the same right to effective pain management. Acute pain must be treated, requiring close monitoring and specialist coordination.pptx].",
-    "subject": "Women's & Reproductive Health"
+    "correctAnswer": 1,
+    "explanation": "Patients with substance use disorders have the same right to effective pain management. Acute pain must be treated, requiring close monitoring and specialist coordination.pptx]."
   }
 ]

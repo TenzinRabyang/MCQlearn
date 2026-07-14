@@ -106,53 +106,57 @@ export default function ResultsPage() {
       <div className="space-y-4">
         <h2 className="text-lg font-bold px-2">Detailed Breakdown</h2>
         <div className="space-y-3">
-          {latestResult.incorrectIds.length > 0 ? (
-            latestResult.incorrectIds.map(id => {
-              const q = allQuestions.find(q => q.id === id);
-              if (!q) return null;
-              
-              const isExpanded = expandedId === id;
-              
-              return (
-                <div key={id} className="card overflow-hidden transition-all">
-                  <button 
-                    onClick={() => setExpandedId(isExpanded ? null : id)}
-                    className="w-full text-left p-4 sm:p-5 flex items-start justify-between hover:bg-slate-50 dark:hover:bg-slate-800/50"
-                  >
-                    <div className="flex items-start pr-4">
-                      <XCircle className="w-5 h-5 text-red-500 mt-0.5 mr-3 flex-shrink-0" />
-                      <div>
-                        <p className="font-medium line-clamp-2">{q.question}</p>
-                        <p className="text-sm text-[var(--text-muted)] mt-1">{q.category}</p>
-                      </div>
-                    </div>
-                    {isExpanded ? <ChevronUp className="w-5 h-5 text-slate-400 flex-shrink-0" /> : <ChevronDown className="w-5 h-5 text-slate-400 flex-shrink-0" />}
-                  </button>
-                  
-                  {isExpanded && (
-                    <div className="p-4 sm:p-5 border-t border-[var(--border-color)] bg-slate-50 dark:bg-slate-800/30">
-                      <div className="mb-4">
-                        <span className="text-xs font-semibold uppercase text-green-600 dark:text-green-400 mb-1 block">Correct Answer</span>
-                        <p className="bg-green-100/50 dark:bg-green-900/20 text-green-900 dark:text-green-100 p-3 rounded-lg border border-green-200 dark:border-green-900/50">
-                          {q.options[q.correctAnswer]}
-                        </p>
-                      </div>
-                      <div>
-                        <span className="text-xs font-semibold uppercase text-[var(--text-muted)] mb-1 block">Explanation</span>
-                        <p className="text-sm leading-relaxed">{q.explanation}</p>
-                      </div>
-                    </div>
-                  )}
-                </div>
-              )
-            })
-          ) : (
+          {(!latestResult.questionIds && latestResult.incorrectIds.length === 0) ? (
             <div className="card p-8 text-center flex flex-col items-center">
               <CheckCircle2 className="w-12 h-12 text-green-500 mb-3" />
               <h3 className="font-bold text-lg mb-1">Perfect Score!</h3>
               <p className="text-[var(--text-muted)]">You didn't get any questions wrong.</p>
             </div>
-          )}
+          ) : (
+            (latestResult.questionIds ? latestResult.questionIds : latestResult.incorrectIds).map(id => {
+              const q = allQuestions.find(q => q.id === id);
+              if (!q) return null;
+            
+            const isExpanded = expandedId === id;
+            const isIncorrect = latestResult.incorrectIds.includes(id);
+            
+            return (
+              <div key={id} className={`card overflow-hidden transition-all border ${isIncorrect ? 'border-red-100 dark:border-red-900/30' : 'border-green-100 dark:border-green-900/30'}`}>
+                <button 
+                  onClick={() => setExpandedId(isExpanded ? null : id)}
+                  className="w-full text-left p-4 sm:p-5 flex items-start justify-between hover:bg-slate-50 dark:hover:bg-slate-800/50"
+                >
+                  <div className="flex items-start pr-4">
+                    {isIncorrect ? (
+                      <XCircle className="w-5 h-5 text-red-500 mt-0.5 mr-3 flex-shrink-0" />
+                    ) : (
+                      <CheckCircle2 className="w-5 h-5 text-green-500 mt-0.5 mr-3 flex-shrink-0" />
+                    )}
+                    <div>
+                      <p className="font-medium line-clamp-2">{q.question}</p>
+                      <p className="text-sm text-[var(--text-muted)] mt-1">{q.category}</p>
+                    </div>
+                  </div>
+                  {isExpanded ? <ChevronUp className="w-5 h-5 text-slate-400 flex-shrink-0" /> : <ChevronDown className="w-5 h-5 text-slate-400 flex-shrink-0" />}
+                </button>
+                
+                {isExpanded && (
+                  <div className="p-4 sm:p-5 border-t border-[var(--border-color)] bg-slate-50 dark:bg-slate-800/30">
+                    <div className="mb-4">
+                      <span className="text-xs font-semibold uppercase text-green-600 dark:text-green-400 mb-1 block">Correct Answer</span>
+                      <p className="bg-green-100/50 dark:bg-green-900/20 text-green-900 dark:text-green-100 p-3 rounded-lg border border-green-200 dark:border-green-900/50">
+                        {q.options[q.correctAnswer]}
+                      </p>
+                    </div>
+                    <div>
+                      <span className="text-xs font-semibold uppercase text-[var(--text-muted)] mb-1 block">Explanation</span>
+                      <p className="text-sm leading-relaxed">{q.explanation}</p>
+                    </div>
+                  </div>
+                )}
+              </div>
+            )
+          }))}
         </div>
       </div>
     </div>

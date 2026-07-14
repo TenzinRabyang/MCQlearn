@@ -114,6 +114,7 @@ export const useQuizStore = create<QuizState>()(
           mode: state.mode,
           category: state.currentCategory,
           incorrectIds,
+          questionIds: state.questions.map(q => q.id),
           timeTakenSeconds: state.timeSpent
         };
         

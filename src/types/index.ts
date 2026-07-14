@@ -15,6 +15,7 @@ export interface QuizHistoryEntry {
   mode: string; // e.g., 'Full Quiz', 'Category Practice', 'Review Bookmarked', 'Review Mistakes'
   category?: string;
   incorrectIds: string[];
+  questionIds?: string[]; // IDs of all questions in this session
   timeTakenSeconds: number;
 }
 
